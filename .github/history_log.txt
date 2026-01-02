@@ -1,0 +1,2 @@
+# NMLL Studio Development History Log (Jan 1 - Aug 8 2026)
+[2026-01-02T21:49:17] Commit #1: perf(copilot): reduce latency on server-side Gemini AI response stream (#1)
