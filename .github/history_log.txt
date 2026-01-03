@@ -29,3 +29,4 @@
 [2026-01-03T18:41:56] Commit #28: fix(telemetry): resolve async log buffering in terminal console (#28)
 [2026-01-03T22:38:15] Commit #29: chore(engine): update runtime telemetry and workspace state persistence (#29)
 [2026-01-03T22:54:47] Commit #30: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#30)
+[2026-01-03T13:19:26] Commit #31: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#31)
