@@ -34,3 +34,4 @@
 [2026-01-03T12:42:08] Commit #33: feat(studio): optimize reactive workspace state management (#33)
 [2026-01-03T18:12:56] Commit #34: docs(readme): update system deployment specs and Vercel serverless guide (#34)
 [2026-01-03T13:09:40] Commit #35: feat(studio): optimize reactive workspace state management (#35)
+[2026-01-03T15:18:17] Commit #36: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#36)
