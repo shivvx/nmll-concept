@@ -43,3 +43,4 @@
 [2026-01-03T17:56:51] Commit #42: feat(studio): optimize reactive workspace state management (#42)
 [2026-01-03T10:58:42] Commit #43: perf(copilot): reduce latency on server-side Gemini AI response stream (#43)
 [2026-01-03T10:19:14] Commit #44: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#44)
+[2026-01-03T21:20:17] Commit #45: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#45)
