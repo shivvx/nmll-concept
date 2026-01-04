@@ -56,3 +56,4 @@
 [2026-01-04T22:57:25] Commit #55: style(sidebar): tune navigation iconography and active tab indicator glow (#55)
 [2026-01-04T21:35:46] Commit #56: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#56)
 [2026-01-04T11:58:57] Commit #57: feat(studio): optimize reactive workspace state management (#57)
+[2026-01-04T10:04:37] Commit #58: style(theme): polish dark mode cybernetic neon accents and border glow (#58)
