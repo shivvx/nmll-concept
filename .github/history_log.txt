@@ -84,3 +84,4 @@
 [2026-01-07T20:15:08] Commit #83: fix(telemetry): resolve async log buffering in terminal console (#83)
 [2026-01-07T14:29:20] Commit #84: chore(engine): update runtime telemetry and workspace state persistence (#84)
 [2026-01-07T17:52:05] Commit #85: chore(engine): update runtime telemetry and workspace state persistence (#85)
+[2026-01-07T23:46:44] Commit #86: docs(readme): update system deployment specs and Vercel serverless guide (#86)
