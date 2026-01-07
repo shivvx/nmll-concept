@@ -78,3 +78,4 @@
 [2026-01-07T13:40:43] Commit #77: docs(readme): update system deployment specs and Vercel serverless guide (#77)
 [2026-01-07T21:21:06] Commit #78: perf(metrics): enhance epoch loss tracking convergence visualization (#78)
 [2026-01-07T19:47:28] Commit #79: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#79)
+[2026-01-07T21:23:37] Commit #80: style(theme): polish dark mode cybernetic neon accents and border glow (#80)
