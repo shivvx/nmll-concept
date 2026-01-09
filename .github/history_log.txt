@@ -113,3 +113,4 @@
 [2026-01-09T20:26:22] Commit #112: feat(studio): optimize reactive workspace state management (#112)
 [2026-01-09T11:47:09] Commit #113: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#113)
 [2026-01-09T19:08:02] Commit #114: docs(architecture): update component specifications and interface contracts (#114)
+[2026-01-09T17:14:23] Commit #115: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#115)
