@@ -118,3 +118,4 @@
 [2026-01-09T14:23:07] Commit #117: perf(copilot): reduce latency on server-side Gemini AI response stream (#117)
 [2026-01-09T15:16:36] Commit #118: fix(telemetry): resolve async log buffering in terminal console (#118)
 [2026-01-09T22:27:12] Commit #119: feat(studio): optimize reactive workspace state management (#119)
+[2026-01-09T20:18:38] Commit #120: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#120)
