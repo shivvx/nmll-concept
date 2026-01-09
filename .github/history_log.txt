@@ -96,3 +96,4 @@
 [2026-01-09T21:38:12] Commit #95: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#95)
 [2026-01-09T23:50:55] Commit #96: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#96)
 [2026-01-09T14:35:58] Commit #97: fix(telemetry): resolve async log buffering in terminal console (#97)
+[2026-01-09T22:15:17] Commit #98: style(theme): polish dark mode cybernetic neon accents and border glow (#98)
