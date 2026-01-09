@@ -106,3 +106,4 @@
 [2026-01-09T19:45:01] Commit #105: style(theme): polish dark mode cybernetic neon accents and border glow (#105)
 [2026-01-09T18:45:01] Commit #106: refactor(pipeline): streamline visual DAG node execution engine (#106)
 [2026-01-09T13:02:19] Commit #107: docs(readme): update system deployment specs and Vercel serverless guide (#107)
+[2026-01-09T09:33:31] Commit #108: perf(copilot): reduce latency on server-side Gemini AI response stream (#108)
