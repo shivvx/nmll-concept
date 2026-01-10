@@ -147,3 +147,4 @@
 [2026-01-10T22:46:02] Commit #146: fix(telemetry): resolve async log buffering in terminal console (#146)
 [2026-01-10T20:08:23] Commit #147: chore(engine): update runtime telemetry and workspace state persistence (#147)
 [2026-01-10T11:41:30] Commit #148: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#148)
+[2026-01-10T09:12:05] Commit #149: style(theme): polish dark mode cybernetic neon accents and border glow (#149)
