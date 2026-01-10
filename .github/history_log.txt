@@ -133,3 +133,4 @@
 [2026-01-10T19:39:33] Commit #132: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#132)
 [2026-01-10T13:12:49] Commit #133: perf(metrics): enhance epoch loss tracking convergence visualization (#133)
 [2026-01-10T10:47:30] Commit #134: chore(engine): update runtime telemetry and workspace state persistence (#134)
+[2026-01-10T14:50:57] Commit #135: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#135)
