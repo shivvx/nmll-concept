@@ -162,3 +162,4 @@
 [2026-01-11T16:20:49] Commit #161: style(theme): polish dark mode cybernetic neon accents and border glow (#161)
 [2026-01-11T14:42:46] Commit #162: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#162)
 [2026-01-11T11:59:29] Commit #163: style(sidebar): tune navigation iconography and active tab indicator glow (#163)
+[2026-01-11T17:13:43] Commit #164: docs(readme): update system deployment specs and Vercel serverless guide (#164)
