@@ -171,3 +171,4 @@
 [2026-01-11T20:21:05] Commit #170: feat(studio): optimize reactive workspace state management (#170)
 [2026-01-11T23:44:45] Commit #171: chore(engine): update runtime telemetry and workspace state persistence (#171)
 [2026-01-11T14:15:59] Commit #172: perf(copilot): reduce latency on server-side Gemini AI response stream (#172)
+[2026-01-11T14:54:59] Commit #173: fix(telemetry): resolve async log buffering in terminal console (#173)
