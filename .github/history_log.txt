@@ -151,3 +151,4 @@
 [2026-01-10T20:07:19] Commit #150: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#150)
 [2026-01-10T12:47:53] Commit #151: refactor(pipeline): streamline visual DAG node execution engine (#151)
 [2026-01-10T16:36:02] Commit #152: style(theme): polish dark mode cybernetic neon accents and border glow (#152)
+[2026-01-11T17:31:36] Commit #153: docs(readme): update system deployment specs and Vercel serverless guide (#153)
