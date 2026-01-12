@@ -185,3 +185,4 @@
 [2026-01-12T16:32:48] Commit #184: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#184)
 [2026-01-12T23:25:07] Commit #185: feat(studio): optimize reactive workspace state management (#185)
 [2026-01-12T13:10:38] Commit #186: perf(copilot): reduce latency on server-side Gemini AI response stream (#186)
+[2026-01-12T18:43:52] Commit #187: style(theme): polish dark mode cybernetic neon accents and border glow (#187)
