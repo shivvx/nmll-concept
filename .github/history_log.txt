@@ -243,3 +243,4 @@
 [2026-01-14T15:48:34] Commit #242: style(sidebar): tune navigation iconography and active tab indicator glow (#242)
 [2026-01-14T14:47:38] Commit #243: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#243)
 [2026-01-14T11:15:47] Commit #244: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#244)
+[2026-01-14T12:03:40] Commit #245: docs(readme): update system deployment specs and Vercel serverless guide (#245)
