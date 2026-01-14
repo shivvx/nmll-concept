@@ -234,3 +234,4 @@
 [2026-01-14T17:52:27] Commit #233: refactor(pipeline): streamline visual DAG node execution engine (#233)
 [2026-01-14T13:01:09] Commit #234: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#234)
 [2026-01-14T21:08:41] Commit #235: refactor(pipeline): streamline visual DAG node execution engine (#235)
+[2026-01-14T19:32:20] Commit #236: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#236)
