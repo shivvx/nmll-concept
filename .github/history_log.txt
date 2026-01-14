@@ -232,3 +232,4 @@
 [2026-01-14T16:45:05] Commit #231: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#231)
 [2026-01-14T17:30:54] Commit #232: refactor(pipeline): streamline visual DAG node execution engine (#232)
 [2026-01-14T17:52:27] Commit #233: refactor(pipeline): streamline visual DAG node execution engine (#233)
+[2026-01-14T13:01:09] Commit #234: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#234)
