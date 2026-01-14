@@ -241,3 +241,4 @@
 [2026-01-14T16:44:34] Commit #240: perf(copilot): reduce latency on server-side Gemini AI response stream (#240)
 [2026-01-14T09:48:39] Commit #241: perf(copilot): reduce latency on server-side Gemini AI response stream (#241)
 [2026-01-14T15:48:34] Commit #242: style(sidebar): tune navigation iconography and active tab indicator glow (#242)
+[2026-01-14T14:47:38] Commit #243: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#243)
