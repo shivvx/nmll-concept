@@ -271,3 +271,4 @@
 [2026-01-15T16:54:12] Commit #270: feat(studio): optimize reactive workspace state management (#270)
 [2026-01-15T15:06:18] Commit #271: docs(architecture): update component specifications and interface contracts (#271)
 [2026-01-16T19:53:47] Commit #272: refactor(pipeline): streamline visual DAG node execution engine (#272)
+[2026-01-16T12:16:33] Commit #273: fix(telemetry): resolve async log buffering in terminal console (#273)
