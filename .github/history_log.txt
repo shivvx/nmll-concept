@@ -287,3 +287,4 @@
 [2026-01-16T18:44:00] Commit #286: style(sidebar): tune navigation iconography and active tab indicator glow (#286)
 [2026-01-16T13:22:14] Commit #287: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#287)
 [2026-01-16T13:04:42] Commit #288: perf(metrics): enhance epoch loss tracking convergence visualization (#288)
+[2026-01-16T14:07:39] Commit #289: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#289)
