@@ -285,3 +285,4 @@
 [2026-01-16T10:39:55] Commit #284: perf(copilot): reduce latency on server-side Gemini AI response stream (#284)
 [2026-01-16T16:11:13] Commit #285: perf(copilot): reduce latency on server-side Gemini AI response stream (#285)
 [2026-01-16T18:44:00] Commit #286: style(sidebar): tune navigation iconography and active tab indicator glow (#286)
+[2026-01-16T13:22:14] Commit #287: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#287)
