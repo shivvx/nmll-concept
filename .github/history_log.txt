@@ -315,3 +315,4 @@
 [2026-01-17T21:28:40] Commit #314: docs(architecture): update component specifications and interface contracts (#314)
 [2026-01-17T09:52:11] Commit #315: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#315)
 [2026-01-17T17:07:06] Commit #316: docs(readme): update system deployment specs and Vercel serverless guide (#316)
+[2026-01-17T18:03:16] Commit #317: feat(studio): optimize reactive workspace state management (#317)
