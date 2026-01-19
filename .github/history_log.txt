@@ -358,3 +358,4 @@
 [2026-01-19T10:47:16] Commit #357: style(theme): polish dark mode cybernetic neon accents and border glow (#357)
 [2026-01-19T11:37:58] Commit #358: feat(studio): optimize reactive workspace state management (#358)
 [2026-01-19T20:53:31] Commit #359: chore(engine): update runtime telemetry and workspace state persistence (#359)
+[2026-01-19T14:19:53] Commit #360: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#360)
