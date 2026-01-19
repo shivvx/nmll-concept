@@ -341,3 +341,4 @@
 [2026-01-18T21:15:15] Commit #340: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#340)
 [2026-01-18T16:28:59] Commit #341: fix(telemetry): resolve async log buffering in terminal console (#341)
 [2026-01-18T12:03:29] Commit #342: style(sidebar): tune navigation iconography and active tab indicator glow (#342)
+[2026-01-19T15:31:50] Commit #343: docs(readme): update system deployment specs and Vercel serverless guide (#343)
