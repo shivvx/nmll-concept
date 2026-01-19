@@ -348,3 +348,4 @@
 [2026-01-19T11:30:59] Commit #347: style(sidebar): tune navigation iconography and active tab indicator glow (#347)
 [2026-01-19T11:33:16] Commit #348: perf(copilot): reduce latency on server-side Gemini AI response stream (#348)
 [2026-01-19T18:03:52] Commit #349: perf(metrics): enhance epoch loss tracking convergence visualization (#349)
+[2026-01-19T20:40:33] Commit #350: fix(telemetry): resolve async log buffering in terminal console (#350)
