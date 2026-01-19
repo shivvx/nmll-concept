@@ -345,3 +345,4 @@
 [2026-01-19T22:45:32] Commit #344: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#344)
 [2026-01-19T20:01:41] Commit #345: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#345)
 [2026-01-19T20:56:59] Commit #346: fix(telemetry): resolve async log buffering in terminal console (#346)
+[2026-01-19T11:30:59] Commit #347: style(sidebar): tune navigation iconography and active tab indicator glow (#347)
