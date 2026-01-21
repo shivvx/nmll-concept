@@ -364,3 +364,4 @@
 [2026-01-19T18:18:40] Commit #363: perf(copilot): reduce latency on server-side Gemini AI response stream (#363)
 [2026-01-21T14:04:38] Commit #364: docs(readme): update system deployment specs and Vercel serverless guide (#364)
 [2026-01-21T11:44:37] Commit #365: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#365)
+[2026-01-21T19:17:39] Commit #366: fix(telemetry): resolve async log buffering in terminal console (#366)
