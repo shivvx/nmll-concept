@@ -372,3 +372,4 @@
 [2026-01-21T13:01:31] Commit #371: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#371)
 [2026-01-21T15:13:44] Commit #372: feat(studio): optimize reactive workspace state management (#372)
 [2026-01-21T18:11:48] Commit #373: refactor(pipeline): streamline visual DAG node execution engine (#373)
+[2026-01-21T14:58:39] Commit #374: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#374)
