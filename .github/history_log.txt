@@ -391,3 +391,4 @@
 [2026-01-21T20:42:47] Commit #390: style(sidebar): tune navigation iconography and active tab indicator glow (#390)
 [2026-01-21T16:09:47] Commit #391: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#391)
 [2026-01-21T18:04:06] Commit #392: feat(studio): optimize reactive workspace state management (#392)
+[2026-01-21T23:07:58] Commit #393: style(theme): polish dark mode cybernetic neon accents and border glow (#393)
