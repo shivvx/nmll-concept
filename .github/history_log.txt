@@ -407,3 +407,4 @@
 [2026-01-23T17:12:04] Commit #406: style(theme): polish dark mode cybernetic neon accents and border glow (#406)
 [2026-01-23T22:13:11] Commit #407: chore(engine): update runtime telemetry and workspace state persistence (#407)
 [2026-01-23T18:13:03] Commit #408: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#408)
+[2026-01-23T13:08:16] Commit #409: docs(readme): update system deployment specs and Vercel serverless guide (#409)
