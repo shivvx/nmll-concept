@@ -394,3 +394,4 @@
 [2026-01-21T23:07:58] Commit #393: style(theme): polish dark mode cybernetic neon accents and border glow (#393)
 [2026-01-23T19:12:26] Commit #394: docs(architecture): update component specifications and interface contracts (#394)
 [2026-01-23T10:01:09] Commit #395: docs(architecture): update component specifications and interface contracts (#395)
+[2026-01-23T20:25:47] Commit #396: fix(telemetry): resolve async log buffering in terminal console (#396)
