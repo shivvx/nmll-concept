@@ -424,3 +424,4 @@
 [2026-01-26T13:12:02] Commit #423: perf(copilot): reduce latency on server-side Gemini AI response stream (#423)
 [2026-01-26T09:46:40] Commit #424: perf(copilot): reduce latency on server-side Gemini AI response stream (#424)
 [2026-01-26T19:01:58] Commit #425: feat(studio): optimize reactive workspace state management (#425)
+[2026-01-26T12:19:20] Commit #426: style(sidebar): tune navigation iconography and active tab indicator glow (#426)
