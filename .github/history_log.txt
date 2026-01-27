@@ -447,3 +447,4 @@
 [2026-01-27T11:56:42] Commit #446: perf(copilot): reduce latency on server-side Gemini AI response stream (#446)
 [2026-01-27T15:00:36] Commit #447: refactor(pipeline): streamline visual DAG node execution engine (#447)
 [2026-01-27T12:37:26] Commit #448: perf(copilot): reduce latency on server-side Gemini AI response stream (#448)
+[2026-01-27T19:23:16] Commit #449: style(theme): polish dark mode cybernetic neon accents and border glow (#449)
