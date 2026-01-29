@@ -489,3 +489,4 @@
 [2026-01-29T10:08:39] Commit #488: chore(engine): update runtime telemetry and workspace state persistence (#488)
 [2026-01-29T11:50:39] Commit #489: perf(copilot): reduce latency on server-side Gemini AI response stream (#489)
 [2026-01-29T12:15:40] Commit #490: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#490)
+[2026-01-29T19:18:12] Commit #491: docs(architecture): update component specifications and interface contracts (#491)
