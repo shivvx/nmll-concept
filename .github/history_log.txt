@@ -508,3 +508,4 @@
 [2026-01-29T11:18:59] Commit #507: refactor(pipeline): streamline visual DAG node execution engine (#507)
 [2026-01-29T18:53:55] Commit #508: style(sidebar): tune navigation iconography and active tab indicator glow (#508)
 [2026-01-29T15:16:06] Commit #509: docs(readme): update system deployment specs and Vercel serverless guide (#509)
+[2026-01-29T09:14:07] Commit #510: chore(engine): update runtime telemetry and workspace state persistence (#510)
