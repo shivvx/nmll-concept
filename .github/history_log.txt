@@ -492,3 +492,4 @@
 [2026-01-29T19:18:12] Commit #491: docs(architecture): update component specifications and interface contracts (#491)
 [2026-01-29T23:26:26] Commit #492: refactor(pipeline): streamline visual DAG node execution engine (#492)
 [2026-01-29T19:38:21] Commit #493: chore(engine): update runtime telemetry and workspace state persistence (#493)
+[2026-01-29T11:07:17] Commit #494: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#494)
