@@ -520,3 +520,4 @@
 [2026-01-31T18:19:58] Commit #519: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#519)
 [2026-01-31T23:54:20] Commit #520: docs(readme): update system deployment specs and Vercel serverless guide (#520)
 [2026-01-31T22:02:46] Commit #521: perf(copilot): reduce latency on server-side Gemini AI response stream (#521)
+[2026-01-31T23:26:26] Commit #522: style(theme): polish dark mode cybernetic neon accents and border glow (#522)
