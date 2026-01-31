@@ -518,3 +518,4 @@
 [2026-01-31T23:21:08] Commit #517: refactor(pipeline): streamline visual DAG node execution engine (#517)
 [2026-01-31T23:16:38] Commit #518: perf(metrics): enhance epoch loss tracking convergence visualization (#518)
 [2026-01-31T18:19:58] Commit #519: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#519)
+[2026-01-31T23:54:20] Commit #520: docs(readme): update system deployment specs and Vercel serverless guide (#520)
