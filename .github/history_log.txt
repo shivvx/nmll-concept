@@ -523,3 +523,4 @@
 [2026-01-31T23:26:26] Commit #522: style(theme): polish dark mode cybernetic neon accents and border glow (#522)
 [2026-01-31T10:17:11] Commit #523: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#523)
 [2026-01-31T21:48:07] Commit #524: feat(studio): optimize reactive workspace state management (#524)
+[2026-01-31T14:06:46] Commit #525: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#525)
