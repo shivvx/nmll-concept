@@ -566,3 +566,4 @@
 [2026-02-02T10:16:39] Commit #565: style(sidebar): tune navigation iconography and active tab indicator glow (#565)
 [2026-02-02T09:29:27] Commit #566: perf(metrics): enhance epoch loss tracking convergence visualization (#566)
 [2026-02-02T10:42:52] Commit #567: fix(telemetry): resolve async log buffering in terminal console (#567)
+[2026-02-02T14:14:15] Commit #568: feat(studio): optimize reactive workspace state management (#568)
