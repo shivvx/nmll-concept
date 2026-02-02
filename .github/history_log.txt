@@ -559,3 +559,4 @@
 [2026-02-02T15:56:02] Commit #558: feat(studio): optimize reactive workspace state management (#558)
 [2026-02-02T12:41:36] Commit #559: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#559)
 [2026-02-02T19:12:16] Commit #560: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#560)
+[2026-02-02T15:31:01] Commit #561: style(theme): polish dark mode cybernetic neon accents and border glow (#561)
