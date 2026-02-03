@@ -571,3 +571,4 @@
 [2026-02-03T23:24:54] Commit #570: chore(engine): update runtime telemetry and workspace state persistence (#570)
 [2026-02-03T17:36:32] Commit #571: perf(metrics): enhance epoch loss tracking convergence visualization (#571)
 [2026-02-03T15:03:27] Commit #572: style(theme): polish dark mode cybernetic neon accents and border glow (#572)
+[2026-02-03T16:00:00] Commit #573: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#573)
