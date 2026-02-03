@@ -585,3 +585,4 @@
 [2026-02-03T21:13:03] Commit #584: chore(engine): update runtime telemetry and workspace state persistence (#584)
 [2026-02-03T18:26:34] Commit #585: docs(readme): update system deployment specs and Vercel serverless guide (#585)
 [2026-02-03T15:16:03] Commit #586: docs(architecture): update component specifications and interface contracts (#586)
+[2026-02-03T20:33:52] Commit #587: style(theme): polish dark mode cybernetic neon accents and border glow (#587)
