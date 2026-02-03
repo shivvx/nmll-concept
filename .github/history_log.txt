@@ -580,3 +580,4 @@
 [2026-02-03T13:31:58] Commit #579: fix(telemetry): resolve async log buffering in terminal console (#579)
 [2026-02-03T18:39:53] Commit #580: chore(engine): update runtime telemetry and workspace state persistence (#580)
 [2026-02-03T09:28:51] Commit #581: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#581)
+[2026-02-03T19:02:17] Commit #582: feat(studio): optimize reactive workspace state management (#582)
