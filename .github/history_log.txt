@@ -587,3 +587,4 @@
 [2026-02-03T15:16:03] Commit #586: docs(architecture): update component specifications and interface contracts (#586)
 [2026-02-03T20:33:52] Commit #587: style(theme): polish dark mode cybernetic neon accents and border glow (#587)
 [2026-02-03T16:08:25] Commit #588: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#588)
+[2026-02-03T23:34:05] Commit #589: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#589)
