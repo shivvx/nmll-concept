@@ -599,3 +599,4 @@
 [2026-02-05T21:26:40] Commit #598: docs(architecture): update component specifications and interface contracts (#598)
 [2026-02-05T10:07:28] Commit #599: docs(architecture): update component specifications and interface contracts (#599)
 [2026-02-05T19:47:31] Commit #600: refactor(pipeline): streamline visual DAG node execution engine (#600)
+[2026-02-05T22:15:49] Commit #601: style(theme): polish dark mode cybernetic neon accents and border glow (#601)
