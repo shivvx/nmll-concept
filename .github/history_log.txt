@@ -596,3 +596,4 @@
 [2026-02-03T15:06:30] Commit #595: perf(metrics): enhance epoch loss tracking convergence visualization (#595)
 [2026-02-05T12:49:13] Commit #596: style(sidebar): tune navigation iconography and active tab indicator glow (#596)
 [2026-02-05T22:56:34] Commit #597: style(sidebar): tune navigation iconography and active tab indicator glow (#597)
+[2026-02-05T21:26:40] Commit #598: docs(architecture): update component specifications and interface contracts (#598)
