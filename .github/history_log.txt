@@ -671,3 +671,4 @@
 [2026-02-09T14:29:04] Commit #670: fix(telemetry): resolve async log buffering in terminal console (#670)
 [2026-02-09T14:51:32] Commit #671: fix(telemetry): resolve async log buffering in terminal console (#671)
 [2026-02-09T13:58:00] Commit #672: chore(engine): update runtime telemetry and workspace state persistence (#672)
+[2026-02-09T17:40:35] Commit #673: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#673)
