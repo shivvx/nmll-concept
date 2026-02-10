@@ -715,3 +715,4 @@
 [2026-02-10T23:30:22] Commit #714: docs(readme): update system deployment specs and Vercel serverless guide (#714)
 [2026-02-10T17:14:45] Commit #715: refactor(pipeline): streamline visual DAG node execution engine (#715)
 [2026-02-10T23:02:24] Commit #716: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#716)
+[2026-02-10T20:00:32] Commit #717: docs(readme): update system deployment specs and Vercel serverless guide (#717)
