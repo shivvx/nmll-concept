@@ -699,3 +699,4 @@
 [2026-02-10T22:27:30] Commit #698: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#698)
 [2026-02-10T23:30:03] Commit #699: refactor(pipeline): streamline visual DAG node execution engine (#699)
 [2026-02-10T11:41:54] Commit #700: refactor(pipeline): streamline visual DAG node execution engine (#700)
+[2026-02-10T09:11:26] Commit #701: style(sidebar): tune navigation iconography and active tab indicator glow (#701)
