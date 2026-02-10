@@ -704,3 +704,4 @@
 [2026-02-10T16:30:37] Commit #703: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#703)
 [2026-02-10T11:28:22] Commit #704: chore(engine): update runtime telemetry and workspace state persistence (#704)
 [2026-02-10T21:07:29] Commit #705: style(sidebar): tune navigation iconography and active tab indicator glow (#705)
+[2026-02-10T20:50:52] Commit #706: docs(architecture): update component specifications and interface contracts (#706)
