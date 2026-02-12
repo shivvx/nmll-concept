@@ -741,3 +741,4 @@
 [2026-02-12T16:39:17] Commit #740: chore(engine): update runtime telemetry and workspace state persistence (#740)
 [2026-02-12T18:51:54] Commit #741: feat(studio): optimize reactive workspace state management (#741)
 [2026-02-12T10:29:33] Commit #742: perf(copilot): reduce latency on server-side Gemini AI response stream (#742)
+[2026-02-12T09:49:20] Commit #743: docs(readme): update system deployment specs and Vercel serverless guide (#743)
