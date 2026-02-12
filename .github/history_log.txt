@@ -728,3 +728,4 @@
 [2026-02-12T12:35:18] Commit #727: fix(telemetry): resolve async log buffering in terminal console (#727)
 [2026-02-12T12:31:14] Commit #728: refactor(pipeline): streamline visual DAG node execution engine (#728)
 [2026-02-12T09:14:54] Commit #729: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#729)
+[2026-02-12T13:44:18] Commit #730: docs(architecture): update component specifications and interface contracts (#730)
