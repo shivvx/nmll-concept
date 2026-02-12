@@ -727,3 +727,4 @@
 [2026-02-12T20:06:56] Commit #726: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#726)
 [2026-02-12T12:35:18] Commit #727: fix(telemetry): resolve async log buffering in terminal console (#727)
 [2026-02-12T12:31:14] Commit #728: refactor(pipeline): streamline visual DAG node execution engine (#728)
+[2026-02-12T09:14:54] Commit #729: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#729)
