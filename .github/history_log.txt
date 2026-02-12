@@ -750,3 +750,4 @@
 [2026-02-12T11:16:51] Commit #749: perf(metrics): enhance epoch loss tracking convergence visualization (#749)
 [2026-02-12T15:58:04] Commit #750: chore(engine): update runtime telemetry and workspace state persistence (#750)
 [2026-02-12T23:27:04] Commit #751: perf(metrics): enhance epoch loss tracking convergence visualization (#751)
+[2026-02-12T21:16:03] Commit #752: docs(readme): update system deployment specs and Vercel serverless guide (#752)
