@@ -763,3 +763,4 @@
 [2026-02-14T23:31:07] Commit #762: style(sidebar): tune navigation iconography and active tab indicator glow (#762)
 [2026-02-14T19:42:51] Commit #763: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#763)
 [2026-02-14T19:57:13] Commit #764: refactor(pipeline): streamline visual DAG node execution engine (#764)
+[2026-02-14T23:32:47] Commit #765: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#765)
