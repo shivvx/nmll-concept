@@ -769,3 +769,4 @@
 [2026-02-14T21:21:24] Commit #768: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#768)
 [2026-02-14T18:53:13] Commit #769: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#769)
 [2026-02-14T09:09:25] Commit #770: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#770)
+[2026-02-14T18:07:09] Commit #771: style(theme): polish dark mode cybernetic neon accents and border glow (#771)
