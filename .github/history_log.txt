@@ -760,3 +760,4 @@
 [2026-02-14T22:35:02] Commit #759: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#759)
 [2026-02-14T20:14:41] Commit #760: perf(copilot): reduce latency on server-side Gemini AI response stream (#760)
 [2026-02-14T13:50:11] Commit #761: feat(studio): optimize reactive workspace state management (#761)
+[2026-02-14T23:31:07] Commit #762: style(sidebar): tune navigation iconography and active tab indicator glow (#762)
