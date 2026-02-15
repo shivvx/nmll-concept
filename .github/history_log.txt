@@ -788,3 +788,4 @@
 [2026-02-15T11:08:49] Commit #787: feat(studio): optimize reactive workspace state management (#787)
 [2026-02-15T10:11:55] Commit #788: perf(copilot): reduce latency on server-side Gemini AI response stream (#788)
 [2026-02-15T23:25:53] Commit #789: perf(copilot): reduce latency on server-side Gemini AI response stream (#789)
+[2026-02-15T20:14:22] Commit #790: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#790)
