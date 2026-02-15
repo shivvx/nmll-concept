@@ -782,3 +782,4 @@
 [2026-02-15T12:35:07] Commit #781: style(theme): polish dark mode cybernetic neon accents and border glow (#781)
 [2026-02-15T22:13:14] Commit #782: style(sidebar): tune navigation iconography and active tab indicator glow (#782)
 [2026-02-15T23:36:37] Commit #783: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#783)
+[2026-02-15T14:24:40] Commit #784: feat(studio): optimize reactive workspace state management (#784)
