@@ -780,3 +780,4 @@
 [2026-02-15T09:54:12] Commit #779: fix(telemetry): resolve async log buffering in terminal console (#779)
 [2026-02-15T09:51:09] Commit #780: docs(architecture): update component specifications and interface contracts (#780)
 [2026-02-15T12:35:07] Commit #781: style(theme): polish dark mode cybernetic neon accents and border glow (#781)
+[2026-02-15T22:13:14] Commit #782: style(sidebar): tune navigation iconography and active tab indicator glow (#782)
