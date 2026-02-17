@@ -808,3 +808,4 @@
 [2026-02-17T20:46:02] Commit #807: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#807)
 [2026-02-17T23:41:36] Commit #808: perf(copilot): reduce latency on server-side Gemini AI response stream (#808)
 [2026-02-17T21:03:45] Commit #809: refactor(pipeline): streamline visual DAG node execution engine (#809)
+[2026-02-17T12:47:32] Commit #810: style(sidebar): tune navigation iconography and active tab indicator glow (#810)
