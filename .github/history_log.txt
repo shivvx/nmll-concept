@@ -842,3 +842,4 @@
 [2026-02-18T15:43:46] Commit #841: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#841)
 [2026-02-18T10:41:45] Commit #842: chore(engine): update runtime telemetry and workspace state persistence (#842)
 [2026-02-18T22:11:02] Commit #843: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#843)
+[2026-02-18T19:24:37] Commit #844: docs(readme): update system deployment specs and Vercel serverless guide (#844)
