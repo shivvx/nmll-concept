@@ -847,3 +847,4 @@
 [2026-02-18T15:15:19] Commit #846: docs(readme): update system deployment specs and Vercel serverless guide (#846)
 [2026-02-19T20:29:38] Commit #847: fix(telemetry): resolve async log buffering in terminal console (#847)
 [2026-02-19T09:17:23] Commit #848: perf(copilot): reduce latency on server-side Gemini AI response stream (#848)
+[2026-02-19T10:21:46] Commit #849: style(sidebar): tune navigation iconography and active tab indicator glow (#849)
