@@ -857,3 +857,4 @@
 [2026-02-19T10:46:26] Commit #856: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#856)
 [2026-02-19T22:20:08] Commit #857: style(sidebar): tune navigation iconography and active tab indicator glow (#857)
 [2026-02-19T23:34:13] Commit #858: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#858)
+[2026-02-19T09:40:27] Commit #859: style(sidebar): tune navigation iconography and active tab indicator glow (#859)
