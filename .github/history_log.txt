@@ -851,3 +851,4 @@
 [2026-02-19T16:28:27] Commit #850: chore(engine): update runtime telemetry and workspace state persistence (#850)
 [2026-02-19T10:02:34] Commit #851: style(sidebar): tune navigation iconography and active tab indicator glow (#851)
 [2026-02-19T17:54:15] Commit #852: docs(readme): update system deployment specs and Vercel serverless guide (#852)
+[2026-02-19T22:34:43] Commit #853: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#853)
