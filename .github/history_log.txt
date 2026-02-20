@@ -893,3 +893,4 @@
 [2026-02-20T18:55:08] Commit #892: docs(readme): update system deployment specs and Vercel serverless guide (#892)
 [2026-02-20T12:58:12] Commit #893: perf(copilot): reduce latency on server-side Gemini AI response stream (#893)
 [2026-02-20T14:00:32] Commit #894: feat(studio): optimize reactive workspace state management (#894)
+[2026-02-20T16:09:40] Commit #895: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#895)
