@@ -884,3 +884,4 @@
 [2026-02-20T14:36:37] Commit #883: fix(telemetry): resolve async log buffering in terminal console (#883)
 [2026-02-20T15:20:17] Commit #884: feat(studio): optimize reactive workspace state management (#884)
 [2026-02-20T21:17:37] Commit #885: chore(engine): update runtime telemetry and workspace state persistence (#885)
+[2026-02-20T10:22:17] Commit #886: style(theme): polish dark mode cybernetic neon accents and border glow (#886)
