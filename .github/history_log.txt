@@ -929,3 +929,4 @@
 [2026-02-22T15:50:41] Commit #928: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#928)
 [2026-02-22T21:26:06] Commit #929: docs(readme): update system deployment specs and Vercel serverless guide (#929)
 [2026-02-22T10:48:23] Commit #930: feat(studio): optimize reactive workspace state management (#930)
+[2026-02-22T19:41:18] Commit #931: docs(readme): update system deployment specs and Vercel serverless guide (#931)
