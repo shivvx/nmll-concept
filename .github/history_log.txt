@@ -941,3 +941,4 @@
 [2026-02-23T16:22:05] Commit #940: style(sidebar): tune navigation iconography and active tab indicator glow (#940)
 [2026-02-23T17:29:34] Commit #941: style(sidebar): tune navigation iconography and active tab indicator glow (#941)
 [2026-02-23T17:46:31] Commit #942: feat(studio): optimize reactive workspace state management (#942)
+[2026-02-23T13:27:05] Commit #943: style(sidebar): tune navigation iconography and active tab indicator glow (#943)
