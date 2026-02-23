@@ -934,3 +934,4 @@
 [2026-02-23T21:50:09] Commit #933: chore(engine): update runtime telemetry and workspace state persistence (#933)
 [2026-02-23T21:17:55] Commit #934: docs(readme): update system deployment specs and Vercel serverless guide (#934)
 [2026-02-23T13:05:47] Commit #935: feat(studio): optimize reactive workspace state management (#935)
+[2026-02-23T20:46:57] Commit #936: docs(readme): update system deployment specs and Vercel serverless guide (#936)
