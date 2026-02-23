@@ -938,3 +938,4 @@
 [2026-02-23T20:40:10] Commit #937: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#937)
 [2026-02-23T09:14:58] Commit #938: docs(architecture): update component specifications and interface contracts (#938)
 [2026-02-23T20:07:02] Commit #939: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#939)
+[2026-02-23T16:22:05] Commit #940: style(sidebar): tune navigation iconography and active tab indicator glow (#940)
