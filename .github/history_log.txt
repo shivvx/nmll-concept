@@ -960,3 +960,4 @@
 [2026-02-24T20:29:10] Commit #959: style(theme): polish dark mode cybernetic neon accents and border glow (#959)
 [2026-02-24T09:35:41] Commit #960: docs(architecture): update component specifications and interface contracts (#960)
 [2026-02-24T12:08:37] Commit #961: perf(metrics): enhance epoch loss tracking convergence visualization (#961)
+[2026-02-24T10:25:04] Commit #962: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#962)
