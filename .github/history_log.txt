@@ -958,3 +958,4 @@
 [2026-02-24T13:34:17] Commit #957: refactor(pipeline): streamline visual DAG node execution engine (#957)
 [2026-02-24T15:32:40] Commit #958: fix(telemetry): resolve async log buffering in terminal console (#958)
 [2026-02-24T20:29:10] Commit #959: style(theme): polish dark mode cybernetic neon accents and border glow (#959)
+[2026-02-24T09:35:41] Commit #960: docs(architecture): update component specifications and interface contracts (#960)
