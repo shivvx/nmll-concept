@@ -977,3 +977,4 @@
 [2026-02-25T20:27:01] Commit #976: style(sidebar): tune navigation iconography and active tab indicator glow (#976)
 [2026-02-25T14:18:28] Commit #977: docs(readme): update system deployment specs and Vercel serverless guide (#977)
 [2026-02-25T10:16:33] Commit #978: perf(metrics): enhance epoch loss tracking convergence visualization (#978)
+[2026-02-25T09:04:25] Commit #979: docs(architecture): update component specifications and interface contracts (#979)
