@@ -999,3 +999,4 @@
 [2026-02-25T10:38:28] Commit #998: refactor(pipeline): streamline visual DAG node execution engine (#998)
 [2026-02-25T12:59:08] Commit #999: chore(engine): update runtime telemetry and workspace state persistence (#999)
 [2026-02-25T14:31:20] Commit #1000: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1000)
+[2026-03-01T17:08:00] Commit #1001: style(sidebar): tune navigation iconography and active tab indicator glow (#1001)
