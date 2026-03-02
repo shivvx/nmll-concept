@@ -1029,3 +1029,4 @@
 [2026-03-02T10:11:00] Commit #1028: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1028)
 [2026-03-02T18:32:21] Commit #1029: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1029)
 [2026-03-02T09:37:14] Commit #1030: fix(telemetry): resolve async log buffering in terminal console (#1030)
+[2026-03-02T09:55:39] Commit #1031: docs(readme): update system deployment specs and Vercel serverless guide (#1031)
