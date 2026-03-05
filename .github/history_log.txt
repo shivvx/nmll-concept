@@ -1058,3 +1058,4 @@
 [2026-03-05T22:25:06] Commit #1057: feat(studio): optimize reactive workspace state management (#1057)
 [2026-03-05T17:23:02] Commit #1058: docs(readme): update system deployment specs and Vercel serverless guide (#1058)
 [2026-03-05T10:33:38] Commit #1059: style(theme): polish dark mode cybernetic neon accents and border glow (#1059)
+[2026-03-05T13:40:15] Commit #1060: style(sidebar): tune navigation iconography and active tab indicator glow (#1060)
