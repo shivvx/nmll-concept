@@ -1079,3 +1079,4 @@
 [2026-03-07T18:44:59] Commit #1078: style(sidebar): tune navigation iconography and active tab indicator glow (#1078)
 [2026-03-07T21:23:02] Commit #1079: perf(metrics): enhance epoch loss tracking convergence visualization (#1079)
 [2026-03-07T20:13:37] Commit #1080: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1080)
+[2026-03-07T13:26:28] Commit #1081: feat(studio): optimize reactive workspace state management (#1081)
