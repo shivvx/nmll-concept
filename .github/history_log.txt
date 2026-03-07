@@ -1092,3 +1092,4 @@
 [2026-03-07T14:44:02] Commit #1091: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1091)
 [2026-03-07T11:06:36] Commit #1092: fix(telemetry): resolve async log buffering in terminal console (#1092)
 [2026-03-07T14:42:23] Commit #1093: feat(studio): optimize reactive workspace state management (#1093)
+[2026-03-07T13:33:21] Commit #1094: docs(readme): update system deployment specs and Vercel serverless guide (#1094)
