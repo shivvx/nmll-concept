@@ -1145,3 +1145,4 @@
 [2026-03-11T12:54:22] Commit #1144: style(sidebar): tune navigation iconography and active tab indicator glow (#1144)
 [2026-03-11T12:54:52] Commit #1145: style(sidebar): tune navigation iconography and active tab indicator glow (#1145)
 [2026-03-11T14:55:23] Commit #1146: feat(studio): optimize reactive workspace state management (#1146)
+[2026-03-11T10:35:21] Commit #1147: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1147)
