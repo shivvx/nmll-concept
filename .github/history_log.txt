@@ -1168,3 +1168,4 @@
 [2026-03-13T17:13:48] Commit #1167: feat(studio): optimize reactive workspace state management (#1167)
 [2026-03-13T23:33:45] Commit #1168: chore(engine): update runtime telemetry and workspace state persistence (#1168)
 [2026-03-13T12:19:27] Commit #1169: chore(engine): update runtime telemetry and workspace state persistence (#1169)
+[2026-03-13T18:06:49] Commit #1170: docs(readme): update system deployment specs and Vercel serverless guide (#1170)
