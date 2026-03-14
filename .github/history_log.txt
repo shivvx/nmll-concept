@@ -1188,3 +1188,4 @@
 [2026-03-14T09:40:26] Commit #1187: fix(telemetry): resolve async log buffering in terminal console (#1187)
 [2026-03-14T13:14:22] Commit #1188: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1188)
 [2026-03-14T18:22:10] Commit #1189: style(sidebar): tune navigation iconography and active tab indicator glow (#1189)
+[2026-03-14T09:21:01] Commit #1190: docs(readme): update system deployment specs and Vercel serverless guide (#1190)
