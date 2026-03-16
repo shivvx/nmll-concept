@@ -1231,3 +1231,4 @@
 [2026-03-16T12:02:03] Commit #1230: style(theme): polish dark mode cybernetic neon accents and border glow (#1230)
 [2026-03-16T11:33:54] Commit #1231: refactor(pipeline): streamline visual DAG node execution engine (#1231)
 [2026-03-16T10:31:16] Commit #1232: perf(metrics): enhance epoch loss tracking convergence visualization (#1232)
+[2026-03-16T19:41:35] Commit #1233: docs(readme): update system deployment specs and Vercel serverless guide (#1233)
