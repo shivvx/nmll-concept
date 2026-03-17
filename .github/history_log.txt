@@ -1280,3 +1280,4 @@
 [2026-03-17T16:32:25] Commit #1279: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1279)
 [2026-03-17T22:33:02] Commit #1280: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1280)
 [2026-03-17T12:11:03] Commit #1281: fix(telemetry): resolve async log buffering in terminal console (#1281)
+[2026-03-17T14:22:46] Commit #1282: style(sidebar): tune navigation iconography and active tab indicator glow (#1282)
