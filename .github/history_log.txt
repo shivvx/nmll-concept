@@ -1291,3 +1291,4 @@
 [2026-03-18T12:28:04] Commit #1290: docs(architecture): update component specifications and interface contracts (#1290)
 [2026-03-18T18:00:57] Commit #1291: chore(engine): update runtime telemetry and workspace state persistence (#1291)
 [2026-03-18T20:14:08] Commit #1292: docs(architecture): update component specifications and interface contracts (#1292)
+[2026-03-18T18:37:29] Commit #1293: style(theme): polish dark mode cybernetic neon accents and border glow (#1293)
