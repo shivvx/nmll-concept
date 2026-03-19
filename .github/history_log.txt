@@ -1308,3 +1308,4 @@
 [2026-03-18T09:54:53] Commit #1307: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#1307)
 [2026-03-18T19:22:19] Commit #1308: chore(engine): update runtime telemetry and workspace state persistence (#1308)
 [2026-03-19T20:54:10] Commit #1309: feat(studio): optimize reactive workspace state management (#1309)
+[2026-03-19T20:17:46] Commit #1310: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1310)
