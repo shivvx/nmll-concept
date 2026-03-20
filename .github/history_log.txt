@@ -1349,3 +1349,4 @@
 [2026-03-20T13:29:15] Commit #1348: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1348)
 [2026-03-20T19:08:32] Commit #1349: perf(metrics): enhance epoch loss tracking convergence visualization (#1349)
 [2026-03-20T12:46:37] Commit #1350: chore(engine): update runtime telemetry and workspace state persistence (#1350)
+[2026-03-20T09:55:35] Commit #1351: style(theme): polish dark mode cybernetic neon accents and border glow (#1351)
