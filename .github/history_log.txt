@@ -1333,3 +1333,4 @@
 [2026-03-20T15:22:49] Commit #1332: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1332)
 [2026-03-20T22:05:31] Commit #1333: chore(engine): update runtime telemetry and workspace state persistence (#1333)
 [2026-03-20T13:57:18] Commit #1334: fix(telemetry): resolve async log buffering in terminal console (#1334)
+[2026-03-20T15:18:01] Commit #1335: style(sidebar): tune navigation iconography and active tab indicator glow (#1335)
