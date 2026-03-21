@@ -1373,3 +1373,4 @@
 [2026-03-21T12:39:57] Commit #1372: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1372)
 [2026-03-21T13:30:58] Commit #1373: feat(studio): optimize reactive workspace state management (#1373)
 [2026-03-21T22:34:33] Commit #1374: docs(architecture): update component specifications and interface contracts (#1374)
+[2026-03-21T23:57:15] Commit #1375: docs(readme): update system deployment specs and Vercel serverless guide (#1375)
