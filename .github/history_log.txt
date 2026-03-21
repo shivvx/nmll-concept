@@ -1362,3 +1362,4 @@
 [2026-03-21T11:36:11] Commit #1361: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1361)
 [2026-03-21T09:53:33] Commit #1362: chore(engine): update runtime telemetry and workspace state persistence (#1362)
 [2026-03-21T12:54:28] Commit #1363: style(sidebar): tune navigation iconography and active tab indicator glow (#1363)
+[2026-03-21T21:49:47] Commit #1364: style(theme): polish dark mode cybernetic neon accents and border glow (#1364)
