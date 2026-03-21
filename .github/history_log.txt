@@ -1367,3 +1367,4 @@
 [2026-03-21T19:59:30] Commit #1366: perf(copilot): reduce latency on server-side Gemini AI response stream (#1366)
 [2026-03-21T23:02:58] Commit #1367: style(theme): polish dark mode cybernetic neon accents and border glow (#1367)
 [2026-03-21T19:03:05] Commit #1368: chore(engine): update runtime telemetry and workspace state persistence (#1368)
+[2026-03-21T22:36:54] Commit #1369: docs(readme): update system deployment specs and Vercel serverless guide (#1369)
