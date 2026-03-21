@@ -1359,3 +1359,4 @@
 [2026-03-20T14:50:45] Commit #1358: style(theme): polish dark mode cybernetic neon accents and border glow (#1358)
 [2026-03-21T14:51:51] Commit #1359: fix(telemetry): resolve async log buffering in terminal console (#1359)
 [2026-03-21T18:47:25] Commit #1360: perf(copilot): reduce latency on server-side Gemini AI response stream (#1360)
+[2026-03-21T11:36:11] Commit #1361: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1361)
