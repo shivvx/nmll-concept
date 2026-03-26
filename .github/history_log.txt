@@ -1456,3 +1456,4 @@
 [2026-03-26T23:22:42] Commit #1455: feat(studio): optimize reactive workspace state management (#1455)
 [2026-03-26T21:18:49] Commit #1456: style(sidebar): tune navigation iconography and active tab indicator glow (#1456)
 [2026-03-26T15:09:11] Commit #1457: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1457)
+[2026-03-26T11:37:42] Commit #1458: docs(readme): update system deployment specs and Vercel serverless guide (#1458)
