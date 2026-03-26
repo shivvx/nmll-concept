@@ -1438,3 +1438,4 @@
 [2026-03-24T14:26:26] Commit #1437: docs(architecture): update component specifications and interface contracts (#1437)
 [2026-03-24T16:29:20] Commit #1438: refactor(pipeline): streamline visual DAG node execution engine (#1438)
 [2026-03-24T09:01:14] Commit #1439: style(theme): polish dark mode cybernetic neon accents and border glow (#1439)
+[2026-03-26T12:40:57] Commit #1440: docs(readme): update system deployment specs and Vercel serverless guide (#1440)
