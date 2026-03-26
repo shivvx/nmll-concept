@@ -1450,3 +1450,4 @@
 [2026-03-26T18:07:37] Commit #1449: refactor(pipeline): streamline visual DAG node execution engine (#1449)
 [2026-03-26T17:48:45] Commit #1450: docs(readme): update system deployment specs and Vercel serverless guide (#1450)
 [2026-03-26T22:52:55] Commit #1451: refactor(pipeline): streamline visual DAG node execution engine (#1451)
+[2026-03-26T21:24:54] Commit #1452: chore(engine): update runtime telemetry and workspace state persistence (#1452)
