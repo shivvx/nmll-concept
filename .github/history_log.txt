@@ -1439,3 +1439,4 @@
 [2026-03-24T16:29:20] Commit #1438: refactor(pipeline): streamline visual DAG node execution engine (#1438)
 [2026-03-24T09:01:14] Commit #1439: style(theme): polish dark mode cybernetic neon accents and border glow (#1439)
 [2026-03-26T12:40:57] Commit #1440: docs(readme): update system deployment specs and Vercel serverless guide (#1440)
+[2026-03-26T17:42:21] Commit #1441: style(sidebar): tune navigation iconography and active tab indicator glow (#1441)
