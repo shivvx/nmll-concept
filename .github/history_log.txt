@@ -1474,3 +1474,4 @@
 [2026-03-29T22:04:57] Commit #1473: style(theme): polish dark mode cybernetic neon accents and border glow (#1473)
 [2026-03-29T11:54:20] Commit #1474: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1474)
 [2026-03-29T21:29:01] Commit #1475: docs(architecture): update component specifications and interface contracts (#1475)
+[2026-03-29T16:10:40] Commit #1476: style(sidebar): tune navigation iconography and active tab indicator glow (#1476)
