@@ -1509,3 +1509,4 @@
 [2026-03-30T22:06:31] Commit #1508: perf(metrics): enhance epoch loss tracking convergence visualization (#1508)
 [2026-03-30T20:51:54] Commit #1509: docs(readme): update system deployment specs and Vercel serverless guide (#1509)
 [2026-03-30T22:20:13] Commit #1510: chore(engine): update runtime telemetry and workspace state persistence (#1510)
+[2026-03-30T18:48:23] Commit #1511: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1511)
