@@ -1499,3 +1499,4 @@
 [2026-03-30T15:30:51] Commit #1498: refactor(pipeline): streamline visual DAG node execution engine (#1498)
 [2026-03-30T13:12:09] Commit #1499: style(theme): polish dark mode cybernetic neon accents and border glow (#1499)
 [2026-03-30T19:39:37] Commit #1500: docs(readme): update system deployment specs and Vercel serverless guide (#1500)
+[2026-03-30T22:56:06] Commit #1501: fix(telemetry): resolve async log buffering in terminal console (#1501)
