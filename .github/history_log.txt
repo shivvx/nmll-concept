@@ -1497,3 +1497,4 @@
 [2026-03-30T13:01:46] Commit #1496: docs(architecture): update component specifications and interface contracts (#1496)
 [2026-03-30T16:33:30] Commit #1497: chore(engine): update runtime telemetry and workspace state persistence (#1497)
 [2026-03-30T15:30:51] Commit #1498: refactor(pipeline): streamline visual DAG node execution engine (#1498)
+[2026-03-30T13:12:09] Commit #1499: style(theme): polish dark mode cybernetic neon accents and border glow (#1499)
