@@ -1521,3 +1521,4 @@
 [2026-04-01T09:55:29] Commit #1520: docs(architecture): update component specifications and interface contracts (#1520)
 [2026-04-01T14:46:54] Commit #1521: style(sidebar): tune navigation iconography and active tab indicator glow (#1521)
 [2026-04-01T14:59:33] Commit #1522: refactor(pipeline): streamline visual DAG node execution engine (#1522)
+[2026-04-01T13:09:03] Commit #1523: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1523)
