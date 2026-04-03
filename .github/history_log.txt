@@ -1558,3 +1558,4 @@
 [2026-04-03T10:26:47] Commit #1557: feat(studio): optimize reactive workspace state management (#1557)
 [2026-04-03T16:53:13] Commit #1558: refactor(pipeline): streamline visual DAG node execution engine (#1558)
 [2026-04-03T23:54:17] Commit #1559: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1559)
+[2026-04-03T12:36:23] Commit #1560: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1560)
