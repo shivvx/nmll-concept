@@ -1570,3 +1570,4 @@
 [2026-04-04T23:47:54] Commit #1569: style(sidebar): tune navigation iconography and active tab indicator glow (#1569)
 [2026-04-04T12:55:36] Commit #1570: chore(engine): update runtime telemetry and workspace state persistence (#1570)
 [2026-04-04T15:05:52] Commit #1571: docs(readme): update system deployment specs and Vercel serverless guide (#1571)
+[2026-04-04T09:53:10] Commit #1572: docs(architecture): update component specifications and interface contracts (#1572)
