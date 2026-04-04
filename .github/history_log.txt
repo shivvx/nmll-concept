@@ -1571,3 +1571,4 @@
 [2026-04-04T12:55:36] Commit #1570: chore(engine): update runtime telemetry and workspace state persistence (#1570)
 [2026-04-04T15:05:52] Commit #1571: docs(readme): update system deployment specs and Vercel serverless guide (#1571)
 [2026-04-04T09:53:10] Commit #1572: docs(architecture): update component specifications and interface contracts (#1572)
+[2026-04-04T09:27:38] Commit #1573: docs(readme): update system deployment specs and Vercel serverless guide (#1573)
