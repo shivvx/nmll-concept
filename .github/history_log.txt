@@ -1586,3 +1586,4 @@
 [2026-04-06T15:27:16] Commit #1585: docs(readme): update system deployment specs and Vercel serverless guide (#1585)
 [2026-04-06T10:57:28] Commit #1586: style(theme): polish dark mode cybernetic neon accents and border glow (#1586)
 [2026-04-06T18:32:20] Commit #1587: chore(engine): update runtime telemetry and workspace state persistence (#1587)
+[2026-04-06T13:38:49] Commit #1588: docs(architecture): update component specifications and interface contracts (#1588)
