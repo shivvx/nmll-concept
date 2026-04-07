@@ -1638,3 +1638,4 @@
 [2026-04-07T09:24:56] Commit #1637: feat(studio): optimize reactive workspace state management (#1637)
 [2026-04-07T10:49:28] Commit #1638: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1638)
 [2026-04-07T23:10:59] Commit #1639: refactor(pipeline): streamline visual DAG node execution engine (#1639)
+[2026-04-07T17:13:45] Commit #1640: docs(readme): update system deployment specs and Vercel serverless guide (#1640)
