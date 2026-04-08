@@ -1657,3 +1657,4 @@
 [2026-04-08T20:07:31] Commit #1656: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1656)
 [2026-04-08T22:01:44] Commit #1657: feat(studio): optimize reactive workspace state management (#1657)
 [2026-04-08T23:24:38] Commit #1658: style(sidebar): tune navigation iconography and active tab indicator glow (#1658)
+[2026-04-08T21:40:36] Commit #1659: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1659)
