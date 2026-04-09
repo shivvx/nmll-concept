@@ -1670,3 +1670,4 @@
 [2026-04-08T19:27:57] Commit #1669: style(sidebar): tune navigation iconography and active tab indicator glow (#1669)
 [2026-04-09T13:25:33] Commit #1670: perf(copilot): reduce latency on server-side Gemini AI response stream (#1670)
 [2026-04-09T18:26:56] Commit #1671: fix(telemetry): resolve async log buffering in terminal console (#1671)
+[2026-04-09T14:16:18] Commit #1672: feat(studio): optimize reactive workspace state management (#1672)
