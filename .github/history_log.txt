@@ -1684,3 +1684,4 @@
 [2026-04-09T16:06:45] Commit #1683: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1683)
 [2026-04-09T21:04:22] Commit #1684: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1684)
 [2026-04-09T15:26:56] Commit #1685: fix(telemetry): resolve async log buffering in terminal console (#1685)
+[2026-04-09T14:12:09] Commit #1686: style(sidebar): tune navigation iconography and active tab indicator glow (#1686)
