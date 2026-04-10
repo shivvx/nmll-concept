@@ -1712,3 +1712,4 @@
 [2026-04-10T14:04:03] Commit #1711: refactor(pipeline): streamline visual DAG node execution engine (#1711)
 [2026-04-10T12:39:08] Commit #1712: style(sidebar): tune navigation iconography and active tab indicator glow (#1712)
 [2026-04-10T16:41:26] Commit #1713: chore(engine): update runtime telemetry and workspace state persistence (#1713)
+[2026-04-10T20:59:18] Commit #1714: style(theme): polish dark mode cybernetic neon accents and border glow (#1714)
