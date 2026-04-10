@@ -1707,3 +1707,4 @@
 [2026-04-10T14:44:42] Commit #1706: style(sidebar): tune navigation iconography and active tab indicator glow (#1706)
 [2026-04-10T10:43:27] Commit #1707: style(sidebar): tune navigation iconography and active tab indicator glow (#1707)
 [2026-04-10T11:34:10] Commit #1708: docs(readme): update system deployment specs and Vercel serverless guide (#1708)
+[2026-04-10T13:00:24] Commit #1709: docs(readme): update system deployment specs and Vercel serverless guide (#1709)
