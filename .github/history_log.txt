@@ -1723,3 +1723,4 @@
 [2026-04-10T12:29:47] Commit #1722: refactor(pipeline): streamline visual DAG node execution engine (#1722)
 [2026-04-11T12:13:40] Commit #1723: docs(architecture): update component specifications and interface contracts (#1723)
 [2026-04-11T21:47:03] Commit #1724: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1724)
+[2026-04-11T11:48:56] Commit #1725: chore(engine): update runtime telemetry and workspace state persistence (#1725)
