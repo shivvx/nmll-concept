@@ -1754,3 +1754,4 @@
 [2026-04-12T12:57:07] Commit #1753: refactor(pipeline): streamline visual DAG node execution engine (#1753)
 [2026-04-12T20:31:55] Commit #1754: docs(readme): update system deployment specs and Vercel serverless guide (#1754)
 [2026-04-12T10:34:34] Commit #1755: perf(copilot): reduce latency on server-side Gemini AI response stream (#1755)
+[2026-04-12T23:13:45] Commit #1756: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1756)
