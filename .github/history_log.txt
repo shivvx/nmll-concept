@@ -1794,3 +1794,4 @@
 [2026-04-15T22:43:49] Commit #1793: docs(readme): update system deployment specs and Vercel serverless guide (#1793)
 [2026-04-15T14:37:58] Commit #1794: feat(studio): optimize reactive workspace state management (#1794)
 [2026-04-15T20:56:27] Commit #1795: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1795)
+[2026-04-15T14:11:20] Commit #1796: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1796)
