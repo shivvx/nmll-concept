@@ -1802,3 +1802,4 @@
 [2026-04-15T12:42:38] Commit #1801: style(theme): polish dark mode cybernetic neon accents and border glow (#1801)
 [2026-04-15T10:08:12] Commit #1802: chore(engine): update runtime telemetry and workspace state persistence (#1802)
 [2026-04-15T20:07:16] Commit #1803: refactor(pipeline): streamline visual DAG node execution engine (#1803)
+[2026-04-15T12:17:01] Commit #1804: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1804)
