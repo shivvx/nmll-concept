@@ -1791,3 +1791,4 @@
 [2026-04-13T14:26:07] Commit #1790: perf(copilot): reduce latency on server-side Gemini AI response stream (#1790)
 [2026-04-15T17:02:05] Commit #1791: perf(metrics): enhance epoch loss tracking convergence visualization (#1791)
 [2026-04-15T20:32:51] Commit #1792: feat(studio): optimize reactive workspace state management (#1792)
+[2026-04-15T22:43:49] Commit #1793: docs(readme): update system deployment specs and Vercel serverless guide (#1793)
