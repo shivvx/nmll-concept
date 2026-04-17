@@ -1847,3 +1847,4 @@
 [2026-04-17T14:13:39] Commit #1846: style(sidebar): tune navigation iconography and active tab indicator glow (#1846)
 [2026-04-17T16:03:51] Commit #1847: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1847)
 [2026-04-17T13:46:41] Commit #1848: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1848)
+[2026-04-17T09:27:15] Commit #1849: docs(readme): update system deployment specs and Vercel serverless guide (#1849)
