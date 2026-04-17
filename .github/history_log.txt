@@ -1845,3 +1845,4 @@
 [2026-04-17T20:11:30] Commit #1844: perf(metrics): enhance epoch loss tracking convergence visualization (#1844)
 [2026-04-17T20:34:05] Commit #1845: chore(engine): update runtime telemetry and workspace state persistence (#1845)
 [2026-04-17T14:13:39] Commit #1846: style(sidebar): tune navigation iconography and active tab indicator glow (#1846)
+[2026-04-17T16:03:51] Commit #1847: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1847)
