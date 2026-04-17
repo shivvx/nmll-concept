@@ -1829,3 +1829,4 @@
 [2026-04-16T20:05:52] Commit #1828: perf(metrics): enhance epoch loss tracking convergence visualization (#1828)
 [2026-04-16T13:53:17] Commit #1829: chore(engine): update runtime telemetry and workspace state persistence (#1829)
 [2026-04-16T16:48:37] Commit #1830: style(sidebar): tune navigation iconography and active tab indicator glow (#1830)
+[2026-04-17T19:43:57] Commit #1831: fix(telemetry): resolve async log buffering in terminal console (#1831)
