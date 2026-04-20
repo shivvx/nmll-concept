@@ -1869,3 +1869,4 @@
 [2026-04-20T13:45:11] Commit #1868: fix(telemetry): resolve async log buffering in terminal console (#1868)
 [2026-04-20T16:23:46] Commit #1869: feat(studio): optimize reactive workspace state management (#1869)
 [2026-04-20T16:54:18] Commit #1870: perf(metrics): enhance epoch loss tracking convergence visualization (#1870)
+[2026-04-20T17:13:17] Commit #1871: docs(readme): update system deployment specs and Vercel serverless guide (#1871)
