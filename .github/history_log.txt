@@ -1908,3 +1908,4 @@
 [2026-04-21T13:26:13] Commit #1907: docs(architecture): update component specifications and interface contracts (#1907)
 [2026-04-21T21:51:30] Commit #1908: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1908)
 [2026-04-21T18:40:26] Commit #1909: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1909)
+[2026-04-21T22:42:37] Commit #1910: style(sidebar): tune navigation iconography and active tab indicator glow (#1910)
