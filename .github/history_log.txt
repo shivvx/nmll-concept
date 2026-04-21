@@ -1906,3 +1906,4 @@
 [2026-04-21T12:11:41] Commit #1905: chore(engine): update runtime telemetry and workspace state persistence (#1905)
 [2026-04-21T09:50:40] Commit #1906: fix(telemetry): resolve async log buffering in terminal console (#1906)
 [2026-04-21T13:26:13] Commit #1907: docs(architecture): update component specifications and interface contracts (#1907)
+[2026-04-21T21:51:30] Commit #1908: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#1908)
