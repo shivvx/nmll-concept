@@ -1950,3 +1950,4 @@
 [2026-04-23T14:03:02] Commit #1949: feat(studio): optimize reactive workspace state management (#1949)
 [2026-04-23T13:27:53] Commit #1950: perf(metrics): enhance epoch loss tracking convergence visualization (#1950)
 [2026-04-23T10:43:56] Commit #1951: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1951)
+[2026-04-23T15:58:29] Commit #1952: docs(readme): update system deployment specs and Vercel serverless guide (#1952)
