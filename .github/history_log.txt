@@ -1969,3 +1969,4 @@
 [2026-04-24T12:12:48] Commit #1968: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#1968)
 [2026-04-24T20:55:10] Commit #1969: perf(copilot): reduce latency on server-side Gemini AI response stream (#1969)
 [2026-04-24T16:17:41] Commit #1970: feat(studio): optimize reactive workspace state management (#1970)
+[2026-04-24T16:08:26] Commit #1971: fix(telemetry): resolve async log buffering in terminal console (#1971)
