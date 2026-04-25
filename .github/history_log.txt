@@ -1989,3 +1989,4 @@
 [2026-04-24T23:21:07] Commit #1988: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#1988)
 [2026-04-25T17:56:48] Commit #1989: chore(engine): update runtime telemetry and workspace state persistence (#1989)
 [2026-04-25T14:35:43] Commit #1990: refactor(pipeline): streamline visual DAG node execution engine (#1990)
+[2026-04-25T19:33:28] Commit #1991: docs(architecture): update component specifications and interface contracts (#1991)
