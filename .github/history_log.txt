@@ -2052,3 +2052,4 @@
 [2026-04-27T23:16:02] Commit #2051: perf(metrics): enhance epoch loss tracking convergence visualization (#2051)
 [2026-04-27T18:40:23] Commit #2052: perf(metrics): enhance epoch loss tracking convergence visualization (#2052)
 [2026-04-27T11:08:32] Commit #2053: perf(metrics): enhance epoch loss tracking convergence visualization (#2053)
+[2026-04-27T18:46:14] Commit #2054: style(sidebar): tune navigation iconography and active tab indicator glow (#2054)
