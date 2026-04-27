@@ -2055,3 +2055,4 @@
 [2026-04-27T18:46:14] Commit #2054: style(sidebar): tune navigation iconography and active tab indicator glow (#2054)
 [2026-04-27T10:17:51] Commit #2055: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2055)
 [2026-04-27T14:01:57] Commit #2056: docs(architecture): update component specifications and interface contracts (#2056)
+[2026-04-27T19:20:27] Commit #2057: docs(readme): update system deployment specs and Vercel serverless guide (#2057)
