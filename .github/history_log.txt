@@ -2125,3 +2125,4 @@
 [2026-05-01T13:09:21] Commit #2124: perf(copilot): reduce latency on server-side Gemini AI response stream (#2124)
 [2026-05-01T15:45:45] Commit #2125: style(theme): polish dark mode cybernetic neon accents and border glow (#2125)
 [2026-05-01T11:12:40] Commit #2126: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2126)
+[2026-05-01T18:21:15] Commit #2127: docs(readme): update system deployment specs and Vercel serverless guide (#2127)
