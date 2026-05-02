@@ -2158,3 +2158,4 @@
 [2026-05-02T16:04:33] Commit #2157: fix(telemetry): resolve async log buffering in terminal console (#2157)
 [2026-05-02T20:29:00] Commit #2158: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2158)
 [2026-05-02T11:50:34] Commit #2159: feat(studio): optimize reactive workspace state management (#2159)
+[2026-05-02T11:02:39] Commit #2160: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2160)
