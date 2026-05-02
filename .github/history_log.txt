@@ -2130,3 +2130,4 @@
 [2026-05-01T18:58:30] Commit #2129: fix(telemetry): resolve async log buffering in terminal console (#2129)
 [2026-05-01T23:52:01] Commit #2130: style(sidebar): tune navigation iconography and active tab indicator glow (#2130)
 [2026-05-02T20:58:04] Commit #2131: chore(engine): update runtime telemetry and workspace state persistence (#2131)
+[2026-05-02T22:51:55] Commit #2132: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2132)
