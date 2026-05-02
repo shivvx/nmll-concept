@@ -2137,3 +2137,4 @@
 [2026-05-02T20:44:09] Commit #2136: chore(engine): update runtime telemetry and workspace state persistence (#2136)
 [2026-05-02T19:32:51] Commit #2137: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2137)
 [2026-05-02T09:54:32] Commit #2138: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2138)
+[2026-05-02T10:18:17] Commit #2139: style(theme): polish dark mode cybernetic neon accents and border glow (#2139)
