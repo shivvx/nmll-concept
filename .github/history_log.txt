@@ -2147,3 +2147,4 @@
 [2026-05-02T22:48:51] Commit #2146: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2146)
 [2026-05-02T10:57:27] Commit #2147: chore(engine): update runtime telemetry and workspace state persistence (#2147)
 [2026-05-02T18:27:44] Commit #2148: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2148)
+[2026-05-02T15:56:10] Commit #2149: style(sidebar): tune navigation iconography and active tab indicator glow (#2149)
