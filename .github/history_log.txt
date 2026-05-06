@@ -2192,3 +2192,4 @@
 [2026-05-06T21:02:36] Commit #2191: chore(engine): update runtime telemetry and workspace state persistence (#2191)
 [2026-05-06T11:20:01] Commit #2192: feat(studio): optimize reactive workspace state management (#2192)
 [2026-05-06T21:22:28] Commit #2193: style(theme): polish dark mode cybernetic neon accents and border glow (#2193)
+[2026-05-06T23:18:32] Commit #2194: docs(readme): update system deployment specs and Vercel serverless guide (#2194)
