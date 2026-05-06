@@ -2197,3 +2197,4 @@
 [2026-05-06T10:56:50] Commit #2196: docs(architecture): update component specifications and interface contracts (#2196)
 [2026-05-06T19:01:38] Commit #2197: chore(engine): update runtime telemetry and workspace state persistence (#2197)
 [2026-05-06T17:31:57] Commit #2198: style(theme): polish dark mode cybernetic neon accents and border glow (#2198)
+[2026-05-06T20:23:14] Commit #2199: docs(readme): update system deployment specs and Vercel serverless guide (#2199)
