@@ -2191,3 +2191,4 @@
 [2026-05-06T21:58:35] Commit #2190: chore(engine): update runtime telemetry and workspace state persistence (#2190)
 [2026-05-06T21:02:36] Commit #2191: chore(engine): update runtime telemetry and workspace state persistence (#2191)
 [2026-05-06T11:20:01] Commit #2192: feat(studio): optimize reactive workspace state management (#2192)
+[2026-05-06T21:22:28] Commit #2193: style(theme): polish dark mode cybernetic neon accents and border glow (#2193)
