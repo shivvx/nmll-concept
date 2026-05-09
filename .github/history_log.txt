@@ -2263,3 +2263,4 @@
 [2026-05-09T16:10:53] Commit #2262: style(theme): polish dark mode cybernetic neon accents and border glow (#2262)
 [2026-05-09T15:22:42] Commit #2263: perf(metrics): enhance epoch loss tracking convergence visualization (#2263)
 [2026-05-09T19:38:04] Commit #2264: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2264)
+[2026-05-09T21:34:39] Commit #2265: docs(readme): update system deployment specs and Vercel serverless guide (#2265)
