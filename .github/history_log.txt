@@ -2266,3 +2266,4 @@
 [2026-05-09T21:34:39] Commit #2265: docs(readme): update system deployment specs and Vercel serverless guide (#2265)
 [2026-05-09T22:41:25] Commit #2266: style(sidebar): tune navigation iconography and active tab indicator glow (#2266)
 [2026-05-09T13:51:54] Commit #2267: perf(metrics): enhance epoch loss tracking convergence visualization (#2267)
+[2026-05-09T10:22:58] Commit #2268: docs(architecture): update component specifications and interface contracts (#2268)
