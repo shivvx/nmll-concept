@@ -2259,3 +2259,4 @@
 [2026-05-09T10:02:27] Commit #2258: feat(studio): optimize reactive workspace state management (#2258)
 [2026-05-09T19:58:45] Commit #2259: perf(copilot): reduce latency on server-side Gemini AI response stream (#2259)
 [2026-05-09T12:10:16] Commit #2260: refactor(pipeline): streamline visual DAG node execution engine (#2260)
+[2026-05-09T23:01:09] Commit #2261: fix(telemetry): resolve async log buffering in terminal console (#2261)
