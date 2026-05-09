@@ -2273,3 +2273,4 @@
 [2026-05-09T18:21:57] Commit #2272: docs(readme): update system deployment specs and Vercel serverless guide (#2272)
 [2026-05-09T16:28:38] Commit #2273: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2273)
 [2026-05-09T10:57:46] Commit #2274: perf(metrics): enhance epoch loss tracking convergence visualization (#2274)
+[2026-05-09T11:03:07] Commit #2275: style(theme): polish dark mode cybernetic neon accents and border glow (#2275)
