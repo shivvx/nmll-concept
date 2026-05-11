@@ -2308,3 +2308,4 @@
 [2026-05-11T14:39:05] Commit #2307: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2307)
 [2026-05-11T15:23:59] Commit #2308: feat(studio): optimize reactive workspace state management (#2308)
 [2026-05-11T18:37:51] Commit #2309: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2309)
+[2026-05-11T20:26:50] Commit #2310: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2310)
