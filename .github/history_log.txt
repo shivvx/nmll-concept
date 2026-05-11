@@ -2301,3 +2301,4 @@
 [2026-05-11T11:36:32] Commit #2300: feat(studio): optimize reactive workspace state management (#2300)
 [2026-05-11T21:38:45] Commit #2301: perf(copilot): reduce latency on server-side Gemini AI response stream (#2301)
 [2026-05-11T20:56:35] Commit #2302: chore(engine): update runtime telemetry and workspace state persistence (#2302)
+[2026-05-11T11:46:53] Commit #2303: docs(readme): update system deployment specs and Vercel serverless guide (#2303)
