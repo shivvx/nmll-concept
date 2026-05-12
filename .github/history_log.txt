@@ -2328,3 +2328,4 @@
 [2026-05-12T16:11:32] Commit #2327: perf(copilot): reduce latency on server-side Gemini AI response stream (#2327)
 [2026-05-12T22:31:33] Commit #2328: feat(studio): optimize reactive workspace state management (#2328)
 [2026-05-12T22:57:29] Commit #2329: style(sidebar): tune navigation iconography and active tab indicator glow (#2329)
+[2026-05-12T19:04:06] Commit #2330: style(theme): polish dark mode cybernetic neon accents and border glow (#2330)
