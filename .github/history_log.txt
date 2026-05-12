@@ -2324,3 +2324,4 @@
 [2026-05-12T15:42:05] Commit #2323: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2323)
 [2026-05-12T18:40:34] Commit #2324: perf(copilot): reduce latency on server-side Gemini AI response stream (#2324)
 [2026-05-12T15:50:02] Commit #2325: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2325)
+[2026-05-12T21:35:10] Commit #2326: docs(readme): update system deployment specs and Vercel serverless guide (#2326)
