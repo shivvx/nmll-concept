@@ -2355,3 +2355,4 @@
 [2026-05-13T16:20:22] Commit #2354: docs(readme): update system deployment specs and Vercel serverless guide (#2354)
 [2026-05-13T21:41:52] Commit #2355: style(sidebar): tune navigation iconography and active tab indicator glow (#2355)
 [2026-05-13T10:13:08] Commit #2356: style(sidebar): tune navigation iconography and active tab indicator glow (#2356)
+[2026-05-13T22:12:05] Commit #2357: docs(architecture): update component specifications and interface contracts (#2357)
