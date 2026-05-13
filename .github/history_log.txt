@@ -2343,3 +2343,4 @@
 [2026-05-13T22:32:38] Commit #2342: chore(engine): update runtime telemetry and workspace state persistence (#2342)
 [2026-05-13T22:04:08] Commit #2343: fix(telemetry): resolve async log buffering in terminal console (#2343)
 [2026-05-13T15:04:46] Commit #2344: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2344)
+[2026-05-13T22:56:04] Commit #2345: style(sidebar): tune navigation iconography and active tab indicator glow (#2345)
