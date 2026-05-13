@@ -2338,3 +2338,4 @@
 [2026-05-12T16:14:40] Commit #2337: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2337)
 [2026-05-12T12:39:21] Commit #2338: style(theme): polish dark mode cybernetic neon accents and border glow (#2338)
 [2026-05-12T22:50:15] Commit #2339: docs(readme): update system deployment specs and Vercel serverless guide (#2339)
+[2026-05-13T11:41:39] Commit #2340: style(sidebar): tune navigation iconography and active tab indicator glow (#2340)
