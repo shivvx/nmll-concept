@@ -2349,3 +2349,4 @@
 [2026-05-13T21:03:01] Commit #2348: perf(metrics): enhance epoch loss tracking convergence visualization (#2348)
 [2026-05-13T16:02:07] Commit #2349: perf(metrics): enhance epoch loss tracking convergence visualization (#2349)
 [2026-05-13T22:12:12] Commit #2350: perf(metrics): enhance epoch loss tracking convergence visualization (#2350)
+[2026-05-13T17:52:46] Commit #2351: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2351)
