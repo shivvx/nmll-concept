@@ -2372,3 +2372,4 @@
 [2026-05-15T12:01:05] Commit #2371: fix(telemetry): resolve async log buffering in terminal console (#2371)
 [2026-05-15T23:02:20] Commit #2372: feat(studio): optimize reactive workspace state management (#2372)
 [2026-05-15T10:22:56] Commit #2373: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2373)
+[2026-05-15T18:56:56] Commit #2374: perf(copilot): reduce latency on server-side Gemini AI response stream (#2374)
