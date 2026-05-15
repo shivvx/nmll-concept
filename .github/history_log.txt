@@ -2363,3 +2363,4 @@
 [2026-05-15T17:04:07] Commit #2362: style(sidebar): tune navigation iconography and active tab indicator glow (#2362)
 [2026-05-15T11:05:24] Commit #2363: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2363)
 [2026-05-15T23:43:38] Commit #2364: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2364)
+[2026-05-15T18:53:51] Commit #2365: docs(readme): update system deployment specs and Vercel serverless guide (#2365)
