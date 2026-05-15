@@ -2376,3 +2376,4 @@
 [2026-05-15T18:20:49] Commit #2375: style(sidebar): tune navigation iconography and active tab indicator glow (#2375)
 [2026-05-15T14:56:41] Commit #2376: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2376)
 [2026-05-15T10:24:53] Commit #2377: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2377)
+[2026-05-15T10:38:58] Commit #2378: docs(readme): update system deployment specs and Vercel serverless guide (#2378)
