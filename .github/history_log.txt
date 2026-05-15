@@ -2385,3 +2385,4 @@
 [2026-05-15T10:00:05] Commit #2384: fix(telemetry): resolve async log buffering in terminal console (#2384)
 [2026-05-15T12:13:34] Commit #2385: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2385)
 [2026-05-15T14:03:40] Commit #2386: fix(telemetry): resolve async log buffering in terminal console (#2386)
+[2026-05-15T22:03:48] Commit #2387: style(theme): polish dark mode cybernetic neon accents and border glow (#2387)
