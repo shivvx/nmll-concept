@@ -2365,3 +2365,4 @@
 [2026-05-15T23:43:38] Commit #2364: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2364)
 [2026-05-15T18:53:51] Commit #2365: docs(readme): update system deployment specs and Vercel serverless guide (#2365)
 [2026-05-15T20:16:18] Commit #2366: style(theme): polish dark mode cybernetic neon accents and border glow (#2366)
+[2026-05-15T15:51:17] Commit #2367: docs(architecture): update component specifications and interface contracts (#2367)
