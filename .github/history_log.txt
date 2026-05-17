@@ -2392,3 +2392,4 @@
 [2026-05-17T22:49:14] Commit #2391: style(theme): polish dark mode cybernetic neon accents and border glow (#2391)
 [2026-05-17T14:30:20] Commit #2392: perf(metrics): enhance epoch loss tracking convergence visualization (#2392)
 [2026-05-17T21:52:49] Commit #2393: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2393)
+[2026-05-17T14:46:07] Commit #2394: docs(readme): update system deployment specs and Vercel serverless guide (#2394)
