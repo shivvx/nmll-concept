@@ -2410,3 +2410,4 @@
 [2026-05-17T11:39:19] Commit #2409: style(theme): polish dark mode cybernetic neon accents and border glow (#2409)
 [2026-05-17T17:30:37] Commit #2410: style(sidebar): tune navigation iconography and active tab indicator glow (#2410)
 [2026-05-17T21:48:41] Commit #2411: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2411)
+[2026-05-17T21:13:27] Commit #2412: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2412)
