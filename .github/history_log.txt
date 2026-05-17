@@ -2408,3 +2408,4 @@
 [2026-05-17T13:58:06] Commit #2407: docs(architecture): update component specifications and interface contracts (#2407)
 [2026-05-17T23:19:43] Commit #2408: refactor(pipeline): streamline visual DAG node execution engine (#2408)
 [2026-05-17T11:39:19] Commit #2409: style(theme): polish dark mode cybernetic neon accents and border glow (#2409)
+[2026-05-17T17:30:37] Commit #2410: style(sidebar): tune navigation iconography and active tab indicator glow (#2410)
