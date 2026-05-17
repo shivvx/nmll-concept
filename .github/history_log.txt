@@ -2395,3 +2395,4 @@
 [2026-05-17T14:46:07] Commit #2394: docs(readme): update system deployment specs and Vercel serverless guide (#2394)
 [2026-05-17T21:52:49] Commit #2395: perf(copilot): reduce latency on server-side Gemini AI response stream (#2395)
 [2026-05-17T20:26:26] Commit #2396: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2396)
+[2026-05-17T18:00:20] Commit #2397: docs(architecture): update component specifications and interface contracts (#2397)
