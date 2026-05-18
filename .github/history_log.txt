@@ -2423,3 +2423,4 @@
 [2026-05-18T20:19:14] Commit #2422: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2422)
 [2026-05-18T22:24:15] Commit #2423: feat(studio): optimize reactive workspace state management (#2423)
 [2026-05-18T22:24:04] Commit #2424: perf(copilot): reduce latency on server-side Gemini AI response stream (#2424)
+[2026-05-18T20:12:18] Commit #2425: chore(engine): update runtime telemetry and workspace state persistence (#2425)
