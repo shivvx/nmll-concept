@@ -2455,3 +2455,4 @@
 [2026-05-19T22:01:35] Commit #2454: docs(architecture): update component specifications and interface contracts (#2454)
 [2026-05-19T20:12:15] Commit #2455: style(sidebar): tune navigation iconography and active tab indicator glow (#2455)
 [2026-05-19T19:48:56] Commit #2456: perf(copilot): reduce latency on server-side Gemini AI response stream (#2456)
+[2026-05-19T13:31:05] Commit #2457: style(theme): polish dark mode cybernetic neon accents and border glow (#2457)
