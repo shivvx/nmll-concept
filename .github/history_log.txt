@@ -2478,3 +2478,4 @@
 [2026-05-20T16:52:11] Commit #2477: perf(copilot): reduce latency on server-side Gemini AI response stream (#2477)
 [2026-05-20T15:39:09] Commit #2478: chore(engine): update runtime telemetry and workspace state persistence (#2478)
 [2026-05-20T17:49:42] Commit #2479: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2479)
+[2026-05-20T12:57:58] Commit #2480: docs(architecture): update component specifications and interface contracts (#2480)
