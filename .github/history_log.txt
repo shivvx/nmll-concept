@@ -2482,3 +2482,4 @@
 [2026-05-20T14:47:28] Commit #2481: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2481)
 [2026-05-20T13:40:53] Commit #2482: fix(telemetry): resolve async log buffering in terminal console (#2482)
 [2026-05-20T22:54:04] Commit #2483: chore(engine): update runtime telemetry and workspace state persistence (#2483)
+[2026-05-20T19:50:01] Commit #2484: docs(readme): update system deployment specs and Vercel serverless guide (#2484)
