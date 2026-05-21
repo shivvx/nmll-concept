@@ -2494,3 +2494,4 @@
 [2026-05-21T20:17:40] Commit #2493: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2493)
 [2026-05-21T17:37:22] Commit #2494: feat(studio): optimize reactive workspace state management (#2494)
 [2026-05-21T18:55:30] Commit #2495: chore(engine): update runtime telemetry and workspace state persistence (#2495)
+[2026-05-21T09:22:39] Commit #2496: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2496)
