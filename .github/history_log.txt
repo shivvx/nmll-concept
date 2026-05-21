@@ -2496,3 +2496,4 @@
 [2026-05-21T18:55:30] Commit #2495: chore(engine): update runtime telemetry and workspace state persistence (#2495)
 [2026-05-21T09:22:39] Commit #2496: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2496)
 [2026-05-21T10:50:16] Commit #2497: style(sidebar): tune navigation iconography and active tab indicator glow (#2497)
+[2026-05-21T21:53:01] Commit #2498: feat(studio): optimize reactive workspace state management (#2498)
