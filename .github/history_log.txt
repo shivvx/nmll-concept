@@ -2489,3 +2489,4 @@
 [2026-05-21T20:25:32] Commit #2488: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2488)
 [2026-05-21T13:29:39] Commit #2489: perf(copilot): reduce latency on server-side Gemini AI response stream (#2489)
 [2026-05-21T15:28:50] Commit #2490: style(theme): polish dark mode cybernetic neon accents and border glow (#2490)
+[2026-05-21T23:02:38] Commit #2491: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2491)
