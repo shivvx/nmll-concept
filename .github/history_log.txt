@@ -2492,3 +2492,4 @@
 [2026-05-21T23:02:38] Commit #2491: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2491)
 [2026-05-21T13:44:04] Commit #2492: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2492)
 [2026-05-21T20:17:40] Commit #2493: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2493)
+[2026-05-21T17:37:22] Commit #2494: feat(studio): optimize reactive workspace state management (#2494)
