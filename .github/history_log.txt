@@ -2499,3 +2499,4 @@
 [2026-05-21T21:53:01] Commit #2498: feat(studio): optimize reactive workspace state management (#2498)
 [2026-05-21T10:49:57] Commit #2499: style(sidebar): tune navigation iconography and active tab indicator glow (#2499)
 [2026-05-21T12:22:51] Commit #2500: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2500)
+[2026-05-21T21:18:23] Commit #2501: chore(engine): update runtime telemetry and workspace state persistence (#2501)
