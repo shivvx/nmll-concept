@@ -2490,3 +2490,4 @@
 [2026-05-21T13:29:39] Commit #2489: perf(copilot): reduce latency on server-side Gemini AI response stream (#2489)
 [2026-05-21T15:28:50] Commit #2490: style(theme): polish dark mode cybernetic neon accents and border glow (#2490)
 [2026-05-21T23:02:38] Commit #2491: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2491)
+[2026-05-21T13:44:04] Commit #2492: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2492)
