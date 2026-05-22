@@ -2516,3 +2516,4 @@
 [2026-05-22T12:35:20] Commit #2515: feat(studio): optimize reactive workspace state management (#2515)
 [2026-05-22T10:41:37] Commit #2516: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2516)
 [2026-05-22T23:31:57] Commit #2517: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2517)
+[2026-05-22T17:17:32] Commit #2518: chore(engine): update runtime telemetry and workspace state persistence (#2518)
