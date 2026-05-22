@@ -2530,3 +2530,4 @@
 [2026-05-22T21:48:50] Commit #2529: style(theme): polish dark mode cybernetic neon accents and border glow (#2529)
 [2026-05-22T11:29:15] Commit #2530: chore(engine): update runtime telemetry and workspace state persistence (#2530)
 [2026-05-22T23:12:58] Commit #2531: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2531)
+[2026-05-22T19:24:53] Commit #2532: docs(architecture): update component specifications and interface contracts (#2532)
