@@ -2549,3 +2549,4 @@
 [2026-05-23T20:58:06] Commit #2548: refactor(pipeline): streamline visual DAG node execution engine (#2548)
 [2026-05-23T23:02:27] Commit #2549: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2549)
 [2026-05-23T17:57:00] Commit #2550: style(sidebar): tune navigation iconography and active tab indicator glow (#2550)
+[2026-05-23T14:41:52] Commit #2551: docs(readme): update system deployment specs and Vercel serverless guide (#2551)
