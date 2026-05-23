@@ -2552,3 +2552,4 @@
 [2026-05-23T14:41:52] Commit #2551: docs(readme): update system deployment specs and Vercel serverless guide (#2551)
 [2026-05-23T20:22:50] Commit #2552: refactor(pipeline): streamline visual DAG node execution engine (#2552)
 [2026-05-23T11:56:07] Commit #2553: style(sidebar): tune navigation iconography and active tab indicator glow (#2553)
+[2026-05-23T16:25:05] Commit #2554: style(theme): polish dark mode cybernetic neon accents and border glow (#2554)
