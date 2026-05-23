@@ -2556,3 +2556,4 @@
 [2026-05-23T17:06:28] Commit #2555: refactor(pipeline): streamline visual DAG node execution engine (#2555)
 [2026-05-23T14:35:30] Commit #2556: refactor(pipeline): streamline visual DAG node execution engine (#2556)
 [2026-05-23T20:57:59] Commit #2557: style(sidebar): tune navigation iconography and active tab indicator glow (#2557)
+[2026-05-23T11:51:49] Commit #2558: docs(readme): update system deployment specs and Vercel serverless guide (#2558)
