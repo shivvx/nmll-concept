@@ -2564,3 +2564,4 @@
 [2026-05-24T17:06:34] Commit #2563: docs(readme): update system deployment specs and Vercel serverless guide (#2563)
 [2026-05-24T09:04:56] Commit #2564: feat(studio): optimize reactive workspace state management (#2564)
 [2026-05-24T21:56:39] Commit #2565: perf(metrics): enhance epoch loss tracking convergence visualization (#2565)
+[2026-05-24T12:10:18] Commit #2566: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2566)
