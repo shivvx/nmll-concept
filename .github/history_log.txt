@@ -2575,3 +2575,4 @@
 [2026-05-24T23:57:20] Commit #2574: perf(copilot): reduce latency on server-side Gemini AI response stream (#2574)
 [2026-05-24T18:41:59] Commit #2575: feat(studio): optimize reactive workspace state management (#2575)
 [2026-05-24T19:27:17] Commit #2576: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2576)
+[2026-05-24T14:36:25] Commit #2577: chore(engine): update runtime telemetry and workspace state persistence (#2577)
