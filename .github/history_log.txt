@@ -2582,3 +2582,4 @@
 [2026-05-24T12:42:55] Commit #2581: style(sidebar): tune navigation iconography and active tab indicator glow (#2581)
 [2026-05-24T18:50:42] Commit #2582: refactor(pipeline): streamline visual DAG node execution engine (#2582)
 [2026-05-24T19:45:01] Commit #2583: refactor(pipeline): streamline visual DAG node execution engine (#2583)
+[2026-05-24T22:29:25] Commit #2584: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2584)
