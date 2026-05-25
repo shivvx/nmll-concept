@@ -2592,3 +2592,4 @@
 [2026-05-25T19:25:54] Commit #2591: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2591)
 [2026-05-25T16:14:12] Commit #2592: refactor(pipeline): streamline visual DAG node execution engine (#2592)
 [2026-05-25T09:34:05] Commit #2593: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2593)
+[2026-05-25T16:26:12] Commit #2594: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2594)
