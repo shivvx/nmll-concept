@@ -2608,3 +2608,4 @@
 [2026-05-25T13:37:37] Commit #2607: perf(metrics): enhance epoch loss tracking convergence visualization (#2607)
 [2026-05-25T17:16:46] Commit #2608: perf(copilot): reduce latency on server-side Gemini AI response stream (#2608)
 [2026-05-25T18:36:36] Commit #2609: style(theme): polish dark mode cybernetic neon accents and border glow (#2609)
+[2026-05-25T10:11:13] Commit #2610: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2610)
