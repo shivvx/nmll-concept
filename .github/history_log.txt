@@ -2602,3 +2602,4 @@
 [2026-05-25T22:00:00] Commit #2601: feat(studio): optimize reactive workspace state management (#2601)
 [2026-05-25T12:17:23] Commit #2602: fix(telemetry): resolve async log buffering in terminal console (#2602)
 [2026-05-25T10:52:18] Commit #2603: refactor(pipeline): streamline visual DAG node execution engine (#2603)
+[2026-05-25T21:45:46] Commit #2604: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2604)
