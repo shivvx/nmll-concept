@@ -2589,3 +2589,4 @@
 [2026-05-24T13:55:24] Commit #2588: feat(studio): optimize reactive workspace state management (#2588)
 [2026-05-24T18:02:36] Commit #2589: docs(readme): update system deployment specs and Vercel serverless guide (#2589)
 [2026-05-25T19:08:27] Commit #2590: docs(readme): update system deployment specs and Vercel serverless guide (#2590)
+[2026-05-25T19:25:54] Commit #2591: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2591)
