@@ -2620,3 +2620,4 @@
 [2026-05-26T23:40:01] Commit #2619: perf(copilot): reduce latency on server-side Gemini AI response stream (#2619)
 [2026-05-26T21:14:42] Commit #2620: docs(readme): update system deployment specs and Vercel serverless guide (#2620)
 [2026-05-26T21:34:52] Commit #2621: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2621)
+[2026-05-26T11:26:31] Commit #2622: style(sidebar): tune navigation iconography and active tab indicator glow (#2622)
