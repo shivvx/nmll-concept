@@ -2644,3 +2644,4 @@
 [2026-05-27T10:31:43] Commit #2643: feat(studio): optimize reactive workspace state management (#2643)
 [2026-05-27T17:04:22] Commit #2644: style(sidebar): tune navigation iconography and active tab indicator glow (#2644)
 [2026-05-27T10:19:35] Commit #2645: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2645)
+[2026-05-27T10:11:17] Commit #2646: style(sidebar): tune navigation iconography and active tab indicator glow (#2646)
