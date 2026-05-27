@@ -2647,3 +2647,4 @@
 [2026-05-27T10:11:17] Commit #2646: style(sidebar): tune navigation iconography and active tab indicator glow (#2646)
 [2026-05-27T21:19:15] Commit #2647: style(theme): polish dark mode cybernetic neon accents and border glow (#2647)
 [2026-05-27T19:11:41] Commit #2648: fix(telemetry): resolve async log buffering in terminal console (#2648)
+[2026-05-27T09:53:47] Commit #2649: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2649)
