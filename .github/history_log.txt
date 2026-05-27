@@ -2643,3 +2643,4 @@
 [2026-05-27T23:43:37] Commit #2642: perf(copilot): reduce latency on server-side Gemini AI response stream (#2642)
 [2026-05-27T10:31:43] Commit #2643: feat(studio): optimize reactive workspace state management (#2643)
 [2026-05-27T17:04:22] Commit #2644: style(sidebar): tune navigation iconography and active tab indicator glow (#2644)
+[2026-05-27T10:19:35] Commit #2645: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2645)
