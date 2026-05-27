@@ -2659,3 +2659,4 @@
 [2026-05-27T09:41:08] Commit #2658: chore(engine): update runtime telemetry and workspace state persistence (#2658)
 [2026-05-27T20:55:18] Commit #2659: refactor(pipeline): streamline visual DAG node execution engine (#2659)
 [2026-05-27T21:07:22] Commit #2660: style(theme): polish dark mode cybernetic neon accents and border glow (#2660)
+[2026-05-27T21:21:21] Commit #2661: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2661)
