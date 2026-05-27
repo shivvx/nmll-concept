@@ -2650,3 +2650,4 @@
 [2026-05-27T09:53:47] Commit #2649: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2649)
 [2026-05-27T15:03:06] Commit #2650: fix(telemetry): resolve async log buffering in terminal console (#2650)
 [2026-05-27T18:05:57] Commit #2651: fix(telemetry): resolve async log buffering in terminal console (#2651)
+[2026-05-27T11:10:30] Commit #2652: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2652)
