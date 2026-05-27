@@ -2652,3 +2652,4 @@
 [2026-05-27T18:05:57] Commit #2651: fix(telemetry): resolve async log buffering in terminal console (#2651)
 [2026-05-27T11:10:30] Commit #2652: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2652)
 [2026-05-27T22:38:38] Commit #2653: feat(studio): optimize reactive workspace state management (#2653)
+[2026-05-27T12:28:04] Commit #2654: style(theme): polish dark mode cybernetic neon accents and border glow (#2654)
