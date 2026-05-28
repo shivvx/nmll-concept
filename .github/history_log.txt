@@ -2666,3 +2666,4 @@
 [2026-05-28T10:25:38] Commit #2665: perf(metrics): enhance epoch loss tracking convergence visualization (#2665)
 [2026-05-28T21:40:56] Commit #2666: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2666)
 [2026-05-28T11:07:16] Commit #2667: perf(copilot): reduce latency on server-side Gemini AI response stream (#2667)
+[2026-05-28T09:53:05] Commit #2668: docs(readme): update system deployment specs and Vercel serverless guide (#2668)
