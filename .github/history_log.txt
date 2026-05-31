@@ -2689,3 +2689,4 @@
 [2026-05-28T14:03:04] Commit #2688: refactor(pipeline): streamline visual DAG node execution engine (#2688)
 [2026-05-31T19:29:35] Commit #2689: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2689)
 [2026-05-31T21:24:47] Commit #2690: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2690)
+[2026-05-31T16:06:29] Commit #2691: docs(architecture): update component specifications and interface contracts (#2691)
