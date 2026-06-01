@@ -2740,3 +2740,4 @@
 [2026-06-01T13:49:21] Commit #2739: refactor(pipeline): streamline visual DAG node execution engine (#2739)
 [2026-06-01T20:41:30] Commit #2740: docs(readme): update system deployment specs and Vercel serverless guide (#2740)
 [2026-06-01T12:42:44] Commit #2741: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2741)
+[2026-06-01T10:26:36] Commit #2742: style(sidebar): tune navigation iconography and active tab indicator glow (#2742)
