@@ -2725,3 +2725,4 @@
 [2026-06-01T10:44:21] Commit #2724: fix(telemetry): resolve async log buffering in terminal console (#2724)
 [2026-06-01T22:41:46] Commit #2725: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2725)
 [2026-06-01T09:05:58] Commit #2726: chore(engine): update runtime telemetry and workspace state persistence (#2726)
+[2026-06-01T23:54:53] Commit #2727: style(theme): polish dark mode cybernetic neon accents and border glow (#2727)
