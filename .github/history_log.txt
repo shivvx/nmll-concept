@@ -2721,3 +2721,4 @@
 [2026-06-01T14:40:39] Commit #2720: perf(copilot): reduce latency on server-side Gemini AI response stream (#2720)
 [2026-06-01T20:46:23] Commit #2721: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2721)
 [2026-06-01T23:53:37] Commit #2722: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2722)
+[2026-06-01T19:22:49] Commit #2723: style(theme): polish dark mode cybernetic neon accents and border glow (#2723)
