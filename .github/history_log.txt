@@ -2762,3 +2762,4 @@
 [2026-06-02T15:03:56] Commit #2761: refactor(pipeline): streamline visual DAG node execution engine (#2761)
 [2026-06-02T23:37:07] Commit #2762: perf(copilot): reduce latency on server-side Gemini AI response stream (#2762)
 [2026-06-02T18:33:31] Commit #2763: docs(architecture): update component specifications and interface contracts (#2763)
+[2026-06-02T23:15:37] Commit #2764: docs(readme): update system deployment specs and Vercel serverless guide (#2764)
