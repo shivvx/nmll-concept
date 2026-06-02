@@ -2766,3 +2766,4 @@
 [2026-06-02T16:51:41] Commit #2765: docs(readme): update system deployment specs and Vercel serverless guide (#2765)
 [2026-06-02T10:14:44] Commit #2766: refactor(pipeline): streamline visual DAG node execution engine (#2766)
 [2026-06-02T17:36:39] Commit #2767: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2767)
+[2026-06-02T10:46:43] Commit #2768: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2768)
