@@ -2742,3 +2742,4 @@
 [2026-06-01T12:42:44] Commit #2741: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2741)
 [2026-06-01T10:26:36] Commit #2742: style(sidebar): tune navigation iconography and active tab indicator glow (#2742)
 [2026-06-02T19:39:22] Commit #2743: perf(metrics): enhance epoch loss tracking convergence visualization (#2743)
+[2026-06-02T18:30:16] Commit #2744: docs(readme): update system deployment specs and Vercel serverless guide (#2744)
