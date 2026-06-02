@@ -2743,3 +2743,4 @@
 [2026-06-01T10:26:36] Commit #2742: style(sidebar): tune navigation iconography and active tab indicator glow (#2742)
 [2026-06-02T19:39:22] Commit #2743: perf(metrics): enhance epoch loss tracking convergence visualization (#2743)
 [2026-06-02T18:30:16] Commit #2744: docs(readme): update system deployment specs and Vercel serverless guide (#2744)
+[2026-06-02T16:34:11] Commit #2745: fix(telemetry): resolve async log buffering in terminal console (#2745)
