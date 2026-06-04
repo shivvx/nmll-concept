@@ -2784,3 +2784,4 @@
 [2026-06-04T14:12:58] Commit #2783: chore(engine): update runtime telemetry and workspace state persistence (#2783)
 [2026-06-04T15:06:31] Commit #2784: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2784)
 [2026-06-04T16:19:53] Commit #2785: docs(readme): update system deployment specs and Vercel serverless guide (#2785)
+[2026-06-04T16:04:13] Commit #2786: style(theme): polish dark mode cybernetic neon accents and border glow (#2786)
