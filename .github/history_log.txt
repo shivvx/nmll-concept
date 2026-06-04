@@ -2778,3 +2778,4 @@
 [2026-06-04T20:17:22] Commit #2777: feat(studio): optimize reactive workspace state management (#2777)
 [2026-06-04T11:53:44] Commit #2778: perf(copilot): reduce latency on server-side Gemini AI response stream (#2778)
 [2026-06-04T14:53:55] Commit #2779: style(theme): polish dark mode cybernetic neon accents and border glow (#2779)
+[2026-06-04T16:11:49] Commit #2780: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2780)
