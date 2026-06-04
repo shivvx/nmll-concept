@@ -2771,3 +2771,4 @@
 [2026-06-02T10:50:51] Commit #2770: style(sidebar): tune navigation iconography and active tab indicator glow (#2770)
 [2026-06-04T22:44:56] Commit #2771: docs(readme): update system deployment specs and Vercel serverless guide (#2771)
 [2026-06-04T09:42:23] Commit #2772: refactor(pipeline): streamline visual DAG node execution engine (#2772)
+[2026-06-04T09:34:56] Commit #2773: docs(architecture): update component specifications and interface contracts (#2773)
