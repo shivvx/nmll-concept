@@ -2791,3 +2791,4 @@
 [2026-06-04T23:54:15] Commit #2790: style(theme): polish dark mode cybernetic neon accents and border glow (#2790)
 [2026-06-04T11:10:23] Commit #2791: feat(studio): optimize reactive workspace state management (#2791)
 [2026-06-08T20:11:27] Commit #2792: docs(architecture): update component specifications and interface contracts (#2792)
+[2026-06-08T13:37:00] Commit #2793: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2793)
