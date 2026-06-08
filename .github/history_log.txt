@@ -2805,3 +2805,4 @@
 [2026-06-08T12:11:48] Commit #2804: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2804)
 [2026-06-08T11:59:39] Commit #2805: refactor(pipeline): streamline visual DAG node execution engine (#2805)
 [2026-06-08T22:51:33] Commit #2806: style(theme): polish dark mode cybernetic neon accents and border glow (#2806)
+[2026-06-08T19:05:40] Commit #2807: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2807)
