@@ -2792,3 +2792,4 @@
 [2026-06-04T11:10:23] Commit #2791: feat(studio): optimize reactive workspace state management (#2791)
 [2026-06-08T20:11:27] Commit #2792: docs(architecture): update component specifications and interface contracts (#2792)
 [2026-06-08T13:37:00] Commit #2793: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2793)
+[2026-06-08T13:09:13] Commit #2794: docs(architecture): update component specifications and interface contracts (#2794)
