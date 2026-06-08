@@ -2804,3 +2804,4 @@
 [2026-06-08T17:36:45] Commit #2803: docs(architecture): update component specifications and interface contracts (#2803)
 [2026-06-08T12:11:48] Commit #2804: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2804)
 [2026-06-08T11:59:39] Commit #2805: refactor(pipeline): streamline visual DAG node execution engine (#2805)
+[2026-06-08T22:51:33] Commit #2806: style(theme): polish dark mode cybernetic neon accents and border glow (#2806)
