@@ -2834,3 +2834,4 @@
 [2026-06-10T21:40:58] Commit #2833: docs(readme): update system deployment specs and Vercel serverless guide (#2833)
 [2026-06-10T19:21:40] Commit #2834: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2834)
 [2026-06-10T22:10:24] Commit #2835: perf(metrics): enhance epoch loss tracking convergence visualization (#2835)
+[2026-06-10T18:46:32] Commit #2836: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2836)
