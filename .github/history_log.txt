@@ -2819,3 +2819,4 @@
 [2026-06-10T23:07:39] Commit #2818: style(sidebar): tune navigation iconography and active tab indicator glow (#2818)
 [2026-06-10T21:10:16] Commit #2819: docs(readme): update system deployment specs and Vercel serverless guide (#2819)
 [2026-06-10T19:41:33] Commit #2820: style(theme): polish dark mode cybernetic neon accents and border glow (#2820)
+[2026-06-10T22:48:51] Commit #2821: docs(architecture): update component specifications and interface contracts (#2821)
