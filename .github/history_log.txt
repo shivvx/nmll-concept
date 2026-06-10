@@ -2813,3 +2813,4 @@
 [2026-06-08T12:59:34] Commit #2812: perf(copilot): reduce latency on server-side Gemini AI response stream (#2812)
 [2026-06-10T13:28:42] Commit #2813: fix(telemetry): resolve async log buffering in terminal console (#2813)
 [2026-06-10T22:03:47] Commit #2814: perf(copilot): reduce latency on server-side Gemini AI response stream (#2814)
+[2026-06-10T23:34:27] Commit #2815: docs(readme): update system deployment specs and Vercel serverless guide (#2815)
