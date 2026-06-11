@@ -2857,3 +2857,4 @@
 [2026-06-11T13:23:27] Commit #2856: style(sidebar): tune navigation iconography and active tab indicator glow (#2856)
 [2026-06-11T11:30:08] Commit #2857: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2857)
 [2026-06-11T17:06:44] Commit #2858: refactor(pipeline): streamline visual DAG node execution engine (#2858)
+[2026-06-11T23:42:04] Commit #2859: chore(engine): update runtime telemetry and workspace state persistence (#2859)
