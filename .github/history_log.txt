@@ -2859,3 +2859,4 @@
 [2026-06-11T17:06:44] Commit #2858: refactor(pipeline): streamline visual DAG node execution engine (#2858)
 [2026-06-11T23:42:04] Commit #2859: chore(engine): update runtime telemetry and workspace state persistence (#2859)
 [2026-06-11T20:47:40] Commit #2860: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2860)
+[2026-06-12T12:23:35] Commit #2861: perf(copilot): reduce latency on server-side Gemini AI response stream (#2861)
