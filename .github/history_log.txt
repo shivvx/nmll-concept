@@ -2874,3 +2874,4 @@
 [2026-06-12T15:50:48] Commit #2873: feat(studio): optimize reactive workspace state management (#2873)
 [2026-06-12T20:13:32] Commit #2874: docs(readme): update system deployment specs and Vercel serverless guide (#2874)
 [2026-06-12T11:04:46] Commit #2875: feat(studio): optimize reactive workspace state management (#2875)
+[2026-06-12T11:04:48] Commit #2876: docs(readme): update system deployment specs and Vercel serverless guide (#2876)
