@@ -2889,3 +2889,4 @@
 [2026-06-14T23:53:53] Commit #2888: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2888)
 [2026-06-14T21:29:16] Commit #2889: docs(readme): update system deployment specs and Vercel serverless guide (#2889)
 [2026-06-14T18:02:59] Commit #2890: feat(studio): optimize reactive workspace state management (#2890)
+[2026-06-14T11:16:00] Commit #2891: docs(readme): update system deployment specs and Vercel serverless guide (#2891)
