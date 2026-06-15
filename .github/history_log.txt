@@ -2919,3 +2919,4 @@
 [2026-06-15T22:26:41] Commit #2918: perf(copilot): reduce latency on server-side Gemini AI response stream (#2918)
 [2026-06-15T18:01:15] Commit #2919: style(sidebar): tune navigation iconography and active tab indicator glow (#2919)
 [2026-06-15T12:21:32] Commit #2920: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2920)
+[2026-06-15T10:28:55] Commit #2921: docs(readme): update system deployment specs and Vercel serverless guide (#2921)
