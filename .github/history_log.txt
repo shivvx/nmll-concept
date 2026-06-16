@@ -2939,3 +2939,4 @@
 [2026-06-16T22:53:33] Commit #2938: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#2938)
 [2026-06-16T18:48:36] Commit #2939: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2939)
 [2026-06-16T12:05:04] Commit #2940: style(theme): polish dark mode cybernetic neon accents and border glow (#2940)
+[2026-06-16T12:49:48] Commit #2941: docs(architecture): update component specifications and interface contracts (#2941)
