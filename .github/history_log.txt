@@ -2954,3 +2954,4 @@
 [2026-06-16T11:26:03] Commit #2953: perf(copilot): reduce latency on server-side Gemini AI response stream (#2953)
 [2026-06-16T14:38:05] Commit #2954: style(theme): polish dark mode cybernetic neon accents and border glow (#2954)
 [2026-06-16T15:28:04] Commit #2955: chore(engine): update runtime telemetry and workspace state persistence (#2955)
+[2026-06-16T11:28:40] Commit #2956: style(sidebar): tune navigation iconography and active tab indicator glow (#2956)
