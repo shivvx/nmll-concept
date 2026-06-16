@@ -2952,3 +2952,4 @@
 [2026-06-16T12:10:44] Commit #2951: docs(architecture): update component specifications and interface contracts (#2951)
 [2026-06-16T18:56:12] Commit #2952: perf(copilot): reduce latency on server-side Gemini AI response stream (#2952)
 [2026-06-16T11:26:03] Commit #2953: perf(copilot): reduce latency on server-side Gemini AI response stream (#2953)
+[2026-06-16T14:38:05] Commit #2954: style(theme): polish dark mode cybernetic neon accents and border glow (#2954)
