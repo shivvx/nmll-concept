@@ -2967,3 +2967,4 @@
 [2026-06-17T09:56:38] Commit #2966: docs(readme): update system deployment specs and Vercel serverless guide (#2966)
 [2026-06-17T16:43:37] Commit #2967: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2967)
 [2026-06-17T14:15:13] Commit #2968: feat(studio): optimize reactive workspace state management (#2968)
+[2026-06-17T13:28:53] Commit #2969: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#2969)
