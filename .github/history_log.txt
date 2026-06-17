@@ -2977,3 +2977,4 @@
 [2026-06-17T16:56:59] Commit #2976: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#2976)
 [2026-06-17T21:00:43] Commit #2977: style(sidebar): tune navigation iconography and active tab indicator glow (#2977)
 [2026-06-17T22:48:16] Commit #2978: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#2978)
+[2026-06-17T22:51:35] Commit #2979: docs(architecture): update component specifications and interface contracts (#2979)
