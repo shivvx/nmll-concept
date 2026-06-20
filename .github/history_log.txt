@@ -3036,3 +3036,4 @@
 [2026-06-20T21:09:14] Commit #3035: docs(architecture): update component specifications and interface contracts (#3035)
 [2026-06-20T17:03:15] Commit #3036: docs(readme): update system deployment specs and Vercel serverless guide (#3036)
 [2026-06-20T19:15:23] Commit #3037: feat(studio): optimize reactive workspace state management (#3037)
+[2026-06-20T20:23:13] Commit #3038: style(sidebar): tune navigation iconography and active tab indicator glow (#3038)
