@@ -3074,3 +3074,4 @@
 [2026-06-21T17:18:59] Commit #3073: feat(studio): optimize reactive workspace state management (#3073)
 [2026-06-21T23:16:20] Commit #3074: perf(copilot): reduce latency on server-side Gemini AI response stream (#3074)
 [2026-06-21T17:07:41] Commit #3075: style(theme): polish dark mode cybernetic neon accents and border glow (#3075)
+[2026-06-21T17:52:32] Commit #3076: docs(readme): update system deployment specs and Vercel serverless guide (#3076)
