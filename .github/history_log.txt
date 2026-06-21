@@ -3062,3 +3062,4 @@
 [2026-06-21T12:16:07] Commit #3061: chore(engine): update runtime telemetry and workspace state persistence (#3061)
 [2026-06-21T16:42:20] Commit #3062: fix(telemetry): resolve async log buffering in terminal console (#3062)
 [2026-06-21T19:18:07] Commit #3063: feat(studio): optimize reactive workspace state management (#3063)
+[2026-06-21T13:55:11] Commit #3064: docs(readme): update system deployment specs and Vercel serverless guide (#3064)
