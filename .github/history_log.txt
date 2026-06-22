@@ -3083,3 +3083,4 @@
 [2026-06-21T09:01:03] Commit #3082: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3082)
 [2026-06-21T22:01:54] Commit #3083: perf(copilot): reduce latency on server-side Gemini AI response stream (#3083)
 [2026-06-22T18:12:07] Commit #3084: style(sidebar): tune navigation iconography and active tab indicator glow (#3084)
+[2026-06-22T09:46:22] Commit #3085: docs(architecture): update component specifications and interface contracts (#3085)
