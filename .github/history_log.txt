@@ -3084,3 +3084,4 @@
 [2026-06-21T22:01:54] Commit #3083: perf(copilot): reduce latency on server-side Gemini AI response stream (#3083)
 [2026-06-22T18:12:07] Commit #3084: style(sidebar): tune navigation iconography and active tab indicator glow (#3084)
 [2026-06-22T09:46:22] Commit #3085: docs(architecture): update component specifications and interface contracts (#3085)
+[2026-06-22T17:49:43] Commit #3086: chore(engine): update runtime telemetry and workspace state persistence (#3086)
