@@ -3097,3 +3097,4 @@
 [2026-06-22T11:39:40] Commit #3096: chore(engine): update runtime telemetry and workspace state persistence (#3096)
 [2026-06-22T21:13:48] Commit #3097: docs(architecture): update component specifications and interface contracts (#3097)
 [2026-06-22T17:14:31] Commit #3098: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3098)
+[2026-06-22T18:21:53] Commit #3099: style(sidebar): tune navigation iconography and active tab indicator glow (#3099)
