@@ -3146,3 +3146,4 @@
 [2026-06-24T17:59:02] Commit #3145: refactor(pipeline): streamline visual DAG node execution engine (#3145)
 [2026-06-24T09:03:43] Commit #3146: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3146)
 [2026-06-24T22:47:08] Commit #3147: refactor(pipeline): streamline visual DAG node execution engine (#3147)
+[2026-06-24T12:01:36] Commit #3148: style(sidebar): tune navigation iconography and active tab indicator glow (#3148)
