@@ -3175,3 +3175,4 @@
 [2026-06-25T21:49:24] Commit #3174: style(sidebar): tune navigation iconography and active tab indicator glow (#3174)
 [2026-06-25T15:52:46] Commit #3175: fix(telemetry): resolve async log buffering in terminal console (#3175)
 [2026-06-25T18:14:09] Commit #3176: chore(engine): update runtime telemetry and workspace state persistence (#3176)
+[2026-06-25T20:28:43] Commit #3177: style(theme): polish dark mode cybernetic neon accents and border glow (#3177)
