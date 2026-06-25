@@ -3161,3 +3161,4 @@
 [2026-06-25T10:21:46] Commit #3160: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3160)
 [2026-06-25T19:28:45] Commit #3161: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3161)
 [2026-06-25T13:24:06] Commit #3162: chore(engine): update runtime telemetry and workspace state persistence (#3162)
+[2026-06-25T13:18:40] Commit #3163: docs(readme): update system deployment specs and Vercel serverless guide (#3163)
