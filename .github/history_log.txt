@@ -3172,3 +3172,4 @@
 [2026-06-25T22:31:44] Commit #3171: chore(engine): update runtime telemetry and workspace state persistence (#3171)
 [2026-06-25T19:45:38] Commit #3172: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3172)
 [2026-06-25T14:30:43] Commit #3173: perf(copilot): reduce latency on server-side Gemini AI response stream (#3173)
+[2026-06-25T21:49:24] Commit #3174: style(sidebar): tune navigation iconography and active tab indicator glow (#3174)
