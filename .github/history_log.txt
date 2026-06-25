@@ -3168,3 +3168,4 @@
 [2026-06-25T19:59:30] Commit #3167: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3167)
 [2026-06-25T18:51:05] Commit #3168: feat(studio): optimize reactive workspace state management (#3168)
 [2026-06-25T12:18:16] Commit #3169: fix(telemetry): resolve async log buffering in terminal console (#3169)
+[2026-06-25T11:44:23] Commit #3170: docs(readme): update system deployment specs and Vercel serverless guide (#3170)
