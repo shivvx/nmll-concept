@@ -1,0 +1,6 @@
+{
+  "name": "NMLL Studio Web",
+  "description": "An AI-native desktop-grade workspace for professional machine learning. Unified browser IDE, Jupyter compiler, pipeline node designer, training metrics, experiments matrix, explainability suite, and multi-agent ML assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

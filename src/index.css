@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:ital,wght@0,300..800;1,300..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Base resets & customized premium scrollbars */
+html, body {
+  background-color: #060608;
+  color: #e4e4e7;
+  font-family: var(--font-sans);
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+/* Custom premium scrollbar for Elegant Dark theme */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #09090b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 9999px;
+  border: 1px solid #09090b;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+
+/* Pulse animation enhancements for status bulbs */
+@keyframes glow-amber {
+  0%, 100% {
+    box-shadow: 0 0 4px #f59e0b, 0 0 12px rgba(245, 158, 11, 0.4);
+    opacity: 0.8;
+  }
+  50% {
+    box-shadow: 0 0 10px #f59e0b, 0 0 20px rgba(245, 158, 11, 0.7);
+    opacity: 1;
+  }
+}
+
+.glow-beacon-amber {
+  background-color: #f59e0b;
+  animation: glow-amber 2s infinite ease-in-out;
+}
+
+@keyframes glow-emerald {
+  0%, 100% {
+    box-shadow: 0 0 4px #10b981, 0 0 12px rgba(16, 185, 129, 0.4);
+    opacity: 0.8;
+  }
+  50% {
+    box-shadow: 0 0 10px #10b981, 0 0 20px rgba(16, 185, 129, 0.7);
+    opacity: 1;
+  }
+}
+
+.glow-beacon-emerald {
+  background-color: #10b981;
+  animation: glow-emerald 2s infinite ease-in-out;
+}
