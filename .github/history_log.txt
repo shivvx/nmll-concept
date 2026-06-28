@@ -3179,3 +3179,4 @@
 [2026-06-25T17:13:36] Commit #3178: docs(architecture): update component specifications and interface contracts (#3178)
 [2026-06-28T17:20:53] Commit #3179: chore(engine): update runtime telemetry and workspace state persistence (#3179)
 [2026-06-28T09:06:23] Commit #3180: style(sidebar): tune navigation iconography and active tab indicator glow (#3180)
+[2026-06-28T10:09:07] Commit #3181: style(sidebar): tune navigation iconography and active tab indicator glow (#3181)
