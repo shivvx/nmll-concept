@@ -3178,3 +3178,4 @@
 [2026-06-25T20:28:43] Commit #3177: style(theme): polish dark mode cybernetic neon accents and border glow (#3177)
 [2026-06-25T17:13:36] Commit #3178: docs(architecture): update component specifications and interface contracts (#3178)
 [2026-06-28T17:20:53] Commit #3179: chore(engine): update runtime telemetry and workspace state persistence (#3179)
+[2026-06-28T09:06:23] Commit #3180: style(sidebar): tune navigation iconography and active tab indicator glow (#3180)
