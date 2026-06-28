@@ -3191,3 +3191,4 @@
 [2026-06-28T18:24:45] Commit #3190: chore(engine): update runtime telemetry and workspace state persistence (#3190)
 [2026-06-28T17:32:29] Commit #3191: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3191)
 [2026-06-28T18:53:50] Commit #3192: docs(readme): update system deployment specs and Vercel serverless guide (#3192)
+[2026-06-28T13:38:24] Commit #3193: style(sidebar): tune navigation iconography and active tab indicator glow (#3193)
