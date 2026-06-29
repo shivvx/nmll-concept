@@ -3212,3 +3212,4 @@
 [2026-06-29T23:31:19] Commit #3211: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3211)
 [2026-06-29T10:56:52] Commit #3212: fix(telemetry): resolve async log buffering in terminal console (#3212)
 [2026-06-29T20:49:03] Commit #3213: fix(telemetry): resolve async log buffering in terminal console (#3213)
+[2026-06-29T14:35:15] Commit #3214: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3214)
