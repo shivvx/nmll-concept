@@ -3247,3 +3247,4 @@
 [2026-07-01T14:49:17] Commit #3246: perf(copilot): reduce latency on server-side Gemini AI response stream (#3246)
 [2026-07-01T14:23:37] Commit #3247: chore(engine): update runtime telemetry and workspace state persistence (#3247)
 [2026-07-01T10:10:18] Commit #3248: feat(studio): optimize reactive workspace state management (#3248)
+[2026-07-01T21:03:46] Commit #3249: style(theme): polish dark mode cybernetic neon accents and border glow (#3249)
