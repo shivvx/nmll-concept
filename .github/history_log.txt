@@ -3264,3 +3264,4 @@
 [2026-07-01T09:27:28] Commit #3263: fix(telemetry): resolve async log buffering in terminal console (#3263)
 [2026-07-01T20:49:23] Commit #3264: feat(studio): optimize reactive workspace state management (#3264)
 [2026-07-01T14:33:33] Commit #3265: fix(telemetry): resolve async log buffering in terminal console (#3265)
+[2026-07-01T18:12:33] Commit #3266: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3266)
