@@ -3281,3 +3281,4 @@
 [2026-07-03T14:51:00] Commit #3280: feat(studio): optimize reactive workspace state management (#3280)
 [2026-07-03T16:13:41] Commit #3281: docs(readme): update system deployment specs and Vercel serverless guide (#3281)
 [2026-07-03T10:36:03] Commit #3282: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3282)
+[2026-07-03T18:35:54] Commit #3283: style(theme): polish dark mode cybernetic neon accents and border glow (#3283)
