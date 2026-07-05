@@ -3309,3 +3309,4 @@
 [2026-07-05T11:42:01] Commit #3308: feat(studio): optimize reactive workspace state management (#3308)
 [2026-07-05T15:30:19] Commit #3309: fix(telemetry): resolve async log buffering in terminal console (#3309)
 [2026-07-05T23:09:19] Commit #3310: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3310)
+[2026-07-05T13:14:08] Commit #3311: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3311)
