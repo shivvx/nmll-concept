@@ -3295,3 +3295,4 @@
 [2026-07-05T23:39:17] Commit #3294: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3294)
 [2026-07-05T12:25:45] Commit #3295: perf(metrics): enhance epoch loss tracking convergence visualization (#3295)
 [2026-07-05T11:46:46] Commit #3296: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3296)
+[2026-07-05T23:55:04] Commit #3297: style(sidebar): tune navigation iconography and active tab indicator glow (#3297)
