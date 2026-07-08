@@ -3338,3 +3338,4 @@
 [2026-07-08T13:31:18] Commit #3337: chore(engine): update runtime telemetry and workspace state persistence (#3337)
 [2026-07-08T10:21:02] Commit #3338: refactor(pipeline): streamline visual DAG node execution engine (#3338)
 [2026-07-08T10:51:21] Commit #3339: docs(architecture): update component specifications and interface contracts (#3339)
+[2026-07-08T11:21:45] Commit #3340: docs(readme): update system deployment specs and Vercel serverless guide (#3340)
