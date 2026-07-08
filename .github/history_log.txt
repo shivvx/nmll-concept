@@ -3345,3 +3345,4 @@
 [2026-07-08T18:46:11] Commit #3344: docs(architecture): update component specifications and interface contracts (#3344)
 [2026-07-08T16:47:27] Commit #3345: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3345)
 [2026-07-08T22:26:15] Commit #3346: feat(studio): optimize reactive workspace state management (#3346)
+[2026-07-08T11:22:11] Commit #3347: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3347)
