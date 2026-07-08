@@ -3351,3 +3351,4 @@
 [2026-07-08T21:40:18] Commit #3350: docs(readme): update system deployment specs and Vercel serverless guide (#3350)
 [2026-07-08T23:57:46] Commit #3351: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3351)
 [2026-07-08T20:00:13] Commit #3352: docs(architecture): update component specifications and interface contracts (#3352)
+[2026-07-08T22:54:07] Commit #3353: docs(readme): update system deployment specs and Vercel serverless guide (#3353)
