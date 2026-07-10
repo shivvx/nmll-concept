@@ -3392,3 +3392,4 @@
 [2026-07-10T22:24:49] Commit #3391: perf(copilot): reduce latency on server-side Gemini AI response stream (#3391)
 [2026-07-10T21:55:54] Commit #3392: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3392)
 [2026-07-10T11:52:10] Commit #3393: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3393)
+[2026-07-10T12:43:05] Commit #3394: style(sidebar): tune navigation iconography and active tab indicator glow (#3394)
