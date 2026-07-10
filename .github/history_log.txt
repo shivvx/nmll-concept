@@ -3381,3 +3381,4 @@
 [2026-07-10T19:58:53] Commit #3380: style(theme): polish dark mode cybernetic neon accents and border glow (#3380)
 [2026-07-10T12:30:12] Commit #3381: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3381)
 [2026-07-10T11:39:59] Commit #3382: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3382)
+[2026-07-10T19:25:14] Commit #3383: style(sidebar): tune navigation iconography and active tab indicator glow (#3383)
