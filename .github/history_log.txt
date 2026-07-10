@@ -3373,3 +3373,4 @@
 [2026-07-10T22:10:46] Commit #3372: perf(metrics): enhance epoch loss tracking convergence visualization (#3372)
 [2026-07-10T17:48:30] Commit #3373: perf(metrics): enhance epoch loss tracking convergence visualization (#3373)
 [2026-07-10T13:49:03] Commit #3374: style(sidebar): tune navigation iconography and active tab indicator glow (#3374)
+[2026-07-10T23:37:52] Commit #3375: style(theme): polish dark mode cybernetic neon accents and border glow (#3375)
