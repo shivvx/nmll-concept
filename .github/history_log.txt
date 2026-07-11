@@ -3413,3 +3413,4 @@
 [2026-07-11T20:46:18] Commit #3412: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3412)
 [2026-07-11T20:21:58] Commit #3413: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3413)
 [2026-07-11T20:05:41] Commit #3414: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3414)
+[2026-07-11T19:25:42] Commit #3415: docs(readme): update system deployment specs and Vercel serverless guide (#3415)
