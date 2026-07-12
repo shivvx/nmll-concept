@@ -3427,3 +3427,4 @@
 [2026-07-12T12:06:23] Commit #3426: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3426)
 [2026-07-12T15:38:06] Commit #3427: feat(studio): optimize reactive workspace state management (#3427)
 [2026-07-12T18:08:15] Commit #3428: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3428)
+[2026-07-12T11:08:15] Commit #3429: docs(readme): update system deployment specs and Vercel serverless guide (#3429)
