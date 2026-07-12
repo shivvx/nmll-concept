@@ -3434,3 +3434,4 @@
 [2026-07-12T21:17:00] Commit #3433: fix(telemetry): resolve async log buffering in terminal console (#3433)
 [2026-07-12T23:09:57] Commit #3434: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3434)
 [2026-07-12T19:35:10] Commit #3435: perf(copilot): reduce latency on server-side Gemini AI response stream (#3435)
+[2026-07-12T13:58:12] Commit #3436: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3436)
