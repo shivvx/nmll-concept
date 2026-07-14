@@ -3485,3 +3485,4 @@
 [2026-07-14T19:27:44] Commit #3484: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3484)
 [2026-07-14T12:00:35] Commit #3485: chore(engine): update runtime telemetry and workspace state persistence (#3485)
 [2026-07-14T23:40:11] Commit #3486: docs(architecture): update component specifications and interface contracts (#3486)
+[2026-07-14T21:53:12] Commit #3487: docs(readme): update system deployment specs and Vercel serverless guide (#3487)
