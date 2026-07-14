@@ -3495,3 +3495,4 @@
 [2026-07-14T23:37:00] Commit #3494: docs(readme): update system deployment specs and Vercel serverless guide (#3494)
 [2026-07-14T19:43:14] Commit #3495: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3495)
 [2026-07-14T18:26:48] Commit #3496: refactor(pipeline): streamline visual DAG node execution engine (#3496)
+[2026-07-14T17:08:47] Commit #3497: style(theme): polish dark mode cybernetic neon accents and border glow (#3497)
