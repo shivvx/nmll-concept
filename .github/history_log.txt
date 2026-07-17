@@ -3531,3 +3531,4 @@
 [2026-07-17T15:01:10] Commit #3530: style(sidebar): tune navigation iconography and active tab indicator glow (#3530)
 [2026-07-17T13:44:20] Commit #3531: perf(copilot): reduce latency on server-side Gemini AI response stream (#3531)
 [2026-07-17T20:33:07] Commit #3532: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3532)
+[2026-07-17T10:18:13] Commit #3533: docs(readme): update system deployment specs and Vercel serverless guide (#3533)
