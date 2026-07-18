@@ -3577,3 +3577,4 @@
 [2026-07-18T15:59:59] Commit #3576: style(theme): polish dark mode cybernetic neon accents and border glow (#3576)
 [2026-07-18T11:22:25] Commit #3577: docs(readme): update system deployment specs and Vercel serverless guide (#3577)
 [2026-07-18T23:44:29] Commit #3578: perf(copilot): reduce latency on server-side Gemini AI response stream (#3578)
+[2026-07-18T15:40:54] Commit #3579: style(sidebar): tune navigation iconography and active tab indicator glow (#3579)
