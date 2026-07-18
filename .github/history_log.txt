@@ -3560,3 +3560,4 @@
 [2026-07-18T12:41:57] Commit #3559: refactor(pipeline): streamline visual DAG node execution engine (#3559)
 [2026-07-18T18:33:48] Commit #3560: chore(engine): update runtime telemetry and workspace state persistence (#3560)
 [2026-07-18T23:47:06] Commit #3561: perf(metrics): enhance epoch loss tracking convergence visualization (#3561)
+[2026-07-18T19:41:31] Commit #3562: docs(readme): update system deployment specs and Vercel serverless guide (#3562)
