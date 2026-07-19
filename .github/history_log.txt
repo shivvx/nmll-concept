@@ -3598,3 +3598,4 @@
 [2026-07-19T20:41:53] Commit #3597: refactor(pipeline): streamline visual DAG node execution engine (#3597)
 [2026-07-19T22:18:38] Commit #3598: docs(architecture): update component specifications and interface contracts (#3598)
 [2026-07-19T19:50:25] Commit #3599: docs(readme): update system deployment specs and Vercel serverless guide (#3599)
+[2026-07-19T13:13:02] Commit #3600: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3600)
