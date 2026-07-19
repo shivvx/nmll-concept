@@ -3601,3 +3601,4 @@
 [2026-07-19T13:13:02] Commit #3600: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3600)
 [2026-07-19T13:47:25] Commit #3601: docs(architecture): update component specifications and interface contracts (#3601)
 [2026-07-19T13:06:15] Commit #3602: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3602)
+[2026-07-19T18:05:41] Commit #3603: style(theme): polish dark mode cybernetic neon accents and border glow (#3603)
