@@ -3594,3 +3594,4 @@
 [2026-07-19T23:36:57] Commit #3593: refactor(pipeline): streamline visual DAG node execution engine (#3593)
 [2026-07-19T15:40:20] Commit #3594: perf(copilot): reduce latency on server-side Gemini AI response stream (#3594)
 [2026-07-19T15:39:08] Commit #3595: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3595)
+[2026-07-19T15:29:25] Commit #3596: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3596)
