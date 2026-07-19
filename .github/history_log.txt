@@ -3588,3 +3588,4 @@
 [2026-07-19T16:13:10] Commit #3587: docs(readme): update system deployment specs and Vercel serverless guide (#3587)
 [2026-07-19T21:38:43] Commit #3588: fix(telemetry): resolve async log buffering in terminal console (#3588)
 [2026-07-19T15:57:21] Commit #3589: feat(studio): optimize reactive workspace state management (#3589)
+[2026-07-19T19:12:23] Commit #3590: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3590)
