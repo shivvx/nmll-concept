@@ -3611,3 +3611,4 @@
 [2026-07-21T14:52:51] Commit #3610: docs(architecture): update component specifications and interface contracts (#3610)
 [2026-07-21T15:16:14] Commit #3611: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3611)
 [2026-07-21T09:32:30] Commit #3612: perf(metrics): enhance epoch loss tracking convergence visualization (#3612)
+[2026-07-21T23:20:33] Commit #3613: docs(readme): update system deployment specs and Vercel serverless guide (#3613)
