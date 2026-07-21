@@ -3618,3 +3618,4 @@
 [2026-07-21T21:50:30] Commit #3617: style(theme): polish dark mode cybernetic neon accents and border glow (#3617)
 [2026-07-21T21:51:08] Commit #3618: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3618)
 [2026-07-21T14:50:18] Commit #3619: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3619)
+[2026-07-21T19:00:53] Commit #3620: docs(readme): update system deployment specs and Vercel serverless guide (#3620)
