@@ -3623,3 +3623,4 @@
 [2026-07-21T20:23:59] Commit #3622: perf(copilot): reduce latency on server-side Gemini AI response stream (#3622)
 [2026-07-21T09:47:03] Commit #3623: perf(copilot): reduce latency on server-side Gemini AI response stream (#3623)
 [2026-07-21T21:05:27] Commit #3624: chore(engine): update runtime telemetry and workspace state persistence (#3624)
+[2026-07-21T14:00:23] Commit #3625: fix(telemetry): resolve async log buffering in terminal console (#3625)
