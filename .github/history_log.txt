@@ -3638,3 +3638,4 @@
 [2026-07-23T15:20:56] Commit #3637: refactor(pipeline): streamline visual DAG node execution engine (#3637)
 [2026-07-23T14:32:14] Commit #3638: refactor(pipeline): streamline visual DAG node execution engine (#3638)
 [2026-07-23T18:04:40] Commit #3639: chore(engine): update runtime telemetry and workspace state persistence (#3639)
+[2026-07-23T15:18:26] Commit #3640: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3640)
