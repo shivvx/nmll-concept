@@ -3654,3 +3654,4 @@
 [2026-07-23T12:58:10] Commit #3653: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3653)
 [2026-07-24T19:19:22] Commit #3654: chore(engine): update runtime telemetry and workspace state persistence (#3654)
 [2026-07-24T10:45:04] Commit #3655: refactor(pipeline): streamline visual DAG node execution engine (#3655)
+[2026-07-24T22:30:38] Commit #3656: style(sidebar): tune navigation iconography and active tab indicator glow (#3656)
