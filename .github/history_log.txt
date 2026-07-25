@@ -3676,3 +3676,4 @@
 [2026-07-24T21:32:59] Commit #3675: style(theme): polish dark mode cybernetic neon accents and border glow (#3675)
 [2026-07-25T22:08:10] Commit #3676: chore(engine): update runtime telemetry and workspace state persistence (#3676)
 [2026-07-25T14:40:55] Commit #3677: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3677)
+[2026-07-25T22:33:59] Commit #3678: docs(readme): update system deployment specs and Vercel serverless guide (#3678)
