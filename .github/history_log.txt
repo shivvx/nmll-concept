@@ -3698,3 +3698,4 @@
 [2026-07-25T19:21:30] Commit #3697: perf(metrics): enhance epoch loss tracking convergence visualization (#3697)
 [2026-07-28T23:41:44] Commit #3698: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3698)
 [2026-07-28T19:35:28] Commit #3699: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3699)
+[2026-07-28T23:53:18] Commit #3700: docs(readme): update system deployment specs and Vercel serverless guide (#3700)
