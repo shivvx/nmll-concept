@@ -3701,3 +3701,4 @@
 [2026-07-28T23:53:18] Commit #3700: docs(readme): update system deployment specs and Vercel serverless guide (#3700)
 [2026-07-28T10:08:22] Commit #3701: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3701)
 [2026-07-28T21:42:54] Commit #3702: docs(readme): update system deployment specs and Vercel serverless guide (#3702)
+[2026-07-28T10:36:13] Commit #3703: docs(architecture): update component specifications and interface contracts (#3703)
