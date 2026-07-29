@@ -3728,3 +3728,4 @@
 [2026-07-29T20:49:59] Commit #3727: chore(engine): update runtime telemetry and workspace state persistence (#3727)
 [2026-07-29T20:52:11] Commit #3728: chore(engine): update runtime telemetry and workspace state persistence (#3728)
 [2026-07-29T13:51:58] Commit #3729: style(sidebar): tune navigation iconography and active tab indicator glow (#3729)
+[2026-07-29T09:37:33] Commit #3730: perf(copilot): reduce latency on server-side Gemini AI response stream (#3730)
