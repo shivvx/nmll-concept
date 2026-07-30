@@ -3747,3 +3747,4 @@
 [2026-07-29T11:28:05] Commit #3746: feat(studio): optimize reactive workspace state management (#3746)
 [2026-07-30T16:49:03] Commit #3747: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3747)
 [2026-07-30T20:56:06] Commit #3748: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3748)
+[2026-07-30T12:51:45] Commit #3749: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3749)
