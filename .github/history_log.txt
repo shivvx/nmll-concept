@@ -3758,3 +3758,4 @@
 [2026-07-30T15:24:57] Commit #3757: feat(studio): optimize reactive workspace state management (#3757)
 [2026-07-30T23:16:35] Commit #3758: fix(telemetry): resolve async log buffering in terminal console (#3758)
 [2026-07-30T10:44:24] Commit #3759: fix(telemetry): resolve async log buffering in terminal console (#3759)
+[2026-07-30T13:53:45] Commit #3760: style(theme): polish dark mode cybernetic neon accents and border glow (#3760)
