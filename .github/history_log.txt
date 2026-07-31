@@ -3792,3 +3792,4 @@
 [2026-07-31T19:56:14] Commit #3791: fix(telemetry): resolve async log buffering in terminal console (#3791)
 [2026-07-31T17:57:34] Commit #3792: style(sidebar): tune navigation iconography and active tab indicator glow (#3792)
 [2026-07-31T18:13:01] Commit #3793: docs(architecture): update component specifications and interface contracts (#3793)
+[2026-07-31T22:30:24] Commit #3794: perf(metrics): enhance epoch loss tracking convergence visualization (#3794)
