@@ -3804,3 +3804,4 @@
 [2026-08-01T09:38:40] Commit #3803: feat(studio): optimize reactive workspace state management (#3803)
 [2026-08-01T18:19:21] Commit #3804: fix(telemetry): resolve async log buffering in terminal console (#3804)
 [2026-08-01T12:23:19] Commit #3805: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3805)
+[2026-08-01T11:03:00] Commit #3806: docs(readme): update system deployment specs and Vercel serverless guide (#3806)
