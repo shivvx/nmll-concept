@@ -3836,3 +3836,4 @@
 [2026-08-03T22:00:51] Commit #3835: style(sidebar): tune navigation iconography and active tab indicator glow (#3835)
 [2026-08-03T11:55:31] Commit #3836: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3836)
 [2026-08-03T16:09:08] Commit #3837: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3837)
+[2026-08-03T21:17:13] Commit #3838: style(theme): polish dark mode cybernetic neon accents and border glow (#3838)
