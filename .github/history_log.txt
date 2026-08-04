@@ -3855,3 +3855,4 @@
 [2026-08-04T09:21:42] Commit #3854: feat(studio): optimize reactive workspace state management (#3854)
 [2026-08-04T16:09:27] Commit #3855: fix(telemetry): resolve async log buffering in terminal console (#3855)
 [2026-08-04T16:51:00] Commit #3856: fix(telemetry): resolve async log buffering in terminal console (#3856)
+[2026-08-04T14:18:57] Commit #3857: docs(readme): update system deployment specs and Vercel serverless guide (#3857)
