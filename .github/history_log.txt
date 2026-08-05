@@ -3873,3 +3873,4 @@
 [2026-08-05T14:26:41] Commit #3872: style(sidebar): tune navigation iconography and active tab indicator glow (#3872)
 [2026-08-05T20:17:08] Commit #3873: test(benchmarks): validate 1080p and 4K viewport scaling parameters (#3873)
 [2026-08-05T23:40:04] Commit #3874: refactor(notebooks): optimize Jupyter Python execution kernel simulation (#3874)
+[2026-08-05T22:42:49] Commit #3875: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3875)
