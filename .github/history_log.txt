@@ -3887,3 +3887,4 @@
 [2026-08-05T14:24:24] Commit #3886: docs(architecture): update component specifications and interface contracts (#3886)
 [2026-08-05T10:19:49] Commit #3887: fix(telemetry): resolve async log buffering in terminal console (#3887)
 [2026-08-05T12:11:42] Commit #3888: perf(metrics): enhance epoch loss tracking convergence visualization (#3888)
+[2026-08-05T23:48:13] Commit #3889: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3889)
