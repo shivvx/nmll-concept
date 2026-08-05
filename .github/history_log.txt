@@ -3876,3 +3876,4 @@
 [2026-08-05T22:42:49] Commit #3875: feat(ide): improve multi-tab code editor syntax highlighting and file tree (#3875)
 [2026-08-05T22:21:42] Commit #3876: perf(copilot): reduce latency on server-side Gemini AI response stream (#3876)
 [2026-08-05T21:48:30] Commit #3877: feat(studio): optimize reactive workspace state management (#3877)
+[2026-08-05T22:46:29] Commit #3878: docs(readme): update system deployment specs and Vercel serverless guide (#3878)
