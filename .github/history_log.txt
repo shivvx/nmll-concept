@@ -3896,3 +3896,4 @@
 [2026-08-08T12:44:47] Commit #3895: fix(wrangler): correct statistical correlation matrix computation for dataset EDA (#3895)
 [2026-08-08T21:02:22] Commit #3896: chore(engine): update runtime telemetry and workspace state persistence (#3896)
 [2026-08-08T16:23:11] Commit #3897: docs(readme): update system deployment specs and Vercel serverless guide (#3897)
+[2026-08-08T14:44:36] Commit #3898: docs(architecture): update component specifications and interface contracts (#3898)
