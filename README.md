@@ -4,7 +4,7 @@
 ### Next-Generation AI-Native Machine Learning & Deep Learning Workspace
 
 [![Live Web App](https://img.shields.io/badge/🚀%20Live%20App-nmll--concept.vercel.app-10b981?style=for-the-badge&logo=vercel)](https://nmll-concept.vercel.app)
-[![Sponsor Project](https://img.shields.io/badge/💖%20Sponsor-Razorpay-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://razorpay.me/@wiroxa)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&color=ea4c89&style=for-the-badge&logo=github-sponsors)](https://razorpay.me/@wiroxa)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshivvx%2Fnmll-concept)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
