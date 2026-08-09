@@ -466,7 +466,7 @@ export default function App() {
                   </p>
                 </div>
                 <a
-                  href="https://github.com/sponsors/shivvx"
+                  href="https://razorpay.me/@wiroxa"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-2 rounded bg-amber-500/10 group-hover:bg-amber-500 text-amber-400 group-hover:text-black font-bold text-xs flex items-center justify-center gap-1.5 transition-all"
@@ -488,7 +488,7 @@ export default function App() {
                   </p>
                 </div>
                 <a
-                  href="https://github.com/sponsors/shivvx"
+                  href="https://razorpay.me/@wiroxa"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-2 rounded bg-emerald-500/10 group-hover:bg-emerald-500 text-emerald-400 group-hover:text-black font-bold text-xs flex items-center justify-center gap-1.5 transition-all"
@@ -510,7 +510,7 @@ export default function App() {
                   </p>
                 </div>
                 <a
-                  href="https://github.com/sponsors/shivvx"
+                  href="https://razorpay.me/@wiroxa"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-2 rounded bg-sky-500/10 group-hover:bg-sky-500 text-sky-400 group-hover:text-black font-bold text-xs flex items-center justify-center gap-1.5 transition-all"
@@ -535,7 +535,7 @@ export default function App() {
                   </p>
                 </div>
                 <a
-                  href="https://github.com/sponsors/shivvx"
+                  href="https://razorpay.me/@wiroxa"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-2 rounded bg-rose-500 text-black font-bold text-xs flex items-center justify-center gap-1.5 hover:bg-rose-400 transition-all shadow-md shadow-rose-500/20"

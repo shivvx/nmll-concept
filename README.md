@@ -4,7 +4,7 @@
 ### Next-Generation AI-Native Machine Learning & Deep Learning Workspace
 
 [![Live Web App](https://img.shields.io/badge/🚀%20Live%20App-nmll--concept.vercel.app-10b981?style=for-the-badge&logo=vercel)](https://nmll-concept.vercel.app)
-[![Sponsor Project](https://img.shields.io/badge/💖%20Sponsor-GitHub%20Sponsors-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/shivvx)
+[![Sponsor Project](https://img.shields.io/badge/💖%20Sponsor-Razorpay-02042b?style=for-the-badge&logo=razorpay)](https://razorpay.me/@wiroxa)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshivvx%2Fnmll-concept)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -42,10 +42,10 @@ If you find NMLL Studio helpful for your research or workflow, please consider s
 
 | Sponsor Tier | Amount | Perks & Community Recognition | Action |
 | :--- | :---: | :--- | :---: |
-| ☕ **Supporter** | **$1** | Public Supporter Badge & GitHub Recognition | [💖 Sponsor $1](https://github.com/sponsors/shivvx) |
-| 🍕 **Developer Fuel** | **$5** | Name / Logo in README + Priority Issue Review | [💖 Sponsor $5](https://github.com/sponsors/shivvx) |
-| 🚀 **Pro Backer** | **$10** | Featured Backer Badge + Early Access to AI Nodes | [💖 Sponsor $10](https://github.com/sponsors/shivvx) |
-| 👑 **Enterprise Sponsor** | **$100** | Prominent Top-Level Logo Placement + Dedicated Support Channel | [💖 Sponsor $100](https://github.com/sponsors/shivvx) |
+| ☕ **Supporter** | **$1** | Public Supporter Badge & GitHub Recognition | [💖 Sponsor $1 via Razorpay](https://razorpay.me/@wiroxa) |
+| 🍕 **Developer Fuel** | **$5** | Name / Logo in README + Priority Issue Review | [💖 Sponsor $5 via Razorpay](https://razorpay.me/@wiroxa) |
+| 🚀 **Pro Backer** | **$10** | Featured Backer Badge + Early Access to AI Nodes | [💖 Sponsor $10 via Razorpay](https://razorpay.me/@wiroxa) |
+| 👑 **Enterprise Sponsor** | **$100** | Prominent Top-Level Logo Placement + Dedicated Support Channel | [💖 Sponsor $100 via Razorpay](https://razorpay.me/@wiroxa) |
 
 ---
 
