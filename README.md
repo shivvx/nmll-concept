@@ -64,9 +64,24 @@ Engineered with high-performance modern web technologies (**React 19, TypeScript
 
 A huge thanks to our core creators & contributors:
 
-- 🚀 **[Wiroxa.dev](https://wiroxa.dev)** — Platform Architecture & Engineering Lead
-- 🎨 **[Shivvx.in](https://shivvx.in)** — Co-Creator & Product Lead
-- 🔬 **[ScientistKalash](https://github.com/ScientistKalash)** — Core Contributor
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://wiroxa.dev">
+        <img src="https://github.com/shivvx.png" width="80px;" style="border-radius:50%;" alt="Wiroxa.dev &amp; Shivvx"/><br />
+        <sub><b>Wiroxa.dev &amp; Shivvx</b></sub>
+      </a><br />
+      <sub>Lead Architecture &amp; Product</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ScientistKalash">
+        <img src="https://github.com/ScientistKalash.png" width="80px;" style="border-radius:50%;" alt="ScientistKalash"/><br />
+        <sub><b>ScientistKalash</b></sub>
+      </a><br />
+      <sub>Core Contributor</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
