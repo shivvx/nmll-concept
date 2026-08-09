@@ -82,10 +82,17 @@ A huge thanks to our core creators & contributors:
   <tr>
     <td align="center">
       <a href="https://wiroxa.dev">
-        <img src="https://github.com/shivvx.png" width="80px;" style="border-radius:50%;" alt="Wiroxa.dev &amp; Shivvx"/><br />
-        <sub><b>Wiroxa.dev &amp; Shivvx</b></sub>
+        <img src="https://github.com/wiroxa.png" width="80px;" style="border-radius:50%;" onError="this.src='https://github.com/shivvx.png'" alt="Wiroxa.dev"/><br />
+        <sub><b>Wiroxa.dev</b></sub>
       </a><br />
-      <sub>Lead Architecture &amp; Product</sub>
+      <sub>Platform Architecture</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shivvx">
+        <img src="https://github.com/shivvx.png" width="80px;" style="border-radius:50%;" alt="Shivvx.in"/><br />
+        <sub><b>Shivvx.in</b></sub>
+      </a><br />
+      <sub>Product Lead</sub>
     </td>
     <td align="center">
       <a href="https://github.com/ScientistKalash">
