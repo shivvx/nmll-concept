@@ -6,6 +6,19 @@ Created and Maintained by **[Wiroxa.dev](https://wiroxa.dev)**, **[Shivvx.in](ht
 
 ---
 
+## 🤖 AI & Design Ecosystem Tools Acknowledgment
+
+NMLL Studio Web leverages state-of-the-art AI tooling and design platforms to accelerate engineering, UI/UX design, and AI model orchestration:
+
+- 🧠 **OpenAI (ChatGPT & GPT-4o)** — Code synthesis, logic optimization, and algorithmic design.
+- 💜 **Lovable.dev** — Rapid UI component scaffolding and responsive design prototyping.
+- 🎨 **Figma** — Cybernetic UI design system, vector component layouts, and design tokens.
+- 🤖 **Google Gemini AI** — Multi-agent intelligence engine powering server-side studio copilots.
+- ⚡ **Anthropic Claude** — Deep architecture analysis, security auditing, and refactoring.
+- 📐 **Vercel** — Serverless edge infrastructure, automated CI/CD, and global static delivery.
+
+---
+
 ## 🛠️ How to Get Started
 
 1. **Fork the Repository**  
