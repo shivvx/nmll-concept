@@ -12,6 +12,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.2-646cff.svg)](https://vitejs.dev/)
 
+\
+![NMLL Studio Core Workspace Preview](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/01_Core/core_home_base_dashboard_4k.png)
+
 *An open-source, desktop-grade, web-native ML studio unifying code editing, Jupyter notebook compilation, visual DAG pipeline design, live model training metrics, explainability dashboards, 4K UI snapshot gallery, and multi-agent AI assistants.*
 
 [Showcase](#-4k-visual-snapshot-gallery) • [Features](#-core-capabilities) • [Quick Start](#-quick-start) • [Vercel Deploy](#-deploying-on-vercel) • [License](#-license--copyright)
@@ -35,36 +38,36 @@ Experience the full desktop-grade interface across all 14 specialized studio mod
 ### 🏙️ 01. Core Workspaces
 | Home Base Dashboard | Projects & Code Workspace |
 | :---: | :---: |
-| <img src="./public/snapshots/01_Core/core_home_base_dashboard_4k.png" width="100%" alt="Home Base Dashboard" /> | <img src="./public/snapshots/01_Core/core_projects_workspace_4k.png" width="100%" alt="Projects Workspace" /> |
+| ![Home Base Dashboard](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/01_Core/core_home_base_dashboard_4k.png) | ![Projects Workspace](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/01_Core/core_projects_workspace_4k.png) |
 
 ### 🔀 02. ML Pipeline & Data Engineering
 | Visual DAG Pipeline Designer | Interactive Jupyter Notebooks |
 | :---: | :---: |
-| <img src="./public/snapshots/02_ML_Pipeline/pipeline_visual_graph_4k.png" width="100%" alt="Visual Pipeline Canvas" /> | <img src="./public/snapshots/02_ML_Pipeline/pipeline_jupyter_notebooks_4k.png" width="100%" alt="Jupyter Notebooks" /> |
+| ![Visual Pipeline Canvas](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/02_ML_Pipeline/pipeline_visual_graph_4k.png) | ![Jupyter Notebooks](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/02_ML_Pipeline/pipeline_jupyter_notebooks_4k.png) |
 
 | Dataset Wrangler & EDA | Model Packages Registry |
 | :---: | :---: |
-| <img src="./public/snapshots/02_ML_Pipeline/pipeline_dataset_wrangler_4k.png" width="100%" alt="Dataset Wrangler" /> | <img src="./public/snapshots/03_Registry/registry_model_packages_4k.png" width="100%" alt="Model Registry" /> |
+| ![Dataset Wrangler](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/02_ML_Pipeline/pipeline_dataset_wrangler_4k.png) | ![Model Registry](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/03_Registry/registry_model_packages_4k.png) |
 
 ### 📊 03. Engine & Training Metrics
 | Live Train Console (Loss & Accuracy) | Experiment Matrix |
 | :---: | :---: |
-| <img src="./public/snapshots/04_Engine/engine_live_train_console_4k.png" width="100%" alt="Live Train Console" /> | <img src="./public/snapshots/04_Engine/engine_experiment_matrix_4k.png" width="100%" alt="Experiment Matrix" /> |
+| ![Live Train Console](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/04_Engine/engine_live_train_console_4k.png) | ![Experiment Matrix](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/04_Engine/engine_experiment_matrix_4k.png) |
 
 ### 🔍 04. Diagnostics & Explainability
 | Explainability Suite (SHAP & LIME) | Intelligence Optimizer |
 | :---: | :---: |
-| <img src="./public/snapshots/05_Diagnostic/diagnostic_explainability_suite_4k.png" width="100%" alt="Explainability Suite" /> | <img src="./public/snapshots/05_Diagnostic/diagnostic_intelligence_optimizer_4k.png" width="100%" alt="Intelligence Optimizer" /> |
+| ![Explainability Suite](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/05_Diagnostic/diagnostic_explainability_suite_4k.png) | ![Intelligence Optimizer](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/05_Diagnostic/diagnostic_intelligence_optimizer_4k.png) |
 
 ### 🚀 05. Ops & Multi-Agent Intelligence
 | Dynamic Model Deployment | Multi-Agent AI Copilots |
 | :---: | :---: |
-| <img src="./public/snapshots/06_Ops/ops_dynamic_deployment_4k.png" width="100%" alt="Dynamic Deployment" /> | <img src="./public/snapshots/06_Ops/ops_ai_copilots_4k.png" width="100%" alt="AI Copilots" /> |
+| ![Dynamic Deployment](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/06_Ops/ops_dynamic_deployment_4k.png) | ![AI Copilots](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/06_Ops/ops_ai_copilots_4k.png) |
 
 ### 🛒 06. Addons & Ecosystem
 | Wiroxa Marketplace | System Settings |
 | :---: | :---: |
-| <img src="./public/snapshots/07_Addons/addons_wiroxa_marketplace_4k.png" width="100%" alt="Wiroxa Marketplace" /> | <img src="./public/snapshots/07_Addons/addons_system_settings_4k.png" width="100%" alt="System Settings" /> |
+| ![Wiroxa Marketplace](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/07_Addons/addons_wiroxa_marketplace_4k.png) | ![System Settings](https://raw.githubusercontent.com/shivvx/nmll-concept/main/public/snapshots/07_Addons/addons_system_settings_4k.png) |
 
 > 💾 **Download full 4K PNG asset package**: You can download all high-resolution 4K snapshots inside the platform via the **4K UI Snapshots** gallery tab or directly request `public/snapshots/NMLL_Studio_4K_Snapshots.zip`.
 
