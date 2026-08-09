@@ -74,10 +74,9 @@ If you find NMLL Studio helpful for your research or workflow, please consider s
 
 ---
 
-## 👥 Contributors & Team
+## 👥 Contributors & Ecosystem
 
-A huge thanks to our core creators & contributors:
-
+### 🧑‍💻 Core Maintainers & Contributors
 <table>
   <tr>
     <td align="center">
@@ -103,6 +102,18 @@ A huge thanks to our core creators & contributors:
     </td>
   </tr>
 </table>
+
+### 🤖 AI & Design Platform Contributors
+We proudly acknowledge the state-of-the-art AI engines and design platforms that power the creation, layout, and intelligence of NMLL Studio:
+
+| AI / Design Contributor | Role & Contribution | Platform Link |
+| :--- | :--- | :---: |
+| 🧠 **OpenAI (ChatGPT & GPT-4o)** | Code synthesis, logic optimization, and algorithmic design | [openai.com](https://openai.com) |
+| 💜 **Lovable.dev** | Rapid UI component scaffolding and responsive layout prototyping | [lovable.dev](https://lovable.dev) |
+| 🎨 **Figma** | Cybernetic UI design system, vector component layouts, and design tokens | [figma.com](https://figma.com) |
+| 🤖 **Google Gemini AI** | Server-side multi-agent intelligence engine powering studio copilots | [gemini.google.com](https://gemini.google.com) |
+| ⚡ **Anthropic Claude** | Deep architecture analysis, security auditing, and code refactoring | [anthropic.com](https://anthropic.com) |
+| 🚀 **Antigravity AI** | Autonomous agent pair-programming, test execution, and CI/CD pipelines | [google.com](https://google.com) |
 
 ---
 
