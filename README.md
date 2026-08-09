@@ -9,6 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Developed by Wiroxa.dev](https://img.shields.io/badge/Developed%20By-Wiroxa.dev-6366f1.svg)](https://wiroxa.dev)
 [![Co-Created by Shivvx.in](https://img.shields.io/badge/Co--Created%20By-Shivvx.in-10b981.svg)](https://shivvx.in)
+[![Contributor: ScientistKalash](https://img.shields.io/badge/Contributor-ScientistKalash-3b82f6.svg)](https://github.com/ScientistKalash)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![React 19](https://img.shields.io/badge/React-19.0-61dafb.svg)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6.svg)](https://www.typescriptlang.org/)
@@ -18,7 +19,7 @@
 
 🌐 **Live Application**: [https://nmll-concept.vercel.app](https://nmll-concept.vercel.app)
 
-[Overview](#-overview) • [Features](#-core-capabilities) • [Quick Start](#-quick-start) • [Vercel Deploy](#-deploying-on-vercel) • [License](#-license--copyright)
+[Overview](#-overview) • [Features](#-core-capabilities) • [Quick Start](#-quick-start) • [Contributors](#-contributors--team) • [Vercel Deploy](#-deploying-on-vercel) • [License](#-license--copyright)
 
 </div>
 
@@ -56,6 +57,16 @@ Engineered with high-performance modern web technologies (**React 19, TypeScript
 - **Backend API**: Node.js, Express, ESBuild, TSX, JSZip
 - **AI Engine**: `@google/genai` (Gemini API Integration)
 - **Deployment**: Vercel Native Serverless & Static Build Ready ([https://nmll-concept.vercel.app](https://nmll-concept.vercel.app)), Docker Container Ready
+
+---
+
+## 👥 Contributors & Team
+
+A huge thanks to our core creators & contributors:
+
+- 🚀 **[Wiroxa.dev](https://wiroxa.dev)** — Platform Architecture & Engineering Lead
+- 🎨 **[Shivvx.in](https://shivvx.in)** — Co-Creator & Product Lead
+- 🔬 **[ScientistKalash](https://github.com/ScientistKalash)** — Core Contributor
 
 ---
 
@@ -160,12 +171,12 @@ Please review our **[Contributing Guidelines](CONTRIBUTING.md)** before submitti
 
 Distributed under the **MIT License**. See `LICENSE` for details.
 
-Copyright (c) 2026 **[Wiroxa.dev](https://wiroxa.dev)** & **[Shivvx.in](https://shivvx.in)**. All rights reserved.
+Copyright (c) 2026 **[Wiroxa.dev](https://wiroxa.dev)**, **[Shivvx.in](https://shivvx.in)** & **[ScientistKalash](https://github.com/ScientistKalash)**. All rights reserved.
 
 ---
 
 <div align="center">
 
-Made with ❤️ by **Wiroxa.dev** & **Shivvx.in**
+Made with ❤️ by **[Wiroxa.dev](https://wiroxa.dev)**, **[Shivvx.in](https://shivvx.in)** & **[ScientistKalash](https://github.com/ScientistKalash)**
 
 </div>

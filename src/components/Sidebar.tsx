@@ -164,9 +164,9 @@ export default function Sidebar({
             <div className="text-neutral-600 font-bold">V1.4.0</div>
           </div>
 
-          <div className="pt-2 border-t border-[#1a1a1e]/60 flex items-center justify-between text-[10px]">
-            <span className="text-neutral-500">Created by</span>
-            <div className="flex items-center gap-1.5 font-bold">
+          <div className="pt-2 border-t border-[#1a1a1e]/60 flex flex-col gap-1 text-[10px]">
+            <span className="text-neutral-500">Created &amp; Maintained by</span>
+            <div className="flex items-center gap-1 font-bold flex-wrap">
               <a
                 href="https://wiroxa.dev"
                 target="_blank"
@@ -175,7 +175,7 @@ export default function Sidebar({
               >
                 Wiroxa.dev
               </a>
-              <span className="text-neutral-600">&amp;</span>
+              <span className="text-neutral-600">,</span>
               <a
                 href="https://shivvx.in"
                 target="_blank"
@@ -183,6 +183,15 @@ export default function Sidebar({
                 className="text-emerald-400 hover:text-emerald-300 transition-colors hover:underline"
               >
                 Shivvx.in
+              </a>
+              <span className="text-neutral-600">&amp;</span>
+              <a
+                href="https://github.com/ScientistKalash"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-400 hover:text-blue-300 transition-colors hover:underline"
+              >
+                ScientistKalash
               </a>
             </div>
           </div>

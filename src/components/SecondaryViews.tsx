@@ -146,11 +146,13 @@ export function HomeView({ logMessage }: LoggedProps) {
           </div>
 
           <div className="mt-4 pt-3 border-t border-neutral-800/80 flex items-center justify-between text-xs font-mono">
-            <span className="text-neutral-500 text-[11px]">Platform Co-Creators</span>
+            <span className="text-neutral-500 text-[11px]">Platform Team</span>
             <div className="flex items-center gap-1.5 font-bold text-[11px]">
               <a href="https://wiroxa.dev" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">Wiroxa.dev</a>
-              <span className="text-neutral-600">&amp;</span>
+              <span className="text-neutral-600">,</span>
               <a href="https://shivvx.in" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:underline">Shivvx.in</a>
+              <span className="text-neutral-600">&amp;</span>
+              <a href="https://github.com/ScientistKalash" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">ScientistKalash</a>
             </div>
           </div>
         </div>

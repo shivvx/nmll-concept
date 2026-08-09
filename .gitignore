@@ -6,3 +6,8 @@ coverage/
 *.log
 .env*
 !.env.example
+PROJECT_PORTFOLIO_LINKEDIN_INFO.txt
+original_4k_screenshots/
+capture_4k_localhost.js
+
+

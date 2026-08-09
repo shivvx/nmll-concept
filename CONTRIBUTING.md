@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to **NMLL Studio Web**! We welcome open-source contributions from developers, machine learning engineers, researchers, and UI designers.
 
-Created and Maintained by **[Wiroxa.dev](https://wiroxa.dev)** and **[Shivvx.in](https://shivvx.in)**.
+Created and Maintained by **[Wiroxa.dev](https://wiroxa.dev)**, **[Shivvx.in](https://shivvx.in)**, and **[ScientistKalash](https://github.com/ScientistKalash)**.
 
 ---
 
@@ -46,7 +46,7 @@ Created and Maintained by **[Wiroxa.dev](https://wiroxa.dev)** and **[Shivvx.in]
 - **Branch Naming**: Use descriptive branch names like `feature/pipeline-node-editor` or `fix/terminal-ansi-colors`.
 - **Commit Messages**: Write clear, descriptive commit messages.
 - **PR Description**: Describe what changed, why it changed, and include screenshots or GIFs for UI updates.
-- **Review**: The core team (**Wiroxa.dev** & **Shivvx.in**) will review your PR and provide feedback promptly.
+- **Review**: The core team (**Wiroxa.dev**, **Shivvx.in** & **ScientistKalash**) will review your PR and provide feedback promptly.
 
 ### 3. Reporting Issues & Enhancements
 - Check existing issues before opening a new one.
@@ -58,4 +58,4 @@ Created and Maintained by **[Wiroxa.dev](https://wiroxa.dev)** and **[Shivvx.in]
 
 By contributing to NMLL Studio Web, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
-Copyright (c) 2026 **Wiroxa.dev** & **Shivvx.in**. All rights reserved.
+Copyright (c) 2026 **Wiroxa.dev**, **Shivvx.in** & **ScientistKalash**. All rights reserved.
