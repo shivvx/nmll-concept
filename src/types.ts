@@ -12,6 +12,7 @@ export type WorkspaceTab =
   | "deployment"
   | "assistant"
   | "marketplace"
+  | "snapshots"
   | "settings";
 
 export interface FileItem {

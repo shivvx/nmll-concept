@@ -18,6 +18,7 @@ import {
   Sparkles,
   ShoppingBag,
   Terminal,
+  Camera,
 } from "lucide-react";
 import { WorkspaceTab } from "../types";
 
@@ -45,6 +46,7 @@ export default function Sidebar({
     { id: "experiments" as const, label: "Experiment Matrix", icon: TrendingUp, category: "Engine" },
     { id: "intelligence" as const, label: "Intelligence Optimizer", icon: Sparkles, category: "Diagnostic" },
     { id: "explainability" as const, label: "Explainability Suite", icon: Eye, category: "Diagnostic" },
+    { id: "snapshots" as const, label: "4K UI Snapshots", icon: Camera, category: "Diagnostic" },
     { id: "deployment" as const, label: "Dynamic Deploy", icon: ShieldCheck, category: "Ops" },
     { id: "assistant" as const, label: "AI Copilots", icon: HelpCircle, category: "Ops" },
     { id: "marketplace" as const, label: "Wiroxa Marketplace", icon: ShoppingBag, category: "Addons" },

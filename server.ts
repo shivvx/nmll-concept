@@ -281,6 +281,19 @@ Return the assessment STRICTLY as a JSON object matching the following structure
   }
 });
 
+// Serve static public assets and snapshot folder
+app.use("/public", express.static(path.join(process.cwd(), "public")));
+app.use("/snapshots", express.static(path.join(process.cwd(), "public/snapshots")));
+
+app.get("/api/download-snapshots-zip", (req, res) => {
+  const zipFile = path.join(process.cwd(), "public", "snapshots", "NMLL_Studio_4K_Snapshots.zip");
+  if (fs.existsSync && fs.existsSync(zipFile)) {
+    res.download(zipFile, "NMLL_Studio_4K_Snapshots.zip");
+  } else {
+    res.status(404).json({ error: "Snapshots ZIP archive file not found" });
+  }
+});
+
 // ----------------- VITE & STATIC FILES -----------------
 
 async function startServer() {

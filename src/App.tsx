@@ -29,6 +29,7 @@ import ModelRegistry from "./components/ModelRegistry";
 import AIAssistant from "./components/AIAssistant";
 import TerminalPanel from "./components/TerminalPanel";
 import TrainingConsole from "./components/TrainingConsole";
+import SnapshotsGallery from "./components/SnapshotsGallery";
 
 // Import secondary view panels
 import {
@@ -258,6 +259,9 @@ export default function App() {
 
       case "marketplace":
         return <MarketplaceView />;
+
+      case "snapshots":
+        return <SnapshotsGallery logMessage={logMessage} onNavigateTab={setActiveTab} />;
 
       case "settings":
         return <SettingsView />;
