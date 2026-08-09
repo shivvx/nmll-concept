@@ -62,7 +62,7 @@
 
   <!-- Title Banner -->
   <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">Live Model Training Console</text>
-  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Real-Time Epoch Loss Convergence Curves & Hyperparameter Tuning Knobs</text>
+  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Real-Time Epoch Loss Convergence Curves &amp; Hyperparameter Tuning Knobs</text>
 
   <!-- Dynamic Content Graphics -->
   

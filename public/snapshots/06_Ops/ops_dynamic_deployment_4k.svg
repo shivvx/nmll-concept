@@ -62,7 +62,7 @@
 
   <!-- Title Banner -->
   <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">Dynamic MLOps Deployment Target Selector</text>
-  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">FastAPI Docker Microservice Packaging & ONNX Runtime Export</text>
+  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">FastAPI Docker Microservice Packaging &amp; ONNX Runtime Export</text>
 
   <!-- Dynamic Content Graphics -->
   

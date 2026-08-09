@@ -62,7 +62,7 @@
 
   <!-- Title Banner -->
   <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">Core Home Base Dashboard</text>
-  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Neura Machine Learning Core - System Memory Q&A & Vector Search Metrics</text>
+  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Neura Machine Learning Core - System Memory Q&amp;A &amp; Vector Search Metrics</text>
 
   <!-- Dynamic Content Graphics -->
   
@@ -95,7 +95,7 @@
       <!-- Main Chart Container -->
       <g transform="translate(420, 580)">
         <rect width="2420" height="1200" rx="16" fill="#121216" stroke="#27272a" stroke-width="2" />
-        <text x="50" y="80" fill="#ffffff" font-size="28" font-weight="800">Vector Lineage & Memory Query Activity (24h)</text>
+        <text x="50" y="80" fill="#ffffff" font-size="28" font-weight="800">Vector Lineage &amp; Memory Query Activity (24h)</text>
         <path d="M 100 1000 Q 500 400 900 700 T 1700 300 T 2300 500" fill="none" stroke="#f59e0b" stroke-width="8" filter="url(#glow)" />
         <path d="M 100 1000 Q 500 600 900 850 T 1700 500 T 2300 750" fill="none" stroke="#10b981" stroke-width="6" stroke-dasharray="12 12" />
       </g>

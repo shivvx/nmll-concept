@@ -45,7 +45,7 @@
 
   <!-- Active Tab Highlight -->
   <rect x="20" y="200" width="280" height="60" rx="10" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-width="2" />
-  <text x="50" y="238" fill="#fbbf24" font-weight="800" font-size="20">▶ Wiroxa Marketplace & Extensions Catalog</text>
+  <text x="50" y="238" fill="#fbbf24" font-weight="800" font-size="20">▶ Wiroxa Marketplace &amp; Extensions Catalog</text>
 
   <!-- Secondary Menu Items -->
   <text x="50" y="310" fill="#9ca3af" font-size="18">📊 Dataset Profiler</text>
@@ -61,8 +61,8 @@
   <rect x="360" y="160" width="3420" height="1940" rx="16" fill="#0e0e11" stroke="#26262e" stroke-width="2" />
 
   <!-- Title Banner -->
-  <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">Wiroxa Marketplace & Extensions Catalog</text>
-  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Pre-Trained Backbone Templates & Tokenizer Packages</text>
+  <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">Wiroxa Marketplace &amp; Extensions Catalog</text>
+  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Pre-Trained Backbone Templates &amp; Tokenizer Packages</text>
 
   <!-- Dynamic Content Graphics -->
   

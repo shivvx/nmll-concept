@@ -62,7 +62,7 @@
 
   <!-- Title Banner -->
   <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">Multi-Persona AI Copilots Consultation Suite</text>
-  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Lead Copilot, EDA Scientist, MLOps Architect, Research Assistant & Analyst</text>
+  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Lead Copilot, EDA Scientist, MLOps Architect, Research Assistant &amp; Analyst</text>
 
   <!-- Dynamic Content Graphics -->
   

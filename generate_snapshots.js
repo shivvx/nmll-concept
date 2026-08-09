@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import JSZip from 'jszip';
+import { Resvg } from '@resvg/resvg-js';
 
 const rootDir = process.cwd();
 const snapshotsBase = path.join(rootDir, 'public', 'snapshots');
@@ -24,6 +25,11 @@ categories.forEach(cat => {
 });
 
 function create4KSVG(title, subtitle, badgeText, contentBlocks) {
+  const safeTitle = (title || '').replace(/&/g, '&amp;');
+  const safeSubtitle = (subtitle || '').replace(/&/g, '&amp;');
+  const safeBadge = (badgeText || '').replace(/&/g, '&amp;');
+  const safeBlocks = (contentBlocks || '').replace(/&/g, '&amp;');
+
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160" width="3840" height="2160" style="background:#0a0a0c; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -55,7 +61,7 @@ function create4KSVG(title, subtitle, badgeText, contentBlocks) {
   <rect x="60" y="30" width="60" height="60" rx="12" fill="url(#goldGrad)" filter="url(#glow)" />
   <text x="80" y="72" fill="#000000" font-weight="900" font-size="36" font-family="monospace">N</text>
   <text x="145" y="62" fill="#ffffff" font-weight="800" font-size="34" letter-spacing="1">NEURA ML CORE</text>
-  <text x="145" y="90" fill="#f59e0b" font-weight="700" font-size="18" font-family="monospace">STUDIO 4K UHD ENVIRONMENT • ${badgeText}</text>
+  <text x="145" y="90" fill="#f59e0b" font-weight="700" font-size="18" font-family="monospace">STUDIO 4K UHD ENVIRONMENT • ${safeBadge}</text>
 
   <!-- Status Badges Right -->
   <rect x="3300" y="38" width="220" height="44" rx="8" fill="#121214" stroke="#f59e0b" stroke-width="2" />
@@ -71,7 +77,7 @@ function create4KSVG(title, subtitle, badgeText, contentBlocks) {
 
   <!-- Active Tab Highlight -->
   <rect x="20" y="200" width="280" height="60" rx="10" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-width="2" />
-  <text x="50" y="238" fill="#fbbf24" font-weight="800" font-size="20">▶ ${title}</text>
+  <text x="50" y="238" fill="#fbbf24" font-weight="800" font-size="20">▶ ${safeTitle}</text>
 
   <!-- Secondary Menu Items -->
   <text x="50" y="310" fill="#9ca3af" font-size="18">📊 Dataset Profiler</text>
@@ -87,11 +93,11 @@ function create4KSVG(title, subtitle, badgeText, contentBlocks) {
   <rect x="360" y="160" width="3420" height="1940" rx="16" fill="#0e0e11" stroke="#26262e" stroke-width="2" />
 
   <!-- Title Banner -->
-  <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">${title}</text>
-  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">${subtitle}</text>
+  <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">${safeTitle}</text>
+  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">${safeSubtitle}</text>
 
   <!-- Dynamic Content Graphics -->
-  ${contentBlocks}
+  ${safeBlocks}
 
   <!-- Watermark Stamp -->
   <rect x="3200" y="2020" width="550" height="60" rx="8" fill="#050507" stroke="#f59e0b" stroke-width="1.5" />
@@ -488,15 +494,24 @@ snapshotFiles.forEach(fileObj => {
   const fullPath = path.join(snapshotsBase, fileObj.path);
   const svgContent = create4KSVG(fileObj.title, fileObj.sub, fileObj.badge, fileObj.blocks);
   fs.writeFileSync(fullPath, svgContent, 'utf8');
-  console.log(`Created 4K SVG: ${fileObj.path}`);
 
-  // Also create corresponding .png named reference file or SVG alias
+  // Render REAL binary PNG buffer using Resvg
+  const resvg = new Resvg(svgContent, {
+    fitTo: {
+      mode: 'width',
+      value: 1920,
+    },
+  });
+  const pngData = resvg.render();
+  const pngBuffer = pngData.asPng();
+
   const pngPath = fullPath.replace(/\.svg$/, '.png');
-  fs.writeFileSync(pngPath, svgContent, 'utf8');
+  fs.writeFileSync(pngPath, pngBuffer);
+  console.log(`Generated 4K SVG & Real PNG: ${fileObj.path}`);
 
   // Add to Zip
   zip.file(fileObj.path, svgContent);
-  zip.file(fileObj.path.replace(/\.svg$/, '.png'), svgContent);
+  zip.file(fileObj.path.replace(/\.svg$/, '.png'), pngBuffer);
 });
 
 // Also add metadata.json to zip
