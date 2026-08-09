@@ -155,12 +155,37 @@ export default function Sidebar({
 
       {/* Sidebar Footer */}
       {!collapsed && (
-        <div className="p-3 border-t border-[#1a1a1e] bg-[#050507] text-[11px] font-mono flex items-center justify-between">
-          <div className="flex items-center gap-1.5">
-            <span className="w-2 h-2 rounded-full glow-beacon-emerald" />
-            <span className="text-emerald-400 font-bold ml-1">ONLINE(3000)</span>
+        <div className="p-3 border-t border-[#1a1a1e] bg-[#050507] text-[11px] font-mono flex flex-col gap-2">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-1.5">
+              <span className="w-2 h-2 rounded-full glow-beacon-emerald" />
+              <span className="text-emerald-400 font-bold ml-1">ONLINE(3000)</span>
+            </div>
+            <div className="text-neutral-600 font-bold">V1.4.0</div>
           </div>
-          <div className="text-neutral-600 font-bold">V1.4.0</div>
+
+          <div className="pt-2 border-t border-[#1a1a1e]/60 flex items-center justify-between text-[10px]">
+            <span className="text-neutral-500">Created by</span>
+            <div className="flex items-center gap-1.5 font-bold">
+              <a
+                href="https://wiroxa.dev"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-amber-400 hover:text-amber-300 transition-colors hover:underline"
+              >
+                Wiroxa.dev
+              </a>
+              <span className="text-neutral-600">&amp;</span>
+              <a
+                href="https://shivvx.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-emerald-400 hover:text-emerald-300 transition-colors hover:underline"
+              >
+                Shivvx.in
+              </a>
+            </div>
+          </div>
         </div>
       )}
     </div>

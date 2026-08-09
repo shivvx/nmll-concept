@@ -297,7 +297,15 @@ export default function App() {
         </div>
 
         {/* Right connectivity badges */}
-        <div className="flex items-center gap-4 text-xs font-mono">
+        <div className="flex items-center gap-3 text-xs font-mono">
+          {/* Platform Authors Credit Badge */}
+          <div className="hidden lg:flex items-center gap-1.5 px-2.5 py-1 rounded bg-[#121214] border border-[#212124] text-[11px]">
+            <span className="text-neutral-500">By</span>
+            <a href="https://wiroxa.dev" target="_blank" rel="noopener noreferrer" className="text-amber-400 font-bold hover:underline transition-colors">Wiroxa.dev</a>
+            <span className="text-neutral-600">&amp;</span>
+            <a href="https://shivvx.in" target="_blank" rel="noopener noreferrer" className="text-emerald-400 font-bold hover:underline transition-colors">Shivvx.in</a>
+          </div>
+
           <div className="flex items-center gap-1 text-amber-500 px-2.5 py-1 rounded bg-amber-500/5 border border-amber-500/10">
             <Cpu size={12} className="text-amber-500" />
             <span className="font-bold tracking-tight">CUDA A100: ONLINE</span>

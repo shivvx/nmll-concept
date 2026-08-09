@@ -122,24 +122,35 @@ export function HomeView({ logMessage }: LoggedProps) {
         </div>
 
         {/* Quick statistics checklist */}
-        <div className="bg-[#121214]/80 rounded border border-neutral-800 p-5">
-          <span className="text-xs uppercase tracking-wider font-mono font-bold text-neutral-300 block mb-3">Workspace Status Indicators</span>
-          <div className="space-y-4 text-xs font-sans">
-            <div className="flex justify-between items-center">
-              <span className="text-neutral-400">Configured Datasets</span>
-              <span className="font-bold text-neutral-200">2 Active</span>
+        <div className="bg-[#121214]/80 rounded border border-neutral-800 p-5 flex flex-col justify-between">
+          <div>
+            <span className="text-xs uppercase tracking-wider font-mono font-bold text-neutral-300 block mb-3">Workspace Status Indicators</span>
+            <div className="space-y-4 text-xs font-sans">
+              <div className="flex justify-between items-center">
+                <span className="text-neutral-400">Configured Datasets</span>
+                <span className="font-bold text-neutral-200">2 Active</span>
+              </div>
+              <div className="flex justify-between items-center">
+                <span className="text-neutral-400">Total Run Runs</span>
+                <span className="font-bold text-neutral-200">12 Evaluated</span>
+              </div>
+              <div className="flex justify-between items-center">
+                <span className="text-neutral-400">Leading Model Version</span>
+                <span className="font-mono text-emerald-400 font-bold">Ensemble_v2.1.0</span>
+              </div>
+              <div className="flex justify-between items-center">
+                <span className="text-neutral-400">Running CUDA environment</span>
+                <span className="font-mono text-amber-500 font-bold">AWS_A100_S1</span>
+              </div>
             </div>
-            <div className="flex justify-between items-center">
-              <span className="text-neutral-400">Total Run Runs</span>
-              <span className="font-bold text-neutral-200">12 Evaluated</span>
-            </div>
-            <div className="flex justify-between items-center">
-              <span className="text-neutral-400">Leading Model Version</span>
-              <span className="font-mono text-emerald-400 font-bold">Ensemble_v2.1.0</span>
-            </div>
-            <div className="flex justify-between items-center">
-              <span className="text-neutral-400">Running CUDA environment</span>
-              <span className="font-mono text-amber-500 font-bold">AWS_A100_S1</span>
+          </div>
+
+          <div className="mt-4 pt-3 border-t border-neutral-800/80 flex items-center justify-between text-xs font-mono">
+            <span className="text-neutral-500 text-[11px]">Platform Co-Creators</span>
+            <div className="flex items-center gap-1.5 font-bold text-[11px]">
+              <a href="https://wiroxa.dev" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">Wiroxa.dev</a>
+              <span className="text-neutral-600">&amp;</span>
+              <a href="https://shivvx.in" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:underline">Shivvx.in</a>
             </div>
           </div>
         </div>
