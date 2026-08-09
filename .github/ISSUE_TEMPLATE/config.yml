@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 GitHub Discussions & Community
+    url: https://github.com/shivvx/nmll-concept/discussions
+    about: Please ask questions and discuss ideas in GitHub Discussions.
+  - name: 💖 Sponsor Development via Razorpay
+    url: https://razorpay.me/@wiroxa
+    about: Support open-source AI development.
