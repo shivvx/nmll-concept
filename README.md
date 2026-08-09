@@ -3,6 +3,8 @@
 # ⚡ NMLL Studio Web
 ### Next-Generation AI-Native Machine Learning & Deep Learning Workspace
 
+[![Live Web App](https://img.shields.io/badge/🚀%20Live%20App-nmll--concept.vercel.app-10b981?style=for-the-badge&logo=vercel)](https://nmll-concept.vercel.app)
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshivvx%2Fnmll-concept)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Developed by Wiroxa.dev](https://img.shields.io/badge/Developed%20By-Wiroxa.dev-6366f1.svg)](https://wiroxa.dev)
@@ -14,6 +16,8 @@
 
 *An open-source, desktop-grade, web-native ML studio unifying code editing, Jupyter notebook compilation, visual DAG pipeline design, live model training metrics, explainability dashboards, 4K UI snapshot gallery, and multi-agent AI assistants.*
 
+🌐 **Live Application**: [https://nmll-concept.vercel.app](https://nmll-concept.vercel.app)
+
 [Overview](#-overview) • [Features](#-core-capabilities) • [Quick Start](#-quick-start) • [Vercel Deploy](#-deploying-on-vercel) • [License](#-license--copyright)
 
 </div>
@@ -23,6 +27,8 @@
 ## 🌟 Overview
 
 **NMLL Studio** (*Neura Machine Learning Lab*) is an enterprise-grade AI-native web platform designed for machine learning engineers, data scientists, and AI researchers. It provides a complete, unified environment to build, train, visualize, and deploy machine learning models—right from your browser.
+
+🌐 **Production Deployment**: Access the live workspace at **[https://nmll-concept.vercel.app](https://nmll-concept.vercel.app)**.
 
 Engineered with high-performance modern web technologies (**React 19, TypeScript, Vite, TailwindCSS, Express, Recharts, Motion**), NMLL Studio removes friction between prototyping code, designing complex DAG pipelines, tracking metrics, and auditing model explainability.
 
@@ -49,7 +55,7 @@ Engineered with high-performance modern web technologies (**React 19, TypeScript
 - **Frontend**: React 19, TypeScript 5.8, Vite 6.2, TailwindCSS v4, Lucide Icons, Framer Motion, Recharts
 - **Backend API**: Node.js, Express, ESBuild, TSX, JSZip
 - **AI Engine**: `@google/genai` (Gemini API Integration)
-- **Deployment**: Vercel Native Serverless & Static Build Ready, Docker Container Ready
+- **Deployment**: Vercel Native Serverless & Static Build Ready ([https://nmll-concept.vercel.app](https://nmll-concept.vercel.app)), Docker Container Ready
 
 ---
 
@@ -79,7 +85,7 @@ cp .env.example .env.local
 Edit `.env.local`:
 ```env
 GEMINI_API_KEY="your_actual_gemini_api_key_here"
-APP_URL="http://localhost:3000"
+APP_URL="https://nmll-concept.vercel.app"
 PORT=3000
 ```
 
