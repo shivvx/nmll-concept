@@ -1,5 +1,6 @@
 import express from "express";
 import path from "path";
+import fs from "fs";
 import { createServer as createViteServer } from "vite";
 import { GoogleGenAI, Type } from "@google/genai";
 import dotenv from "dotenv";
@@ -9,7 +10,7 @@ dotenv.config();
 const app = express();
 app.use(express.json({ limit: '10mb' }));
 
-const PORT = 3000;
+const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 3000;
 
 // Lazy initialization of Gemini client to prevent crashes if key is omitted
 let aiClient: GoogleGenAI | null = null;
@@ -17,7 +18,7 @@ function getGeminiClient(): GoogleGenAI {
   if (!aiClient) {
     const apiKey = process.env.GEMINI_API_KEY;
     if (!apiKey) {
-      throw new Error("GEMINI_API_KEY is not defined. Please add it via the Settings > Secrets configuration panel.");
+      throw new Error("GEMINI_API_KEY is not defined. Please add it to your environment variables or .env.local.");
     }
     aiClient = new GoogleGenAI({
       apiKey: apiKey,
@@ -33,6 +34,19 @@ function getGeminiClient(): GoogleGenAI {
 
 // ----------------- API ROUTES -----------------
 
+// Serve static public assets and snapshot folder
+app.use("/public", express.static(path.join(process.cwd(), "public")));
+app.use("/snapshots", express.static(path.join(process.cwd(), "public/snapshots")));
+
+app.get("/api/download-snapshots-zip", (req, res) => {
+  const zipFile = path.join(process.cwd(), "public", "snapshots", "NMLL_Studio_4K_Snapshots.zip");
+  if (fs.existsSync(zipFile)) {
+    res.download(zipFile, "NMLL_Studio_4K_Snapshots.zip");
+  } else {
+    res.status(404).json({ error: "Snapshots ZIP archive file not found" });
+  }
+});
+
 // 1. Python Simulation Runner
 app.post("/api/execute-python", (req, res) => {
   const { code, state = {} } = req.body;
@@ -41,7 +55,6 @@ app.post("/api/execute-python", (req, res) => {
   }
 
   // Highly robust Python engine parser simulator to execute common code snippets
-  // e.g., print statement, import numpy, model.fit, pandas calculations, etc.
   const stdout: string[] = [];
   const updatedState = { ...state };
   let error: string | null = null;
@@ -62,7 +75,6 @@ app.post("/api/execute-python", (req, res) => {
           if (expression.startsWith('"') || expression.startsWith("'")) {
             stdout.push(expression.slice(1, -1));
           } else {
-            // Check in variable states
             stdout.push(updatedState[expression] !== undefined ? String(updatedState[expression]) : `NameError: name '${expression}' is not defined`);
           }
         }
@@ -303,4 +315,9 @@ async function startServer() {
   });
 }
 
-startServer();
+if (process.env.VERCEL !== "1") {
+  startServer();
+}
+
+export default app;
+

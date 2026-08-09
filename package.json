@@ -1,6 +1,6 @@
 {
   "name": "nmll-studio-web",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "AI-native desktop-grade workspace for professional machine learning & deep learning. Created by Wiroxa.dev & Shivvx.in.",
   "author": "Wiroxa.dev & Shivvx.in",
   "license": "MIT",
@@ -14,6 +14,7 @@
     "scikit-learn",
     "pipeline-designer",
     "explainable-ai",
+    "snapshots-gallery",
     "react19",
     "typescript",
     "vite",
@@ -24,6 +25,7 @@
   "scripts": {
     "dev": "tsx server.ts",
     "build": "vite build && esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
+    "vercel-build": "vite build && esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
     "start": "node dist/server.cjs",
     "clean": "rm -rf dist dist-server",
     "lint": "tsx -e 'console.log(\"Lint checks passed\")'"
@@ -34,6 +36,7 @@
     "@vitejs/plugin-react": "^5.0.4",
     "dotenv": "^17.2.3",
     "express": "^4.21.2",
+    "jszip": "^3.10.1",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
     "react": "^19.0.1",
@@ -48,7 +51,6 @@
     "esbuild": "^0.25.0",
     "tailwindcss": "^4.1.14",
     "tsx": "^4.21.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.3"
+    "typescript": "~5.8.2"
   }
 }

@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160" width="3840" height="2160" style="background:#0a0a0c; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0c0e" />
+      <stop offset="50%" stop-color="#050507" />
+      <stop offset="100%" stop-color="#121216" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1c1c22" stroke-width="1.5" opacity="0.6"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="3840" height="2160" fill="url(#bgGrad)" />
+  <rect width="3840" height="2160" fill="url(#grid)" />
+
+  <!-- Top App Navigation Header -->
+  <rect x="0" y="0" width="3840" height="120" fill="#050507" stroke="#1a1a20" stroke-width="2" />
+  
+  <!-- Logo & Title -->
+  <rect x="60" y="30" width="60" height="60" rx="12" fill="url(#goldGrad)" filter="url(#glow)" />
+  <text x="80" y="72" fill="#000000" font-weight="900" font-size="36" font-family="monospace">N</text>
+  <text x="145" y="62" fill="#ffffff" font-weight="800" font-size="34" letter-spacing="1">NEURA ML CORE</text>
+  <text x="145" y="90" fill="#f59e0b" font-weight="700" font-size="18" font-family="monospace">STUDIO 4K UHD ENVIRONMENT • CATEGORY: 03_REGISTRY</text>
+
+  <!-- Status Badges Right -->
+  <rect x="3300" y="38" width="220" height="44" rx="8" fill="#121214" stroke="#f59e0b" stroke-width="2" />
+  <circle cx="3330" cy="60" r="8" fill="#10b981" />
+  <text x="3350" y="66" fill="#f59e0b" font-weight="700" font-size="18" font-family="monospace">3840x2160 UHD</text>
+
+  <rect x="3540" y="38" width="240" height="44" rx="8" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="2" />
+  <text x="3565" y="66" fill="#34d399" font-weight="700" font-size="18" font-family="monospace">CUDA CLUSTER: ACTIVE</text>
+
+  <!-- Sidebar Column Mock -->
+  <rect x="0" y="120" width="320" height="2040" fill="#08080a" stroke="#1c1c22" stroke-width="2" />
+  <text x="40" y="170" fill="#6b7280" font-weight="700" font-size="16" font-family="monospace">CATEGORIES MENU</text>
+
+  <!-- Active Tab Highlight -->
+  <rect x="20" y="200" width="280" height="60" rx="10" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-width="2" />
+  <text x="50" y="238" fill="#fbbf24" font-weight="800" font-size="20">▶ Enterprise Model Registry & Tester</text>
+
+  <!-- Secondary Menu Items -->
+  <text x="50" y="310" fill="#9ca3af" font-size="18">📊 Dataset Profiler</text>
+  <text x="50" y="380" fill="#9ca3af" font-size="18">📓 Jupyter Notebooks</text>
+  <text x="50" y="450" fill="#9ca3af" font-size="18">⚡ Visual ML Graph</text>
+  <text x="50" y="520" fill="#9ca3af" font-size="18">🧠 Model Registry</text>
+  <text x="50" y="590" fill="#9ca3af" font-size="18">🔥 Training Console</text>
+  <text x="50" y="660" fill="#9ca3af" font-size="18">🎯 SHAP Explainability</text>
+  <text x="50" y="730" fill="#9ca3af" font-size="18">🚀 Dynamic Deployment</text>
+  <text x="50" y="800" fill="#9ca3af" font-size="18">🤖 Multi-Agent Copilot</text>
+
+  <!-- Main Canvas Content Area -->
+  <rect x="360" y="160" width="3420" height="1940" rx="16" fill="#0e0e11" stroke="#26262e" stroke-width="2" />
+
+  <!-- Title Banner -->
+  <text x="420" y="230" fill="#ffffff" font-weight="900" font-size="44" letter-spacing="-0.5">Enterprise Model Registry & Tester</text>
+  <text x="420" y="275" fill="#a1a1aa" font-weight="500" font-size="22">Model Version Lineage, Accuracy Auditing & Live Patient Risk Predictor</text>
+
+  <!-- Dynamic Content Graphics -->
+  
+      <g transform="translate(420, 340)">
+        <rect width="2200" height="1440" rx="16" fill="#121216" stroke="#27272a" stroke-width="2" />
+        <text x="50" y="80" fill="#ffffff" font-size="28" font-weight="800">REGISTERED MODEL PACKAGES</text>
+        
+        <rect x="50" y="140" width="2100" height="180" rx="10" fill="#1a1a20" stroke="#10b981" stroke-width="2" />
+        <text x="80" y="210" fill="#f59e0b" font-size="26" font-weight="900" font-family="monospace">Ensemble_RandomForest_HeartRate</text>
+        <text x="80" y="260" fill="#10b981" font-size="20" font-weight="700">v2.1.0-prod | Accuracy: 96.54% | Loss: 0.1582 | Framework: Scikit-Learn</text>
+
+        <rect x="50" y="350" width="2100" height="180" rx="10" fill="#1a1a20" stroke="#f59e0b" stroke-width="2" />
+        <text x="80" y="420" fill="#f59e0b" font-size="26" font-weight="900" font-family="monospace">XGBoost_Gradient_Booster</text>
+        <text x="80" y="470" fill="#f59e0b" font-size="20" font-weight="700">v1.4.2-candidate | Accuracy: 94.12% | Loss: 0.2104 | Framework: XGBoost</text>
+      </g>
+
+      <!-- Predictor Tester -->
+      <g transform="translate(2660, 340)">
+        <rect width="1080" height="1440" rx="16" fill="#121216" stroke="#f59e0b" stroke-width="2" />
+        <text x="50" y="80" fill="#f59e0b" font-size="28" font-weight="800">PATIENT RISK TESTER</text>
+        <text x="50" y="160" fill="#ffffff" font-size="22">Age: 52 yrs</text>
+        <text x="50" y="240" fill="#ffffff" font-size="22">Systolic BP: 135 mmHg</text>
+        <text x="50" y="320" fill="#ffffff" font-size="22">Serum Cholesterol: 255 mg/dL</text>
+        
+        <rect x="50" y="420" width="980" height="160" rx="12" fill="#ef4444" fill-opacity="0.2" stroke="#ef4444" stroke-width="2" />
+        <text x="90" y="490" fill="#f87171" font-size="36" font-weight="900" font-family="monospace">RISK PROBABILITY: 84.52%</text>
+        <text x="90" y="540" fill="#f87171" font-size="20">🚨 Critical cardiovascular probability flag.</text>
+      </g>
+    
+
+  <!-- Watermark Stamp -->
+  <rect x="3200" y="2020" width="550" height="60" rx="8" fill="#050507" stroke="#f59e0b" stroke-width="1.5" />
+  <text x="3220" y="2058" fill="#f59e0b" font-weight="800" font-size="18" font-family="monospace">NEURA ML STUDIO 4K SNAPSHOT • VERIFIED</text>
+</svg>

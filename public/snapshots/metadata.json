@@ -1,0 +1,62 @@
+{
+  "folder": "/public/snapshots",
+  "resolution": "3840x2160",
+  "categories": [
+    {
+      "name": "01_Core",
+      "category": "Core",
+      "files": [
+        "core_home_base_dashboard_4k.png",
+        "core_projects_workspace_4k.png"
+      ]
+    },
+    {
+      "name": "02_ML_Pipeline",
+      "category": "ML Pipeline",
+      "files": [
+        "pipeline_dataset_wrangler_4k.png",
+        "pipeline_jupyter_notebooks_4k.png",
+        "pipeline_visual_graph_4k.png"
+      ]
+    },
+    {
+      "name": "03_Registry",
+      "category": "Registry",
+      "files": [
+        "registry_model_packages_4k.png"
+      ]
+    },
+    {
+      "name": "04_Engine",
+      "category": "Engine",
+      "files": [
+        "engine_live_train_console_4k.png",
+        "engine_experiment_matrix_4k.png"
+      ]
+    },
+    {
+      "name": "05_Diagnostic",
+      "category": "Diagnostic",
+      "files": [
+        "diagnostic_intelligence_optimizer_4k.png",
+        "diagnostic_explainability_suite_4k.png"
+      ]
+    },
+    {
+      "name": "06_Ops",
+      "category": "Ops",
+      "files": [
+        "ops_dynamic_deployment_4k.png",
+        "ops_ai_copilots_4k.png"
+      ]
+    },
+    {
+      "name": "07_Addons",
+      "category": "Addons",
+      "files": [
+        "addons_wiroxa_marketplace_4k.png",
+        "addons_system_settings_4k.png"
+      ]
+    }
+  ]
+}

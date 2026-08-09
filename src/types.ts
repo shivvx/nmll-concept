@@ -9,6 +9,7 @@ export type WorkspaceTab =
   | "experiments"
   | "intelligence"
   | "explainability"
+  | "snapshots"
   | "deployment"
   | "assistant"
   | "marketplace"
