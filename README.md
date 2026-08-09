@@ -4,6 +4,7 @@
 ### Next-Generation AI-Native Machine Learning & Deep Learning Workspace
 
 [![Live Web App](https://img.shields.io/badge/🚀%20Live%20App-nmll--concept.vercel.app-10b981?style=for-the-badge&logo=vercel)](https://nmll-concept.vercel.app)
+[![Sponsor Project](https://img.shields.io/badge/💖%20Sponsor-GitHub%20Sponsors-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/shivvx)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshivvx%2Fnmll-concept)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -19,7 +20,7 @@
 
 🌐 **Live Application**: [https://nmll-concept.vercel.app](https://nmll-concept.vercel.app)
 
-[Overview](#-overview) • [Features](#-core-capabilities) • [Quick Start](#-quick-start) • [Contributors](#-contributors--team) • [Vercel Deploy](#-deploying-on-vercel) • [License](#-license--copyright)
+[Overview](#-overview) • [Sponsor Tiers](#-sponsor--support-nmll-studio) • [Features](#-core-capabilities) • [Quick Start](#-quick-start) • [Contributors](#-contributors--team) • [Vercel Deploy](#-deploying-on-vercel) • [License](#-license--copyright)
 
 </div>
 
@@ -32,6 +33,19 @@
 🌐 **Production Deployment**: Access the live workspace at **[https://nmll-concept.vercel.app](https://nmll-concept.vercel.app)**.
 
 Engineered with high-performance modern web technologies (**React 19, TypeScript, Vite, TailwindCSS, Express, Recharts, Motion**), NMLL Studio removes friction between prototyping code, designing complex DAG pipelines, tracking metrics, and auditing model explainability.
+
+---
+
+## 💖 Sponsor & Support NMLL Studio
+
+If you find NMLL Studio helpful for your research or workflow, please consider sponsoring our open-source development! Your support helps us maintain servers, build new ML nodes, and keep the platform free for everyone.
+
+| Sponsor Tier | Amount | Perks & Community Recognition | Action |
+| :--- | :---: | :--- | :---: |
+| ☕ **Supporter** | **$1** | Public Supporter Badge & GitHub Recognition | [💖 Sponsor $1](https://github.com/sponsors/shivvx) |
+| 🍕 **Developer Fuel** | **$5** | Name / Logo in README + Priority Issue Review | [💖 Sponsor $5](https://github.com/sponsors/shivvx) |
+| 🚀 **Pro Backer** | **$10** | Featured Backer Badge + Early Access to AI Nodes | [💖 Sponsor $10](https://github.com/sponsors/shivvx) |
+| 👑 **Enterprise Sponsor** | **$100** | Prominent Top-Level Logo Placement + Dedicated Support Channel | [💖 Sponsor $100](https://github.com/sponsors/shivvx) |
 
 ---
 

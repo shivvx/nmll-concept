@@ -17,6 +17,8 @@ import {
   Database,
   Search,
   MessageCircle,
+  Heart,
+  ExternalLink,
 } from "lucide-react";
 
 import Sidebar from "./components/Sidebar";
@@ -49,6 +51,7 @@ import { staticProjectFiles } from "./data/productionArch";
 export default function App() {
   const [activeTab, setActiveTab] = useState<WorkspaceTab>("home");
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
+  const [showSponsorModal, setShowSponsorModal] = useState(false);
   
   // Files database state
   const [files, setFiles] = useState<FileItem[]>(staticProjectFiles);
@@ -298,6 +301,16 @@ export default function App() {
 
         {/* Right connectivity badges */}
         <div className="flex items-center gap-3 text-xs font-mono">
+          {/* Sponsor Button */}
+          <button
+            onClick={() => setShowSponsorModal(true)}
+            className="flex items-center gap-1.5 px-3 py-1 rounded bg-rose-500/10 hover:bg-rose-500/20 border border-rose-500/30 text-rose-400 font-bold transition-all cursor-pointer shadow-sm"
+            title="Sponsor NMLL Studio Web ($1 - $100)"
+          >
+            <Heart size={13} className="fill-rose-500 text-rose-500 animate-pulse" />
+            <span>Sponsor</span>
+          </button>
+
           {/* Platform Authors Credit Badge */}
           <div className="hidden xl:flex items-center gap-1.5 px-2.5 py-1 rounded bg-[#121214] border border-[#212124] text-[11px]">
             <span className="text-neutral-500">By</span>
@@ -408,6 +421,146 @@ export default function App() {
           />
         </div>
       </div>
+
+      {/* Interactive Sponsor Modal ($1, $5, $10, $100) */}
+      {showSponsorModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm p-4 animate-in fade-in duration-200">
+          <div className="bg-[#0c0c0e] border border-neutral-800 rounded-xl max-w-2xl w-full p-6 shadow-2xl relative overflow-hidden">
+            {/* Background Glow */}
+            <div className="absolute -top-24 -right-24 w-60 h-60 bg-rose-500/10 rounded-full blur-3xl pointer-events-none" />
+            
+            <div className="flex items-center justify-between pb-4 border-b border-neutral-800/80 mb-5">
+              <div className="flex items-center gap-2.5">
+                <div className="p-2 rounded-lg bg-rose-500/10 border border-rose-500/20 text-rose-400">
+                  <Heart size={20} className="fill-rose-500 text-rose-500 animate-pulse" />
+                </div>
+                <div>
+                  <h3 className="text-base font-bold text-neutral-100 flex items-center gap-2">
+                    Sponsor NMLL Studio Web
+                  </h3>
+                  <p className="text-xs text-neutral-400">
+                    Support open-source AI development. Fuel new ML features &amp; server infrastructure.
+                  </p>
+                </div>
+              </div>
+
+              <button
+                onClick={() => setShowSponsorModal(false)}
+                className="text-neutral-500 hover:text-neutral-200 text-sm font-mono p-1.5 rounded hover:bg-neutral-800 transition-colors"
+              >
+                ✕
+              </button>
+            </div>
+
+            {/* Sponsor Tiers Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+              {/* $1 Tier */}
+              <div className="bg-[#121214] border border-neutral-800/80 hover:border-amber-500/50 rounded-lg p-4 transition-all flex flex-col justify-between group">
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-xs font-bold text-amber-400 uppercase tracking-wider font-mono">☕ Supporter</span>
+                    <span className="text-lg font-black text-white font-mono">$1 <span className="text-xs text-neutral-500 font-normal">/ mo</span></span>
+                  </div>
+                  <p className="text-xs text-neutral-400 mb-3">
+                    Public Supporter Badge &amp; GitHub profile recognition in community docs.
+                  </p>
+                </div>
+                <a
+                  href="https://github.com/sponsors/shivvx"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full py-2 rounded bg-amber-500/10 group-hover:bg-amber-500 text-amber-400 group-hover:text-black font-bold text-xs flex items-center justify-center gap-1.5 transition-all"
+                >
+                  <span>Sponsor $1</span>
+                  <ExternalLink size={12} />
+                </a>
+              </div>
+
+              {/* $5 Tier */}
+              <div className="bg-[#121214] border border-neutral-800/80 hover:border-emerald-500/50 rounded-lg p-4 transition-all flex flex-col justify-between group">
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-xs font-bold text-emerald-400 uppercase tracking-wider font-mono">🍕 Developer Fuel</span>
+                    <span className="text-lg font-black text-white font-mono">$5 <span className="text-xs text-neutral-500 font-normal">/ mo</span></span>
+                  </div>
+                  <p className="text-xs text-neutral-400 mb-3">
+                    Name / Logo listed in README + Priority review on feature requests &amp; issues.
+                  </p>
+                </div>
+                <a
+                  href="https://github.com/sponsors/shivvx"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full py-2 rounded bg-emerald-500/10 group-hover:bg-emerald-500 text-emerald-400 group-hover:text-black font-bold text-xs flex items-center justify-center gap-1.5 transition-all"
+                >
+                  <span>Sponsor $5</span>
+                  <ExternalLink size={12} />
+                </a>
+              </div>
+
+              {/* $10 Tier */}
+              <div className="bg-[#121214] border border-neutral-800/80 hover:border-sky-500/50 rounded-lg p-4 transition-all flex flex-col justify-between group">
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-xs font-bold text-sky-400 uppercase tracking-wider font-mono">🚀 Pro Backer</span>
+                    <span className="text-lg font-black text-white font-mono">$10 <span className="text-xs text-neutral-500 font-normal">/ mo</span></span>
+                  </div>
+                  <p className="text-xs text-neutral-400 mb-3">
+                    Featured Backer Credit + Early Access to experimental AI Copilot node templates.
+                  </p>
+                </div>
+                <a
+                  href="https://github.com/sponsors/shivvx"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full py-2 rounded bg-sky-500/10 group-hover:bg-sky-500 text-sky-400 group-hover:text-black font-bold text-xs flex items-center justify-center gap-1.5 transition-all"
+                >
+                  <span>Sponsor $10</span>
+                  <ExternalLink size={12} />
+                </a>
+              </div>
+
+              {/* $100 Tier */}
+              <div className="bg-[#121214] border border-rose-500/30 hover:border-rose-500 rounded-lg p-4 transition-all flex flex-col justify-between group relative overflow-hidden">
+                <div className="absolute top-0 right-0 bg-rose-500 text-black font-extrabold text-[9px] uppercase px-2 py-0.5 rounded-bl font-mono">
+                  VIP Sponsor
+                </div>
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-xs font-bold text-rose-400 uppercase tracking-wider font-mono">👑 Enterprise Sponsor</span>
+                    <span className="text-lg font-black text-white font-mono">$100 <span className="text-xs text-neutral-500 font-normal">/ mo</span></span>
+                  </div>
+                  <p className="text-xs text-neutral-400 mb-3">
+                    Prominent Top-Level Logo Placement on website header &amp; README + Dedicated Discord/Email support.
+                  </p>
+                </div>
+                <a
+                  href="https://github.com/sponsors/shivvx"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full py-2 rounded bg-rose-500 text-black font-bold text-xs flex items-center justify-center gap-1.5 hover:bg-rose-400 transition-all shadow-md shadow-rose-500/20"
+                >
+                  <span>Sponsor $100</span>
+                  <ExternalLink size={12} />
+                </a>
+              </div>
+            </div>
+
+            <div className="flex items-center justify-between pt-4 border-t border-neutral-800 text-xs text-neutral-500">
+              <span>Maintained by Wiroxa.dev, Shivvx.in &amp; ScientistKalash</span>
+              <a
+                href="https://github.com/shivvx/nmll-concept"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-neutral-400 hover:text-white flex items-center gap-1 transition-colors font-mono"
+              >
+                <span>View on GitHub</span>
+                <ExternalLink size={11} />
+              </a>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
